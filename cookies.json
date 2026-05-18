@@ -1,0 +1,23 @@
+{
+  "lastUpdated": "2024-02-05T20:00:00Z",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+  "cookies": {
+    "__cf_bm": "YYZ.2C6qYVYyH_CQsf9_QWCIj6fTTh.LENwzmnchmPA-1770242400-1.0.1.1-9z8Tgj3xczQYtHYH6Y_bGj6GAcqw3UXdS9iukI5gYcJ6o0M0p._SvL5L2DqoF6oOTojlgMsuLdNcWfCwMISKIQ",
+    "__cflb": "0H28v8PHzEYnH9CJmUazZ4XkAhKQdMT8gGq5oX43jQb",
+    "cf_clearance": "X.Y4VnM5QJF_fY69R967Te.PoyfqJGsU4lBZSVzCV7p-1770242400-1.2.1.1-zF5r7WmgP5pb.dgWqL1C_XsB4UYF2Qwo.rr4YaLprytVa5Bq1QfuuS997ION9zGGKJRMTt_ren_RcGQBnDaO3fx.xOEvGweolp4ZPpR29EZ6Zr1I_3aF3KDX_wpHmTj4yai3PwBQHWuU_eiCbPYVnUFJ59NeQoZg0rl9jHUAmz4LYzZO5ujd53Z_oRDnaoiP3_jYprlDzMpy_zF7pixan7iOpKb0IYbDeV5chgcAAO4",
+    "pelisgratishd_session": "eyJpdiI6IkluT2ZNUzNIUzA0RzZNNGtNcXI3WXc9PSIsInZhbHVlIjoiMVpUakFGYXBzWUQxYTJCL21Bb3dPOVMwcDZ1SDN1TGs4RzJJVnpvS3lHNDJVWXpsOGorVHZCWDU4Nm10YmdkdFpmelN5cnZSRnNpOUwyVS8vNVJUY0VVT3JYRDAzbGJUOGlMWnRjM2h2VG04K3F5K0hSa0c3UFFTU2lJcDZ2NTMiLCJtYWMiOiJlM2JmNGE4YjVhMGZiNGY3Y2QxMDZiYzBjYTVlNzIzZjhkNzhmM2MxNmZhNzYxYzlmYzgyNWNiMzQ1MTFmZWUzIiwidGFnIjoiIn0%3D"
+  },
+  "headers": {
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8",
+    "Accept-Language": "es-ES,es;q=0.9,en;q=0.8",
+    "Accept-Encoding": "gzip, deflate, br",
+    "DNT": "1",
+    "Connection": "keep-alive",
+    "Upgrade-Insecure-Requests": "1",
+    "Sec-Fetch-Dest": "document",
+    "Sec-Fetch-Mode": "navigate",
+    "Sec-Fetch-Site": "none",
+    "Sec-Fetch-User": "?1",
+    "Cache-Control": "max-age=0"
+  }
+}

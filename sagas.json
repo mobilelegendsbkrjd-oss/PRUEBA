@@ -1,0 +1,43 @@
+[
+  {
+    "title": "Harry Potter Universe",
+    "poster": "https://www.universalorlando.com/contentdata/uor/es/us/files/Images/gds/uor-wwohp-logo-3-kids-clouds-key-art-hero-b.jpg",
+    "description": "Saga completa de Harry Potter",
+    "author": "bkrjd",
+    "tags": ["Saga", "Magia"],
+    "movies": [
+      {
+        "name": "Harry Potter 1",
+        "url": "https://sololatino.net/pelicula/harry-potter-1-y-la-piedra-filosofal"
+      },
+      {
+        "name": "Harry Potter 2",
+        "url": "https://sololatino.net/pelicula/harry-potter-2-y-la-camara-secreta"
+      }
+      {
+        "name": "Harry Potter 3",
+        "url": "https://sololatino.net/pelicula/harry-potter-3-y-el-prisionero-de-azkaban"
+      }
+      {
+        "name": "Harry Potter 4",
+        "url": "https://sololatino.net/pelicula/harry-potter-4-y-el-caliz-de-fuego"
+      }
+      {
+        "name": "Harry Potter 5",
+        "url": "https://sololatino.net/pelicula/harry-potter-5-y-la-orden-del-fenix"
+      }
+      {
+        "name": "Harry Potter 6",
+        "url": "https://sololatino.net/pelicula/harry-potter-6-y-el-misterio-del-principe"
+      }
+      {
+        "name": "Harry Potter 7",
+        "url": "https://sololatino.net/pelicula/harry-potter-7-y-las-reliquias-de-la-muerte-1a-parte"
+      }
+      {
+        "name": "Harry Potter 8",
+        "url": "https://sololatino.net/pelicula/harry-potter-7-y-las-reliquias-de-la-muerte-parte-2"
+      }
+    ]
+  }
+]

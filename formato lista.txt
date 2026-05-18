@@ -1,0 +1,9 @@
+{
+    "title": "",
+    "url": "",
+    "poster": "",
+    "description": "Saga o colección completa",
+    "author": "bkrjd",
+    "likes": 0,
+    "tags": ["Saga", "Comunidad"]
+  },

@@ -1,0 +1,9 @@
+{
+  "iconUrl": "https://latanime.org/public/img/logito.png",
+  "name": "lat_cs_bkrjd",
+  "description": "Plugins latinos de bkrjd",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd/main/plugins.json"
+  ]
+}

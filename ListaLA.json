@@ -1,0 +1,200 @@
+[
+  {
+    "title": "🎬 Acción Latino",
+    "url": "https://latanime.org/animes?genero=accion&categoria=latino&p=",
+    "poster": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?auto=format&fit=crop&w=400&h=225&q=80",
+    "description": "Explosiones, peleas épicas y adrenalina pura en español latino",
+    "author": "Latanime",
+    "likes": 145,
+    "tags": ["Acción", "Latino", "Género"]
+  },
+  {
+    "title": "💖 Romance Latino",
+    "url": "https://latanime.org/animes?genero=romance&categoria=latino&p=",
+    "poster": "https://images.unsplash.com/photo-1518568814500-bf0f8d125f46?auto=format&fit=crop&w=400&h=225&q=80",
+    "description": "Historias de amor y pasión dobladas al español latino",
+    "author": "Latanime",
+    "likes": 98,
+    "tags": ["Romance", "Latino", "Género"]
+  },
+  {
+    "title": "😂 Comedia Latino",
+    "url": "https://latanime.org/animes?genero=comedia&categoria=latino&p=",
+    "poster": "https://images.unsplash.com/photo-1513836279014-a89f7a76ae86?auto=format&fit=crop&w=400&h=225&q=80",
+    "description": "Risas garantizadas con el mejor humor en español latino",
+    "author": "Latanime",
+    "likes": 167,
+    "tags": ["Comedia", "Latino", "Género"]
+  },
+  {
+    "title": "👻 Terror Latino",
+    "url": "https://latanime.org/animes?genero=terror&categoria=latino&p=",
+    "poster": "https://images.unsplash.com/photo-1509248961158-e54f6934749c?auto=format&fit=crop&w=400&h=225&q=80",
+    "description": "Susto y suspenso en su máxima expresión en español latino",
+    "author": "Latanime",
+    "likes": 76,
+    "tags": ["Terror", "Latino", "Género"]
+  },
+  {
+    "title": "🔍 Misterio Latino",
+    "url": "https://latanime.org/animes?genero=misterio&categoria=latino&p=",
+    "poster": "https://images.unsplash.com/photo-1483356256511-b48749959172?auto=format&fit=crop&w=400&h=225&q=80",
+    "description": "Intrigas y enigmas por resolver en español latino",
+    "author": "Latanime",
+    "likes": 89,
+    "tags": ["Misterio", "Latino", "Género"]
+  },
+  {
+    "title": "🏀 Deportes Latino",
+    "url": "https://latanime.org/animes?genero=deportes&categoria=latino&p=",
+    "poster": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?auto=format&fit=crop&w=400&h=225&q=80",
+    "description": "Competición y superación personal en español latino",
+    "author": "Latanime",
+    "likes": 112,
+    "tags": ["Deportes", "Latino", "Género"]
+  },
+  {
+    "title": "🎭 Drama Latino",
+    "url": "https://latanime.org/animes?genero=drama&categoria=latino&p=",
+    "poster": "https://images.unsplash.com/photo-1511497584788-876760111969?auto=format&fit=crop&w=400&h=225&q=80",
+    "description": "Historias emotivas y conmovedoras en español latino",
+    "author": "Latanime",
+    "likes": 103,
+    "tags": ["Drama", "Latino", "Género"]
+  },
+  {
+    "title": "🔮 Fantasía Latino",
+    "url": "https://latanime.org/animes?genero=fantasia&categoria=latino&p=",
+    "poster": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?auto=format&fit=crop&w=400&h=225&q=80",
+    "description": "Mundos mágicos y criaturas fantásticas en español latino",
+    "author": "Latanime",
+    "likes": 134,
+    "tags": ["Fantasía", "Latino", "Género"]
+  },
+  {
+    "title": "🚀 Ciencia Ficción Latino",
+    "url": "https://latanime.org/animes?genero=ciencia-ficcion&categoria=latino&p=",
+    "poster": "https://images.unsplash.com/photo-1446776653964-20c1d3a81b06?auto=format&fit=crop&w=400&h=225&q=80",
+    "description": "Futuro, tecnología y espacio en español latino",
+    "author": "Latanime",
+    "likes": 121,
+    "tags": ["Ciencia Ficción", "Latino", "Género"]
+  },
+  {
+    "title": "🎵 Musical Latino",
+    "url": "https://latanime.org/animes?genero=musical&categoria=latino&p=",
+    "poster": "https://images.unsplash.com/photo-1511379938547-c1f69419868d?auto=format&fit=crop&w=400&h=225&q=80",
+    "description": "Ritmo, melodías y voces en español latino",
+    "author": "Latanime",
+    "likes": 67,
+    "tags": ["Musical", "Latino", "Género"]
+  },
+  {
+    "title": "👨‍👩‍👧‍👦 Slice of Life Latino",
+    "url": "https://latanime.org/animes?genero=slice-of-life&categoria=latino&p=",
+    "poster": "https://images.unsplash.com/photo-1523240795612-9a054b0db644?auto=format&fit=crop&w=400&h=225&q=80",
+    "description": "Vida cotidiana y momentos especiales en español latino",
+    "author": "Latanime",
+    "likes": 92,
+    "tags": ["Slice of Life", "Latino", "Género"]
+  },
+  {
+    "title": "🍳 Gourmet Latino",
+    "url": "https://latanime.org/animes?genero=gourmet&categoria=latino&p=",
+    "poster": "https://images.unsplash.com/photo-1565958011703-44f9829ba187?auto=format&fit=crop&w=400&h=225&q=80",
+    "description": "Delicias culinarias y gastronomía en español latino",
+    "author": "Latanime",
+    "likes": 58,
+    "tags": ["Gourmet", "Latino", "Género"]
+  },
+  {
+    "title": "🎤 Idols Latino",
+    "url": "https://latanime.org/animes?genero=idols&categoria=latino&p=",
+    "poster": "https://images.unsplash.com/photo-1517230878791-4d28214057c2?auto=format&fit=crop&w=400&h=225&q=80",
+    "description": "Estrellas del pop y el entretenimiento en español latino",
+    "author": "Latanime",
+    "likes": 74,
+    "tags": ["Idols", "Latino", "Género"]
+  },
+  {
+    "title": "👾 Mecha Latino",
+    "url": "https://latanime.org/animes?genero=mecha&categoria=latino&p=",
+    "poster": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?auto=format&fit=crop&w=400&h=225&q=80",
+    "description": "Robots gigantes y batallas mecánicas en español latino",
+    "author": "Latanime",
+    "likes": 83,
+    "tags": ["Mecha", "Latino", "Género"]
+  },
+  {
+    "title": "🦸‍♂️ Superpoderes Latino",
+    "url": "https://latanime.org/animes?genero=superpoderes&categoria=latino&p=",
+    "poster": "https://images.unsplash.com/photo-1578662996442-48f60103fc96?auto=format&fit=crop&w=400&h=225&q=80",
+    "description": "Héroes y habilidades extraordinarias en español latino",
+    "author": "Latanime",
+    "likes": 156,
+    "tags": ["Superpoderes", "Latino", "Género"]
+  },
+  {
+    "title": "🏰 Histórico Latino",
+    "url": "https://latanime.org/animes?genero=historico&categoria=latino&p=",
+    "poster": "https://images.unsplash.com/photo-1542204165-65bf26472b9b?auto=format&fit=crop&w=400&h=225&q=80",
+    "description": "Épocas pasadas y eventos históricos en español latino",
+    "author": "Latanime",
+    "likes": 64,
+    "tags": ["Histórico", "Latino", "Género"]
+  },
+  {
+    "title": "🎮 Juegos Latino",
+    "url": "https://latanime.org/animes?genero=juegos&categoria=latino&p=",
+    "poster": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?auto=format&fit=crop&w=400&h=225&q=80",
+    "description": "Competencias y aventuras gamer en español latino",
+    "author": "Latanime",
+    "likes": 89,
+    "tags": ["Juegos", "Latino", "Género"]
+  },
+  {
+    "title": "👶 Infantil Latino",
+    "url": "https://latanime.org/animes?genero=infantil&categoria=latino&p=",
+    "poster": "https://images.unsplash.com/photo-1503454537195-1dcabb73ffb9?auto=format&fit=crop&w=400&h=225&q=80",
+    "description": "Diversión para los más pequeños en español latino",
+    "author": "Latanime",
+    "likes": 45,
+    "tags": ["Infantil", "Latino", "Género"]
+  },
+  {
+    "title": "🎬 Cartoon Latino",
+    "url": "https://latanime.org/animes?categoria=Cartoon&p=",
+    "poster": "https://images.unsplash.com/photo-1635805737707-575885ab0820?auto=format&fit=crop&w=400&h=225&q=80",
+    "description": "Series animadas occidentales en español latino",
+    "author": "Latanime",
+    "likes": 178,
+    "tags": ["Cartoon", "Latino", "Categoría"]
+  },
+  {
+    "title": "🔥 Recién Agregados",
+    "url": "https://latanime.org/animes?fecha=recientes&p=",
+    "poster": "https://images.unsplash.com/photo-1620641788421-7a1c342ea42e?auto=format&fit=crop&w=400&h=225&q=80",
+    "description": "Lo más nuevo agregado a Latanime",
+    "author": "Latanime",
+    "likes": 223,
+    "tags": ["Nuevo", "Actualizado", "Colección"]
+  },
+  {
+    "title": "⭐ Más Populares",
+    "url": "https://latanime.org/animes?fecha=populares&p=",
+    "poster": "https://images.unsplash.com/photo-1519638831568-d9897f54ed69?auto=format&fit=crop&w=400&h=225&q=80",
+    "description": "Los animes más vistos y populares",
+    "author": "Latanime",
+    "likes": 312,
+    "tags": ["Popular", "Trending", "Colección"]
+  },
+  {
+    "title": "🏆 Recomendados Staff",
+    "url": "https://latanime.org/animes?fecha=recomendados&p=",
+    "poster": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?auto=format&fit=crop&w=400&h=225&q=80",
+    "description": "Selección especial del equipo de Latanime",
+    "author": "Latanime",
+    "likes": 187,
+    "tags": ["Recomendado", "Staff Pick", "Colección"]
+  },
+]
