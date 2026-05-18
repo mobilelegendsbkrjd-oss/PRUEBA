@@ -39,5 +39,194 @@
         "url": "https://sololatino.net/pelicula/harry-potter-7-y-las-reliquias-de-la-muerte-parte-2"
       }
     ]
+  },
+  {
+    "title": "Fast & Furious Collection",
+    "poster": "https://image.tmdb.org/t/p/original/9BQqngPfwpeAfK7c2H4Q0cJfDGQ.jpg",
+    "description": "Saga completa de Rápidos y Furiosos",
+    "author": "bkrjd",
+    "tags": ["Saga", "Acción"],
+    "movies": [
+      {
+        "name": "Rápidos y Furiosos",
+        "url": "https://sololatino.net/pelicula/rapido-y-furioso"
+      },
+      {
+        "name": "+ Rápido + Furioso",
+        "url": "https://sololatino.net/pelicula/mas-rapido-mas-furioso"
+      },
+      {
+        "name": "Rápidos y Furiosos: Reto Tokio",
+        "url": "https://sololatino.net/pelicula/rapidos-y-furiosos-reto-tokio"
+      },
+      {
+        "name": "Rápidos y Furiosos 4",
+        "url": "https://sololatino.net/pelicula/rapidos-y-furiosos-4"
+      },
+      {
+        "name": "Rápidos y Furiosos 5in Control",
+        "url": "https://sololatino.net/pelicula/rapidos-y-furiosos-5in-control"
+      },
+      {
+        "name": "Rápidos y Furiosos 6",
+        "url": "https://sololatino.net/pelicula/rapidos-y-furiosos-6"
+      },
+      {
+        "name": "Rápidos y Furiosos 7",
+        "url": "https://sololatino.net/pelicula/rapidos-y-furiosos-7"
+      },
+      {
+        "name": "Rápidos y Furiosos 8",
+        "url": "https://sololatino.net/pelicula/rapidos-y-furiosos-8"
+      },
+      {
+        "name": "Hobbs & Shaw",
+        "url": "https://sololatino.net/pelicula/rapidos-y-furiosos-hobbs-shaw"
+      },
+      {
+        "name": "Rápidos y Furiosos 9",
+        "url": "https://sololatino.net/pelicula/rapidos-y-furiosos-9"
+      },
+      {
+        "name": "Rápidos y Furiosos 10",
+        "url": "https://sololatino.net/pelicula/rapidos-y-furiosos-10"
+      }
+    ]
+  },
+  {
+    "title": "Conjuring Universe",
+    "poster": "https://image.tmdb.org/t/p/original/zrPpUlehQaBf8YX2NrVrKK8IEpf.jpg",
+    "description": "Universo completo de El Conjuro",
+    "author": "bkrjd",
+    "tags": ["Saga", "Terror"],
+    "movies": [
+      {
+        "name": "La Monja",
+        "url": "https://sololatino.net/pelicula/la-monja"
+      },
+      {
+        "name": "Annabelle 2",
+        "url": "https://sololatino.net/pelicula/annabelle-2-la-creacion"
+      },
+      {
+        "name": "La Monja 2",
+        "url": "https://sololatino.net/pelicula/la-monja-2"
+      },
+      {
+        "name": "Annabelle",
+        "url": "https://sololatino.net/pelicula/annabelle"
+      },
+      {
+        "name": "El Conjuro",
+        "url": "https://sololatino.net/pelicula/el-conjuro"
+      },
+      {
+        "name": "Annabelle 3",
+        "url": "https://sololatino.net/pelicula/annabelle-3-viene-a-casa"
+      },
+      {
+        "name": "La Maldición de La Llorona",
+        "url": "https://sololatino.net/pelicula/la-maldicion-de-la-llorona"
+      },
+      {
+        "name": "El Conjuro 2",
+        "url": "https://sololatino.net/pelicula/el-conjuro-2"
+      },
+      {
+        "name": "El Conjuro 3",
+        "url": "https://sololatino.net/pelicula/el-conjuro-3"
+      }
+    ]
+  },
+  {
+    "title": "MonsterVerse",
+    "poster": "https://image.tmdb.org/t/p/original/oP8Y4dRuE4Q6g1hSq8ZrQj6nV9N.jpg",
+    "description": "Saga completa del MonsterVerse",
+    "author": "bkrjd",
+    "tags": ["Saga", "Monstruos"],
+    "movies": [
+      {
+        "name": "Godzilla",
+        "url": "https://sololatino.net/pelicula/godzilla"
+      },
+      {
+        "name": "Kong: La Isla Calavera",
+        "url": "https://sololatino.net/pelicula/kong-la-isla-calavera"
+      },
+      {
+        "name": "Godzilla: Rey de los Monstruos",
+        "url": "https://sololatino.net/pelicula/godzilla-rey-de-los-monstruos"
+      },
+      {
+        "name": "Godzilla vs Kong",
+        "url": "https://sololatino.net/pelicula/godzilla-vs-kong"
+      },
+      {
+        "name": "Godzilla y Kong: El nuevo imperio",
+        "url": "https://sololatino.net/pelicula/godzilla-y-kong-el-nuevo-imperio"
+      }
+    ]
+  },
+  {
+    "title": "Final Destination Collection",
+    "poster": "https://image.tmdb.org/t/p/original/6EdKBYkB1ssgGjc249ud1L55o8d.jpg",
+    "description": "Saga completa de Destino Final",
+    "author": "bkrjd",
+    "tags": ["Saga", "Terror"],
+    "movies": [
+      {
+        "name": "Destino Final",
+        "url": "https://sololatino.net/pelicula/destino-final"
+      },
+      {
+        "name": "Destino Final 2",
+        "url": "https://sololatino.net/pelicula/destino-final-2"
+      },
+      {
+        "name": "Destino Final 3",
+        "url": "https://sololatino.net/pelicula/destino-final-3"
+      },
+      {
+        "name": "Destino Final 4",
+        "url": "https://sololatino.net/pelicula/destino-final-4"
+      },
+      {
+        "name": "Destino Final 5",
+        "url": "https://sololatino.net/pelicula/destino-final-5"
+      }
+    ]
+  },
+  {
+    "title": "Shrek Universe",
+    "poster": "https://image.tmdb.org/t/p/original/iB64vpL3dIObOtMZgX3RqdVdQDc.jpg",
+    "description": "Saga completa de Shrek",
+    "author": "bkrjd",
+    "tags": ["Saga", "Animación"],
+    "movies": [
+      {
+        "name": "Shrek",
+        "url": "https://sololatino.net/pelicula/shrek"
+      },
+      {
+        "name": "Shrek 2",
+        "url": "https://sololatino.net/pelicula/shrek-2"
+      },
+      {
+        "name": "Shrek Tercero",
+        "url": "https://sololatino.net/pelicula/shrek-tercero"
+      },
+      {
+        "name": "Shrek Para Siempre",
+        "url": "https://sololatino.net/pelicula/shrek-para-siempre"
+      },
+      {
+        "name": "El Gato con Botas",
+        "url": "https://sololatino.net/pelicula/el-gato-con-botas"
+      },
+      {
+        "name": "El Gato con Botas: El Último Deseo",
+        "url": "https://sololatino.net/pelicula/el-gato-con-botas-el-ultimo-deseo"
+      }
+    ]
   }
 ]
