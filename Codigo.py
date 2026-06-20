@@ -339,74 +339,48 @@ def stream_works(url, referer):
         if r.status_code >= 400:
             return False
 
-        text = r.text[:20000]
+        text = r.text[:8000]
 
         if "#EXTM3U" not in text:
             return False
 
-        playlist_url = r.url
-        playlist_text = r.text
+        variant = None
 
-        for line in playlist_text.splitlines():
+        for line in r.text.splitlines():
             line = line.strip()
 
             if not line or line.startswith("#"):
                 continue
 
             if ".m3u8" in line:
-                variant_url = urljoin(playlist_url, line)
-
-                r2 = requests.get(
-                    variant_url,
-                    headers=headers(referer),
-                    timeout=STREAM_TEST_TIMEOUT,
-                    allow_redirects=True
-                )
-
-                if r2.status_code >= 400:
-                    return False
-
-                if "#EXTM3U" not in r2.text[:8000]:
-                    return False
-
-                playlist_url = r2.url
-                playlist_text = r2.text
+                variant = urljoin(r.url, line)
                 break
 
-        segment_url = None
+        if variant:
+            r2 = requests.get(
+                variant,
+                headers=headers(referer),
+                timeout=STREAM_TEST_TIMEOUT,
+                allow_redirects=True
+            )
 
-        for line in playlist_text.splitlines():
-            line = line.strip()
+            if r2.status_code >= 400:
+                return False
 
-            if not line or line.startswith("#"):
-                continue
+            text2 = r2.text[:8000]
 
-            segment_url = urljoin(playlist_url, line)
-            break
+            if "#EXTM3U" not in text2:
+                return False
 
-        if not segment_url:
+            if "#EXTINF" in text2 or "#EXT-X-TARGETDURATION" in text2 or "#EXT-X-MEDIA-SEQUENCE" in text2:
+                return True
+
             return False
 
-        r3 = requests.get(
-            segment_url,
-            headers={
-                **headers(referer),
-                "Range": "bytes=0-2048",
-            },
-            timeout=STREAM_TEST_TIMEOUT,
-            allow_redirects=True,
-            stream=True
-        )
+        if "#EXTINF" in text or "#EXT-X-TARGETDURATION" in text or "#EXT-X-MEDIA-SEQUENCE" in text:
+            return True
 
-        if r3.status_code not in [200, 206]:
-            return False
-
-        chunk = next(r3.iter_content(chunk_size=512), b"")
-
-        if not chunk:
-            return False
-
-        return True
+        return False
 
     except Exception:
         return False
@@ -473,10 +447,6 @@ def build_output_items(resolved):
     return final_items, len(general_best)
 
 
-def escape_json_value(value):
-    return str(value).replace("\\", "\\\\").replace('"', '\\"')
-
-
 def write_m3u(items, output):
     folder = os.path.dirname(output)
     if folder:
@@ -497,20 +467,12 @@ def write_m3u(items, output):
         name = clean_name(item["name"])
         logo = item["logo"]
         group = item["group"]
-        ua = item["user_agent"]
-        ref = item["referer"]
-        origin = get_origin(ref)
 
         lines.append(
             f'#EXTINF:-1 tvg-name="{name}" tvg-logo="{logo}" group-title="{group}",{name}'
         )
-
-        lines.append(f'#EXTVLCOPT:http-user-agent={ua}')
-        lines.append(f'#EXTVLCOPT:http-referrer={ref}')
-        lines.append(f'#KODIPROP:inputstream.adaptive.stream_headers=User-Agent={ua}&Referer={ref}&Origin={origin}')
-        lines.append(
-            f'#EXTHTTP:{{"User-Agent":"{escape_json_value(ua)}","Referer":"{escape_json_value(ref)}","Origin":"{escape_json_value(origin)}"}}'
-        )
+        lines.append(f'#EXTVLCOPT:http-user-agent={item["user_agent"]}')
+        lines.append(f'#EXTVLCOPT:http-referrer={item["referer"]}')
         lines.append(item["stream"])
         lines.append("")
         count += 1
@@ -522,6 +484,8 @@ def write_m3u(items, output):
 
 
 def main():
+    print(f"📁 Archivo de salida: {OUTPUT_FILE}")
+
     pages = []
 
     for provider, base in PROVIDERS:
@@ -531,7 +495,7 @@ def main():
             print(f"❌ Error en {provider}: {e}")
 
     print(f"\n🔎 Resolviendo y probando streams finales: {len(pages)} páginas")
-    print("Solo se guardan canales que sí respondan playlist y segmento real.\n")
+    print("Solo se guardan canales que sí respondan como HLS válido.\n")
 
     resolved = []
     done = 0
