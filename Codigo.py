@@ -1,21 +1,27 @@
 import os
 import re
 import base64
+import random
+import time
 import requests
 from bs4 import BeautifulSoup
 from urllib.parse import urljoin, urlparse
 from concurrent.futures import ThreadPoolExecutor, as_completed
+from requests.adapters import HTTPAdapter
+from urllib3.util.retry import Retry
 
 USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
 
 OUTPUT_FILE = os.getenv("OUTPUT_FILE", "M328x.m3u")
 
 PROVIDERS = [
-    ("TvporinternetHD", "https://www.tvporinternet2.com"),
-    ("Tv Libre Futbol", "https://www.librefutbol2.com"),
-    ("CableVisionHD", "https://www.cablevisionhd.com"),
-    ("Teveplus", "https://www.tvplusgratis2.com/"),
-    ("Telegratis", "https://www.telegratishd.com/"),
+    ("TvporinternetHD", "https://www.tvporinternet2.com", True),
+    ("Tv Libre Futbol", "https://www.librefutbol2.com", True),
+    ("CableVisionHD", "https://www.cablevisionhd.com", True),
+    ("Teveplus", "https://www.tvplusgratis2.com/", True),
+    ("Telegratis", "https://www.telegratishd.com/", True),
+    ("VerCableHD", "https://www.vertvcable.com/", False),
+    ("SinTelevisor", "https://www.thesintelevisor.com/", False),
 ]
 
 PROVIDER_PRIORITY = {
@@ -23,13 +29,14 @@ PROVIDER_PRIORITY = {
     "CableVisionHD": 2,
     "Teveplus": 3,
     "Telegratis": 4,
+    "VerCableHD": 5,
+    "SinTelevisor": 6,
     "Tv Libre Futbol": 7,
 }
 
-MAX_WORKERS = 8
-TIMEOUT = 15
+MAX_WORKERS = int(os.getenv("MAX_WORKERS", "6"))
+TIMEOUT = int(os.getenv("TIMEOUT", "20"))
 MAX_DEPTH = 6
-STREAM_TEST_TIMEOUT = 10
 
 
 def get_origin(url):
@@ -42,23 +49,73 @@ def get_origin(url):
     return ""
 
 
+def make_session():
+    session = requests.Session()
+
+    retry = Retry(
+        total=3,
+        connect=3,
+        read=3,
+        backoff_factor=1.2,
+        status_forcelist=[403, 408, 429, 500, 502, 503, 504],
+        allowed_methods=["GET", "HEAD"],
+        raise_on_status=False,
+    )
+
+    adapter = HTTPAdapter(
+        max_retries=retry,
+        pool_connections=MAX_WORKERS * 2,
+        pool_maxsize=MAX_WORKERS * 2,
+    )
+
+    session.mount("http://", adapter)
+    session.mount("https://", adapter)
+
+    return session
+
+
+SESSION = make_session()
+
+
 def headers(referer=None):
+    origin = get_origin(referer or "")
+
     return {
         "User-Agent": USER_AGENT,
         "Referer": referer or "",
-        "Origin": get_origin(referer or ""),
-        "Accept": "*/*",
+        "Origin": origin,
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+        "Accept-Language": "es-MX,es;q=0.9,en;q=0.7",
+        "Accept-Encoding": "gzip, deflate, br",
+        "Cache-Control": "no-cache",
+        "Pragma": "no-cache",
         "Connection": "keep-alive",
+        "Upgrade-Insecure-Requests": "1",
+        "Sec-Fetch-Dest": "document",
+        "Sec-Fetch-Mode": "navigate",
+        "Sec-Fetch-Site": "same-origin",
     }
 
 
 def get_html(url, referer=None):
-    r = requests.get(
+    time.sleep(random.uniform(0.15, 0.65))
+
+    r = SESSION.get(
         url,
         headers=headers(referer or url),
         timeout=TIMEOUT,
         allow_redirects=True
     )
+
+    if r.status_code in [403, 429]:
+        time.sleep(random.uniform(2.0, 4.0))
+        r = SESSION.get(
+            url,
+            headers=headers(referer or url),
+            timeout=TIMEOUT,
+            allow_redirects=True
+        )
+
     r.raise_for_status()
     return r.text, r.url
 
@@ -93,21 +150,20 @@ def category(name):
         return "Deportes"
 
     if any(x in n for x in [
-        "cnn", "foro", "milenio", "noticias", "news", "24h",
-        "adn", "nmas", "n+", "dw"
+        "cnn", "foro", "milenio", "noticias", "news",
+        "24h", "adn", "nmas", "n+", "dw"
     ]):
         return "Noticias"
 
     if any(x in n for x in [
         "hbo", "cinemax", "cine", "warner", "tnt", "space",
-        "star", "fx", "sony", "paramount", "universal",
-        "golden", "amc"
+        "star", "fx", "sony", "paramount", "universal", "golden", "amc"
     ]):
         return "Cine y Series"
 
     if any(x in n for x in [
-        "cartoon", "disney", "nick", "boomerang", "tooncast",
-        "kids", "infantil", "discovery kids"
+        "cartoon", "disney", "nick", "boomerang",
+        "tooncast", "kids", "infantil", "discovery kids"
     ]):
         return "Infantiles"
 
@@ -133,8 +189,8 @@ def valid_channel(link, title, base):
     ]
 
     bad_title = [
-        "telegram", "soporte", "apoya", "donar", "reportar",
-        "contacto", "dmca"
+        "telegram", "soporte", "apoya", "donar",
+        "reportar", "contacto", "dmca"
     ]
 
     if any(x in l for x in bad):
@@ -246,8 +302,10 @@ def extract_base64_urls(text):
     for enc in re.findall(r'''atob\(["']([^"']+)["']\)''', text):
         try:
             dec = base64.b64decode(enc).decode("utf-8", errors="ignore")
+
             if "http" in dec:
                 urls.extend(re.findall(r'''https?://[^"'\s<>]+''', dec))
+
         except Exception:
             pass
 
@@ -256,7 +314,8 @@ def extract_base64_urls(text):
 
 def unpack_eval_like(text):
     return (
-        text.replace("\\x3d", "=")
+        text
+        .replace("\\x3d", "=")
         .replace("\\x26", "&")
         .replace("\\/", "/")
     )
@@ -299,6 +358,7 @@ def resolve_page(start_url, start_referer):
                 }
 
             unpacked = unpack_eval_like(html)
+
             direct = extract_video_url(unpacked)
             if direct:
                 return {
@@ -314,6 +374,7 @@ def resolve_page(start_url, start_referer):
                     }
 
             iframes = find_iframes(html, current)
+
             if iframes:
                 referer = current
                 current = iframes[0]
@@ -327,72 +388,10 @@ def resolve_page(start_url, start_referer):
     return None
 
 
-def stream_works(url, referer):
-    try:
-        r = requests.get(
-            url,
-            headers=headers(referer),
-            timeout=STREAM_TEST_TIMEOUT,
-            allow_redirects=True
-        )
-
-        if r.status_code >= 400:
-            return False
-
-        text = r.text[:8000]
-
-        if "#EXTM3U" not in text:
-            return False
-
-        variant = None
-
-        for line in r.text.splitlines():
-            line = line.strip()
-
-            if not line or line.startswith("#"):
-                continue
-
-            if ".m3u8" in line:
-                variant = urljoin(r.url, line)
-                break
-
-        if variant:
-            r2 = requests.get(
-                variant,
-                headers=headers(referer),
-                timeout=STREAM_TEST_TIMEOUT,
-                allow_redirects=True
-            )
-
-            if r2.status_code >= 400:
-                return False
-
-            text2 = r2.text[:8000]
-
-            if "#EXTM3U" not in text2:
-                return False
-
-            if "#EXTINF" in text2 or "#EXT-X-TARGETDURATION" in text2 or "#EXT-X-MEDIA-SEQUENCE" in text2:
-                return True
-
-            return False
-
-        if "#EXTINF" in text or "#EXT-X-TARGETDURATION" in text or "#EXT-X-MEDIA-SEQUENCE" in text:
-            return True
-
-        return False
-
-    except Exception:
-        return False
-
-
 def worker(channel):
     resolved = resolve_page(channel["page"], channel["referer"])
 
     if not resolved:
-        return None
-
-    if not stream_works(resolved["url"], resolved["referer"]):
         return None
 
     return {
@@ -426,6 +425,7 @@ def better_item(new_item, old_item):
 
 def build_output_items(resolved):
     general_best = {}
+    alternatives = []
 
     for item in resolved:
         norm = item.get("norm") or normalize_name(item["name"])
@@ -436,6 +436,11 @@ def build_output_items(resolved):
         if better_item(item, general_best.get(norm)):
             general_best[norm] = item
 
+        alt = dict(item)
+        alt["group"] = item["provider"]
+        alt["name"] = clean_name(item["name"])
+        alternatives.append(alt)
+
     final_items = []
 
     for item in general_best.values():
@@ -444,20 +449,29 @@ def build_output_items(resolved):
         main["group"] = item["group"]
         final_items.append(main)
 
-    return final_items, len(general_best)
+    final_items.extend(alternatives)
+
+    return final_items, len(general_best), len(alternatives)
+
+
+def escape_attr(value):
+    value = value or ""
+    return (
+        value
+        .replace("&", "&amp;")
+        .replace('"', "&quot;")
+        .replace("\n", " ")
+        .replace("\r", " ")
+    )
 
 
 def write_m3u(items, output):
-    folder = os.path.dirname(output)
-    if folder:
-        os.makedirs(folder, exist_ok=True)
-
     lines = ["#EXTM3U"]
     count = 0
     seen = set()
 
-    for item in sorted(items, key=lambda x: (x["group"], x["name"])):
-        key = item["stream"]
+    for item in sorted(items, key=lambda x: (x["group"], x["name"], x["provider"])):
+        key = (item["group"], item["name"], item["stream"])
 
         if key in seen:
             continue
@@ -467,14 +481,19 @@ def write_m3u(items, output):
         name = clean_name(item["name"])
         logo = item["logo"]
         group = item["group"]
+        referer = item["referer"]
+        origin = get_origin(referer)
 
         lines.append(
-            f'#EXTINF:-1 tvg-name="{name}" tvg-logo="{logo}" group-title="{group}",{name}'
+            f'#EXTINF:-1 tvg-name="{escape_attr(name)}" tvg-logo="{escape_attr(logo)}" group-title="{escape_attr(group)}",{name}'
         )
+
         lines.append(f'#EXTVLCOPT:http-user-agent={item["user_agent"]}')
-        lines.append(f'#EXTVLCOPT:http-referrer={item["referer"]}')
+        lines.append(f'#EXTVLCOPT:http-referrer={referer}')
+        lines.append(f'#EXTHTTP:{{"User-Agent":"{item["user_agent"]}","Referer":"{referer}","Origin":"{origin}"}}')
         lines.append(item["stream"])
         lines.append("")
+
         count += 1
 
     with open(output, "w", encoding="utf-8") as f:
@@ -484,18 +503,20 @@ def write_m3u(items, output):
 
 
 def main():
-    print(f"📁 Archivo de salida: {OUTPUT_FILE}")
-
+    output = OUTPUT_FILE
     pages = []
 
-    for provider, base in PROVIDERS:
+    for provider, base, enabled in PROVIDERS:
+        if not enabled:
+            print(f"⏭️ Saltando {provider}")
+            continue
+
         try:
             pages.extend(parse_provider(provider, base))
         except Exception as e:
             print(f"❌ Error en {provider}: {e}")
 
-    print(f"\n🔎 Resolviendo y probando streams finales: {len(pages)} páginas")
-    print("Solo se guardan canales que sí respondan como HLS válido.\n")
+    print(f"\n🔎 Resolviendo streams finales: {len(pages)} páginas\n")
 
     resolved = []
     done = 0
@@ -513,19 +534,19 @@ def main():
                     resolved.append(item)
                     print(f"✅ {done}/{len(pages)} {item['name']} [{item['provider']}]")
                 else:
-                    print(f"❌ {done}/{len(pages)} sin stream válido")
+                    print(f"❌ {done}/{len(pages)} sin stream")
 
-            except Exception:
-                print(f"❌ {done}/{len(pages)} error")
+            except Exception as e:
+                print(f"❌ {done}/{len(pages)} error: {e}")
 
-    output_items, general_count = build_output_items(resolved)
-    total = write_m3u(output_items, OUTPUT_FILE)
+    output_items, general_count, alternative_count = build_output_items(resolved)
+    total = write_m3u(output_items, output)
 
     print("\n🔥 LISTO")
-    print(f"📺 Canales únicos guardados: {general_count}")
+    print(f"📺 Canales únicos en categorías generales: {general_count}")
+    print(f"🔁 Alternativas por sitio web: {alternative_count}")
     print(f"📦 Entradas totales guardadas: {total}")
-    print("📁 Archivo:")
-    print(OUTPUT_FILE)
+    print(f"📁 Archivo: {output}")
 
 
 if __name__ == "__main__":
