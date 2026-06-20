@@ -31,7 +31,7 @@ jobs:
         env:
           OUTPUT_FILE: M328x.m3u
         run: |
-          python tvweb_github.py
+          python Codigo.py
 
       - name: Configurar Git
         run: |
