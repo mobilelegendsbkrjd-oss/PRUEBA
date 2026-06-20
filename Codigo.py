@@ -19,11 +19,11 @@ PROVIDERS = [
 ]
 
 PROVIDER_PRIORITY = {
-    "TvporinternetHD": 1,
-    "CableVisionHD": 2,
-    "Teveplus": 3,
-    "Telegratis": 4,
-    "Tv Libre Futbol": 7,
+    "TvporinternetHD": 5,
+    "CableVisionHD": 1,
+    "Teveplus": 4,
+    "Telegratis": 3,
+    "Tv Libre Futbol": 2,
 }
 
 MAX_WORKERS = 8
