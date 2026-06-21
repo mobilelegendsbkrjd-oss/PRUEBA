@@ -1,1 +1,60 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Cine.AR" tvg-logo="https://www.vertvcable.com/wp-content/uploads/2022/11/cinear-150x150.jpg" group-title="Cine y Series",Cine.AR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.vertvcable.com/cine-ar-en-vivo/
+https://chiletvapp.com/proxy.php?url=http://hls.vertvcable.com:8000/play/a008/index.m3u8
+
+#EXTINF:-1 tvg-name="HBO" tvg-logo="https://www.vertvcable.com/wp-content/uploads/2022/02/hbo-150x150.jpg" group-title="Cine y Series",HBO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.vertvcable.com/hbo-en-vivo/
+http://hls.vertvcable.com:8000/play/a00d/index.m3u8
+
+#EXTINF:-1 tvg-name="CHV Deportes" tvg-logo="https://www.vertvcable.com/wp-content/uploads/2024/07/27802_live-150x150.jpg" group-title="Deportes",CHV Deportes
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.vertvcable.com/chv-deportes-en-vivo/
+https://stitcher.pluto.tv/stitch/hls/channel/638df6f8b63cf100075ccfa1livestitch/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5c994790-62bc-11ef-843f-be5cd95
+
+#EXTINF:-1 tvg-name="Mega Ficción" tvg-logo="https://www.vertvcable.com/wp-content/uploads/2025/05/mega-ficcion-150x150.png" group-title="Entretenimiento",Mega Ficción
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.vertvcable.com/mega-ficcion-en-vivo/
+https://clbpktstvhls-1.clarovideo.com/bpk-tv/MEGAFICCION/hls_fk/index.m3u8
+
+#EXTINF:-1 tvg-name="Uchile TV" tvg-logo="https://www.vertvcable.com/wp-content/uploads/2023/10/uchile-150x150.jpg" group-title="Entretenimiento",Uchile TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.vertvcable.com/uchile-tv-en-vivo/
+https://pantera1-100gb-cl-movistar.dps.live/uchiletv/uchiletv.smil/uchiletv/livestream0/chunks.m3u8?nimblesessionid=5778852
+
+#EXTINF:-1 tvg-name="Mundo de la Musica" tvg-logo="https://www.vertvcable.com/wp-content/uploads/2025/06/nundonusica-150x150.png" group-title="Música",Mundo de la Musica
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.vertvcable.com/mundo-de-la-musica-en-vivo/
+https://tv.arkeo.cl:1936/mundodelamusica/mundodelamusica/playlist.m3u8
+
+#EXTINF:-1 tvg-name="CHV Deportes" tvg-logo="https://www.vertvcable.com/wp-content/uploads/2024/07/27802_live-150x150.jpg" group-title="VerCableHD",CHV Deportes
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.vertvcable.com/chv-deportes-en-vivo/
+https://stitcher.pluto.tv/stitch/hls/channel/638df6f8b63cf100075ccfa1livestitch/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5c994790-62bc-11ef-843f-be5cd95
+
+#EXTINF:-1 tvg-name="Cine.AR" tvg-logo="https://www.vertvcable.com/wp-content/uploads/2022/11/cinear-150x150.jpg" group-title="VerCableHD",Cine.AR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.vertvcable.com/cine-ar-en-vivo/
+https://chiletvapp.com/proxy.php?url=http://hls.vertvcable.com:8000/play/a008/index.m3u8
+
+#EXTINF:-1 tvg-name="HBO" tvg-logo="https://www.vertvcable.com/wp-content/uploads/2022/02/hbo-150x150.jpg" group-title="VerCableHD",HBO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.vertvcable.com/hbo-en-vivo/
+http://hls.vertvcable.com:8000/play/a00d/index.m3u8
+
+#EXTINF:-1 tvg-name="Mega Ficción" tvg-logo="https://www.vertvcable.com/wp-content/uploads/2025/05/mega-ficcion-150x150.png" group-title="VerCableHD",Mega Ficción
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.vertvcable.com/mega-ficcion-en-vivo/
+https://clbpktstvhls-1.clarovideo.com/bpk-tv/MEGAFICCION/hls_fk/index.m3u8
+
+#EXTINF:-1 tvg-name="Mundo de la Musica" tvg-logo="https://www.vertvcable.com/wp-content/uploads/2025/06/nundonusica-150x150.png" group-title="VerCableHD",Mundo de la Musica
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.vertvcable.com/mundo-de-la-musica-en-vivo/
+https://tv.arkeo.cl:1936/mundodelamusica/mundodelamusica/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Uchile TV" tvg-logo="https://www.vertvcable.com/wp-content/uploads/2023/10/uchile-150x150.jpg" group-title="VerCableHD",Uchile TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.vertvcable.com/uchile-tv-en-vivo/
+https://pantera1-100gb-cl-movistar.dps.live/uchiletv/uchiletv.smil/uchiletv/livestream0/chunks.m3u8?nimblesessionid=5778852
