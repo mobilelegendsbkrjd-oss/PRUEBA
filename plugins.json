@@ -74,4 +74,20 @@
     "url": "https://raw.githubusercontent.com/mobilelegendsbkrjd-oss/PRUEBA/main/builds/todotv.cs3",
     "name": "todotv"
   }
+  ,
+  {
+    "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://ww1.henaojara.net/&size=128",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
+    "fileSize": 14204,
+    "status": 1,
+    "language": "mx",
+    "authors": ["bkrjd"],
+    "tvTypes": ["Anime", "AnimeMovie"],
+    "version": 1,
+    "internalName": "tdtchannels",
+    "description": "Ver tv",
+    "url": "https://raw.githubusercontent.com/mobilelegendsbkrjd-oss/PRUEBA/main/builds/tdtchannels.cs3",
+    "name": "tdtchannels"
+  }
 ]
