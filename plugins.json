@@ -91,7 +91,7 @@
     "name": "tdtchannels"
   },
   {
-    "iconUrl": "https://raw.githubusercontent.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd/main/iconos/tubepelis.jpg",
+    "iconUrl": "https://raw.githubusercontent.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd/main/iconos/Tioplus.jpg",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd",
     "fileSize": 13017,
@@ -100,9 +100,9 @@
     "authors": ["bkrjd"],
     "tvTypes": ["Anime", "AnimeMovie"],
     "version": 2,
-    "internalName": "TubePelis",
-    "description": "TubePelis nuevo sitio",
-    "url": "https://raw.githubusercontent.com/mobilelegendsbkrjd-oss/PRUEBA/main/builds/tubepelis.cs3",
-    "name": "TubePelis"
+    "internalName": "Tioplus",
+    "description": "Tioplus nuevo sitio",
+    "url": "https://raw.githubusercontent.com/mobilelegendsbkrjd-oss/PRUEBA/main/builds/tioplus.cs3",
+    "name": "Tioplus"
   }
 ]
