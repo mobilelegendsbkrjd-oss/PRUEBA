@@ -91,7 +91,7 @@
     "name": "tdtchannels"
   },
   {
-    "iconUrl": "https://raw.githubusercontent.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd/main/iconos/Tioplus.jpg",
+    "iconUrl": "https://raw.githubusercontent.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd/main/iconos/cinezo.jpg",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd",
     "fileSize": 13017,
@@ -100,9 +100,9 @@
     "authors": ["bkrjd"],
     "tvTypes": ["Anime", "AnimeMovie"],
     "version": 2,
-    "internalName": "Tioplus",
-    "description": "Tioplus nuevo sitio",
-    "url": "https://raw.githubusercontent.com/mobilelegendsbkrjd-oss/PRUEBA/main/builds/tioplus.cs3",
-    "name": "Tioplus"
+    "internalName": "cinezo",
+    "description": "cinezo nuevo sitio",
+    "url": "https://raw.githubusercontent.com/mobilelegendsbkrjd-oss/PRUEBA/main/builds/cinezo.cs3",
+    "name": "cinezo"
   }
 ]
