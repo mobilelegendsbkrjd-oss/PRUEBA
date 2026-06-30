@@ -91,18 +91,18 @@
     "name": "tdtchannels"
   },
   {
-    "iconUrl": "https://raw.githubusercontent.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd/main/iconos/cinezo.jpg",
+    "iconUrl": "https://www.mundodonghua.com/images/logo-md.png",
     "apiVersion": 1,
-    "repositoryUrl": "https://github.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd",
-    "fileSize": 13017,
+    "repositoryUrl": "https://raw.githubusercontent.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd",
+    "fileSize": 14204,
     "status": 1,
-    "language": "es-mx",
-    "authors": ["bkrjd"],
+    "language": "mx",
+    "authors": ["Bkrjd"],
     "tvTypes": ["Anime", "AnimeMovie"],
-    "version": 2,
-    "internalName": "cinezo",
-    "description": "cinezo nuevo sitio",
-    "url": "https://raw.githubusercontent.com/mobilelegendsbkrjd-oss/PRUEBA/main/builds/cinezo.cs3",
-    "name": "cinezo"
+    "version": 1,
+    "internalName": "MundoDonghua",
+    "description": "Ver donguas online, subtitulado y/o doblado al español latino HD y completamente gratis.",
+    "url": "https://raw.githubusercontent.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd/main/builds/mundodongua.cs3",
+    "name": "MundoDonghua"
   }
 ]
