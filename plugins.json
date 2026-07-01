@@ -104,5 +104,20 @@
     "description": "Ver donguas online, subtitulado y/o doblado al español latino HD y completamente gratis.",
     "url": "https://raw.githubusercontent.com/mobilelegendsbkrjd-oss/PRUEBA/main/builds/mundodonghua.cs3",
     "name": "MundoDonghua"
+  },
+  {
+    "iconUrl": "https://raw.githubusercontent.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd/main/iconos/shortdrama.png",
+    "apiVersion": 1,
+    "repositoryUrl": "https://raw.githubusercontent.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd",
+    "fileSize": 14204,
+    "status": 1,
+    "language": "mx",
+    "authors": ["Bkrjd"],
+    "tvTypes": ["Anime", "AnimeMovie"],
+    "version": 1,
+    "internalName": "ShortDramas",
+    "description": "Ver dramas cortos online, doblado al español latino",
+    "url": "https://raw.githubusercontent.com/mobilelegendsbkrjd-oss/PRUEBA/main/builds/shortdramas.cs3",
+    "name": "ShortDramas"
   }
 ]
