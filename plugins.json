@@ -119,5 +119,20 @@
     "description": "Ver dramas cortos online, doblado al español latino",
     "url": "https://raw.githubusercontent.com/mobilelegendsbkrjd-oss/PRUEBA/main/builds/shortdramas.cs3",
     "name": "ShortDramas"
+  },
+  {
+    "iconUrl": "https://raw.githubusercontent.com/Abodabodd/Oldarabrepo/refs/heads/main/img/IMG_%D9%A2%D9%A0%D9%A2%D9%A5%D9%A1%D9%A2%D9%A0%D9%A6_%D9%A1%D9%A7%D9%A2%D9%A6%D9%A1%D9%A6.jpg",
+    "apiVersion": 1,
+    "repositoryUrl": "https://raw.githubusercontent.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd",
+    "fileSize": 35000,
+    "status": 1,
+    "language": "es",
+    "authors": ["Abodabodd"],
+    "tvTypes": [ "Movie","TvSeries","Live","Anime","Music","Documentary"],
+    "version": 1,
+    "internalName": "YouTube",
+    "description": "Ver YouTube online gratis.",
+    "url": "https://raw.githubusercontent.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd/main/build/Youtube.cs3",
+    "name": "YouTube"
   }
 ]
