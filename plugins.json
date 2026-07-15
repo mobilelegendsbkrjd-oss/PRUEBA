@@ -148,5 +148,20 @@
     "description": "Ver donguas online, subtitulado y/o doblado al español latino HD y completamente gratis.",
     "url": "https://raw.githubusercontent.com/mobilelegendsbkrjd-oss/PRUEBA/main/builds/hackstore.cs3",
     "name": "HackStore"
+  },
+  {
+    "iconUrl": "https://granpirata.com/wp-content/uploads/2022/10/favicon-gp-blanco.png",
+    "apiVersion": 1,
+    "repositoryUrl": "https://raw.githubusercontent.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd",
+    "fileSize": 14204,
+    "status": 1,
+    "language": "mx",
+    "authors": ["Bkrjd"],
+    "tvTypes": ["Anime", "AnimeMovie"],
+    "version": 1,
+    "internalName": "GranPirata",
+    "description": "completamente gratis.",
+    "url": "https://raw.githubusercontent.com/mobilelegendsbkrjd-oss/PRUEBA/main/builds/granpirata.cs3",
+    "name": "GranPirata"
   }
 ]
