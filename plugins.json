@@ -163,5 +163,20 @@
     "description": "completamente gratis.",
     "url": "https://raw.githubusercontent.com/mobilelegendsbkrjd-oss/PRUEBA/main/builds/granpirata.cs3",
     "name": "GranPirata"
-  }
+  },
+  {
+    "iconUrl": "https://www.zona-leros.com/image/logo.png?v=0.3.4.2",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd",
+    "fileSize": 13017,
+    "status": 1,
+    "language": "es-mx",
+    "authors": ["bkrjd"],
+    "tvTypes": ["Anime", "AnimeMovie"],
+    "version": 2,
+    "internalName": "Zonaleros",
+    "description": "Zonaleros nuevo sitio",
+    "url": "https://raw.githubusercontent.com/mobilelegendsbkrjd-oss/PRUEBA/main/builds/zonaleros.cs3",
+    "name": "Zonaleros"
+  },
 ]
