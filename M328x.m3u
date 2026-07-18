@@ -1,1 +1,550 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Azteca Deportes" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/2ecbfa8a3f25cc1212dbcd975383b55a.webp" group-title="Deportes",Azteca Deportes
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.cxtvenvivo.com/tv-en-vivo/azteca-deportes
+https://azt-mun.otteravision.com/azt/mun/mun.m3u8
+
+#EXTINF:-1 tvg-name="DirecTV Sports 2 (DSports 2) online" tvg-logo="https://bestleague.world/img/dsports2.webp" group-title="Deportes",DirecTV Sports 2 (DSports 2) online
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=dsports2
+https://b2ZmaWNpYWw.fubo18.com:443/dsports2/mono.m3u8?token=daef683b1591655069ec61ae3a0a4dcb5d7ff2f4-27-1784373759-1784355759
+
+#EXTINF:-1 tvg-name="ESPN 3 MÃ©xico online" tvg-logo="https://bestleague.world/img/espn3.webp" group-title="Deportes",ESPN 3 MÃ©xico online
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://streamtp.sbs/global1.php?stream=espn3mx
+https://wp.streamtp.sbs:443/global/espn3mx/index.m3u8?token=cbd22f40c9cd1247667e1dd4e646dffd1978ad19-6d-1784401662-1784347662&ip=189.203.13.163
+
+#EXTINF:-1 tvg-name="ESPN Deportes online" tvg-logo="https://bestleague.world/img/espndep.png" group-title="Deportes",ESPN Deportes online
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://streamtp.sbs/global1.php?stream=espndeportes
+https://wp.streamtp.sbs:443/global/espndeportes/index.m3u8?token=7598f51f1997bec710b637775a6e060a1049f6c6-a9-1784401663-1784347663&ip=189.203.13.163
+
+#EXTINF:-1 tvg-name="ESPN Radio Seattle Sports" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/a33bf53e8014f0ac177ff7218dffd3a1.webp" group-title="Deportes",ESPN Radio Seattle Sports
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.cxtvenvivo.com/camara-en-vivo/espn-radio-seattle
+https://99450c6a6d974a7a8fe40e7aea7477f8.mediatailor.us-west-2.amazonaws.com/v1/master/cbadc959d0c9b4829831c664f5ec02b07c91d8a1/KIRO-AM/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Esport 3" tvg-logo="" group-title="Deportes",Esport 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://teleonline.org/canal/esport-3/
+https://directes-tv-cat.3catdirectes.cat/live-origin/esport3-hls/master.m3u8
+
+#EXTINF:-1 tvg-name="FOX Deportes online" tvg-logo="https://bestleague.world/img/foxdep.png" group-title="Deportes",FOX Deportes online
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://streamtp.sbs/global1.php?stream=fox_deportes_usa
+https://pw.streamtp.sbs:443/global/fox_deportes_usa/index.m3u8?token=cf20d6a4b477abf4ebb02d3a69f70822ecb85824-c3-1784401663-1784347663&ip=189.203.13.163
+
+#EXTINF:-1 tvg-name="FOX Sports en Español" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/5c2f33d5ee4ec2d82edb58610f2b0ff7.webp" group-title="Deportes",FOX Sports en Español
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.cxtvenvivo.com/tv-en-vivo/fox-spots-en-espanol
+https://live-manifest.production-public.tubi.io/live/d906efca-1302-4e29-b0d9-9a1d7a305d69/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Liga 1 Max online" tvg-logo="https://bestleague.world/img/liga1max.webp" group-title="Deportes",Liga 1 Max online
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://streamtp.sbs/global1.php?stream=liga1max
+https://wp.streamtp.sbs:443/global/liga1max/index.m3u8?token=0a413b122bb51d81a7bf28a58255d9ebc80a0bf3-8a-1784401665-1784347665&ip=189.203.13.163
+
+#EXTINF:-1 tvg-name="TUDN online" tvg-logo="https://bestleague.world/img/tudn.png" group-title="Deportes",TUDN online
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://streamtp.sbs/global1.php?stream=tudn_usa
+https://wp.streamtp.sbs:443/global/tudn_usa/index.m3u8?token=19c1bac5e0dcb3f6d780129a052c1d2eea89a59d-81-1784401663-1784347663&ip=189.203.13.163
+
+#EXTINF:-1 tvg-name="TyC Sports online" tvg-logo="https://bestleague.world/img/tyc.webp" group-title="Deportes",TyC Sports online
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvlibreonline.tv/en-vivo/tyc-sports/
+https://tvlibreonline.tv/pc/ext/?r=https://ch11-04-11-tyc.vodgc.net/out/v1/1bcd1ee954894463b1793597891a25b6/index.m3u8%3Fheaders%3DeyJvcmlnaW4iOiJodHRwczovL3BsYXkudHljc3BvcnRzLmNvbSIsInJlZmVyZXIiOiJodHRwczovL3BsYXkudHljc3BvcnRzLmNvbS8ifQ%3D%3D
+
+#EXTINF:-1 tvg-name="UFC" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cdaae9d13a4961f1c6603a4a6b0bbbd2.webp" group-title="Deportes",UFC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.cxtvenvivo.com/tv-en-vivo/ufc
+https://linear-894.frequency.stream/mt/plex-br/894/hls/master/playlist_1920x1080.m3u8
+
+#EXTINF:-1 tvg-name="Win Sports online" tvg-logo="https://bestleague.world/img/win.png" group-title="Deportes",Win Sports online
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://streamtp.sbs/global1.php?stream=winsports
+https://pw.streamtp.sbs:443/global/winsports/index.m3u8?token=4b2370e53f770e6aaeea482da284d834213936c0-18-1784401664-1784347664&ip=189.203.13.163
+
+#EXTINF:-1 tvg-name="+tdp" tvg-logo="" group-title="Entretenimiento",+tdp
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://teleonline.org/canal/plustdp/
+https://ztnr.rtve.es/ztnr/6712432.m3u8
+
+#EXTINF:-1 tvg-name="Baby Shark TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/80445724b0084751d2edc41bb8eb6a9f.webp" group-title="Entretenimiento",Baby Shark TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.cxtvenvivo.com/tv-en-vivo/baby-shark-tv-us
+https://newidco-babysharktv-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Brit Asia TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/05688812f7bb6ad3c213b091a9efdeae.webp" group-title="Entretenimiento",Brit Asia TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.cxtvenvivo.com/tv-en-vivo/brit-asia-tv
+https://hls.autopo.st/hls/britasiatv/index.m3u8
+
+#EXTINF:-1 tvg-name="Canal 5 MX online" tvg-logo="https://bestleague.world/img/canal5.webp" group-title="Entretenimiento",Canal 5 MX online
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://streamtp.sbs/global1.php?stream=canal5mx
+https://wp.streamtp.sbs:443/global/canal5mx/index.m3u8?token=78bb14c04d951e824b3dd112177ff0cf561f19c8-56-1784401657-1784347657&ip=189.203.13.163
+
+#EXTINF:-1 tvg-name="Canal Extremadura" tvg-logo="" group-title="Entretenimiento",Canal Extremadura
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://teleonline.org/canal/canal-extremadura/
+https://d2ymuyhevki1a1.cloudfront.net/wct-ddd2992e-86fc-4611-a491-7f392259e9ba/continuous/9be76611-d2cd-474d-bf19-ef702ba31b02/index.m3u8
+
+#EXTINF:-1 tvg-name="Caracol Mix" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/17d7292ee7ab875b0cec39567312475f.webp" group-title="Entretenimiento",Caracol Mix
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.cxtvenvivo.com/tv-en-vivo/caracol-mix
+https://amg01433-amg01433c1-canelatv-international-8611.playouts.now.amagi.tv/1080p-vtt/index.m3u8
+
+#EXTINF:-1 tvg-name="Discover Film" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f71c0f738697bd4a28447b3187df8477.webp" group-title="Entretenimiento",Discover Film
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.cxtvenvivo.com/tv-en-vivo/discover-film
+https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="FIFA Plus - Português" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/f5f1b3ee68f9bd23c87dab4a49e755b2.webp" group-title="Entretenimiento",FIFA Plus - Português
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.cxtvenvivo.com/tv-en-vivo/fifa-plus
+https://c2657533.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UGxleC1icl9GSUZBUGx1c1BvcnR1Z3Vlc2VfSExT/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Fibwi Diario" tvg-logo="" group-title="Entretenimiento",Fibwi Diario
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://teleonline.org/canal/fibwi/
+https://hostcdn3.fibwi.com/fibwi_diario/index.fmp4.m3u8
+
+#EXTINF:-1 tvg-name="Hardcore Pawn - Em Português" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/2c12ee932ef481d882e426fb323250a8.webp" group-title="Entretenimiento",Hardcore Pawn - Em Português
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.cxtvenvivo.com/tv-en-vivo/hardcore-pawn
+https://amg00627-amg00627c47-plex-international-8092.playouts.now.amagi.tv/1080p-cc-por/index.m3u8
+
+#EXTINF:-1 tvg-name="IHOP - International House of Prayer" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e6e534347244365a59c4de619aa423a9.webp" group-title="Entretenimiento",IHOP - International House of Prayer
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.cxtvenvivo.com/tv-en-vivo/ihop-international-house-of-prayer
+https://storage.sardius.media/archives/-K6FGrVYzVr92SDZiDnc/events/site_52641B1329/playlist.m3u8
+
+#EXTINF:-1 tvg-name="La 2" tvg-logo="" group-title="Entretenimiento",La 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://teleonline.org/canal/la-2/
+https://d1yebix5w29z3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-haqfba85d1gvv/La2ES.m3u8
+
+#EXTINF:-1 tvg-name="Las Estrellas" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/cf0b09469b863ba943590967bc25b9ed.webp" group-title="Entretenimiento",Las Estrellas
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.cxtvenvivo.com/tv-en-vivo/las-estrellas
+https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
+
+#EXTINF:-1 tvg-name="Love Nature online" tvg-logo="https://bestleague.world/img/lovenature.png" group-title="Entretenimiento",Love Nature online
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bestleague.world/canal/?id=LOVENATURE
+https://unlimited1-buenosaires.dps.live/televidaar/televidaar.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Mais TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f9e5c20f4f71b3fe29622ba56a709179.webp" group-title="Entretenimiento",Mais TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.cxtvenvivo.com/tv-en-vivo/mais-tv-sp
+https://v2.cloudecast.com/maistv/index.m3u8
+
+#EXTINF:-1 tvg-name="Muro das Lamentações (Western Wall)" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/a124fd6ea3b16839d84a40c7f851bbe9.webp" group-title="Entretenimiento",Muro das Lamentações (Western Wall)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.cxtvenvivo.com/camara-en-vivo/muro-das-lamentacoes-western-wall
+https://cdn1.cast-tv.com/23595/Live_Kotel3_ABR/playlist.m3u8
+
+#EXTINF:-1 tvg-name="ORTV Filmes e Variedades" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/45c64f0fcb64c6441c9d9ddff2671b23.webp" group-title="Entretenimiento",ORTV Filmes e Variedades
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.cxtvenvivo.com/tv-en-vivo/ortv-filmes-e-variedades
+https://tv.ortv.com.br/hls/stream.m3u8
+
+#EXTINF:-1 tvg-name="Parlamentsfernsehen 1" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c19a7cd099a756122c02041bae6d9032.webp" group-title="Entretenimiento",Parlamentsfernsehen 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.cxtvenvivo.com/tv-en-vivo/parlamentsfernsehen-1
+https://cldf-hlsgw.r53.cdn.tv1.eu/1000153copo/hk1.m3u8
+
+#EXTINF:-1 tvg-name="Politicas de Privacidad" tvg-logo="" group-title="Entretenimiento",Politicas de Privacidad
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://play.vertvcable.com/ver/?id=chvhls
+https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chv/chv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="ProSieben" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c8422579d04e6a982f14d892369ddeae.webp" group-title="Entretenimiento",ProSieben
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.cxtvenvivo.com/tv-en-vivo/prosieben
+https://dash4.antik.sk/live/test_pro_sieben_tizen/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Qello Concerts" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/7c38e1828adec79db2b2ff74454dcba7.webp" group-title="Entretenimiento",Qello Concerts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.cxtvenvivo.com/tv-en-vivo/qello-concerts
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=568
+
+#EXTINF:-1 tvg-name="RT en Español" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/26c5a30029b81339ef17a02aa420f64c.webp" group-title="Entretenimiento",RT en Español
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.cxtvenvivo.com/tv-en-vivo/rt-en-espanol
+https://rt-esp.rttv.com/live/rtesp/playlist_800Kb.m3u8
+
+#EXTINF:-1 tvg-name="RTVCE" tvg-logo="" group-title="Entretenimiento",RTVCE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://teleonline.org/canal/rtvce/
+https://cdnlive.codev8.net/rtvcelive/smil:channel1.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="RedeVida Caxias" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e8460a2dc1d7151ae5bf9ac7041b12b0.webp" group-title="Entretenimiento",RedeVida Caxias
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.cxtvenvivo.com/tv-en-vivo/redevida-caxias
+https://srv3.zcast.com.br/vidacaxias/vidacaxias/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Stay TV Costa Rica" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/558623e158656b71cbf748a08797ab98.webp" group-title="Entretenimiento",Stay TV Costa Rica
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tv.staytv.cr/
+https://tv.staytv.cr/live/abc123.m3u8
+
+#EXTINF:-1 tvg-name="TV Gaúcha" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0bc9a603f9b942e63419626cf1f98bea.webp" group-title="Entretenimiento",TV Gaúcha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.cxtvenvivo.com/tv-en-vivo/tv-gaucha
+https://stmv3.voxtvhd.com.br/tvgaucha/tvgaucha/playlist.m3u8
+
+#EXTINF:-1 tvg-name="TVC Pará" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/9ab44544bd6523b400763ff37f0b3caf.webp" group-title="Entretenimiento",TVC Pará
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.cxtvenvivo.com/tv-en-vivo/tvc-para
+https://srt01.logicahost.com.br/tvcbelem/tracks-v1/index.fmp4.m3u8
+
+#EXTINF:-1 tvg-name="TVG" tvg-logo="" group-title="Entretenimiento",TVG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://teleonline.org/canal/tvg/
+https://crtvg-europa.flumotion.cloud/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Teledeporte" tvg-logo="" group-title="Entretenimiento",Teledeporte
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://teleonline.org/canal/teledeporte/
+https://ztnr.rtve.es/ztnr/1712295.m3u8
+
+#EXTINF:-1 tvg-name="Televida online" tvg-logo="https://bestleague.world/img/televida.webp" group-title="Entretenimiento",Televida online
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bestleague.world/canal/?id=TELEVIDAHLS
+https://unlimited1-buenosaires.dps.live/televidaar/televidaar.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Universo online" tvg-logo="https://bestleague.world/img/universo.png" group-title="Entretenimiento",Universo online
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://streamtp.sbs/global1.php?stream=universo
+https://wp.streamtp.sbs:443/global/universo/index.m3u8?token=55de03219ad3651465cd309a03501e214ff1605f-a0-1784401680-1784347680&ip=189.203.13.163
+
+#EXTINF:-1 tvg-name="UnivisÃ­on online" tvg-logo="https://bestleague.world/img/univision.png" group-title="Entretenimiento",UnivisÃ­on online
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://streamtp.sbs/global1.php?stream=univision_usa
+https://pw.streamtp.sbs:443/global/univision_usa/index.m3u8?token=d734478ae42472d6058eb4819034054a4bdf72f2-bc-1784401680-1784347680&ip=189.203.13.163
+
+#EXTINF:-1 tvg-name="VER EN DIRECTO" tvg-logo="" group-title="Entretenimiento",VER EN DIRECTO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://teleonline.org/canal/la-1/
+https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr.m3u8
+
+#EXTINF:-1 tvg-name="VTV Plus online" tvg-logo="https://bestleague.world/img/vtvplus.webp" group-title="Entretenimiento",VTV Plus online
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=vtvplus
+https://c2nvdxq.fubo18.com:443/vtvplus/mono.m3u8?token=aacb0f2690b3351e6d81197ac011c6feb1176ab2-56-1784373764-1784355764
+
+#EXTINF:-1 tvg-name="Venevision" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/d1eddd04945b864b02a236f6444606db.webp" group-title="Entretenimiento",Venevision
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.cxtvenvivo.com/tv-en-vivo/venevision
+https://pubads.g.doubleclick.net/ssai/event/xl2VClgXQmKB5abFGlmyZQ/master.m3u8
+
+#EXTINF:-1 tvg-name="3ABN KIDS" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/42de800d69d78117b03852bac7ae3818.webp" group-title="Infantiles",3ABN KIDS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.cxtvenvivo.com/tv-en-vivo/3-abn-kids
+https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="ABC News" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ec432b3a9f86ac0b68d68ce11c20dd99.webp" group-title="Noticias",ABC News
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.cxtvenvivo.com/tv-en-vivo/abc-news
+https://aegis-cloudfront-1.tubi.video/d6cbb0de-68e4-4f3b-82f9-bf5d526e0bde/index.m3u8
+
+#EXTINF:-1 tvg-name="CNN en Español" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/47f99fa1872d0b6c8d1c562b94bfeb31.webp" group-title="Noticias",CNN en Español
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.cxtvenvivo.com/tv-en-vivo/cnn-en-espanol
+https://amg00803-cnnfast-amg00803c3-lg-es-5477.playouts.now.amagi.tv/playlist1080p.m3u8
+
+#EXTINF:-1 tvg-name="DW - German" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/dd20dc7ce12901f45a5f100a4cc97032.webp" group-title="Noticias",DW - German
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.cxtvenvivo.com/tv-en-vivo/dw-deutsche-welle
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+
+#EXTINF:-1 tvg-name="+tdp" tvg-logo="" group-title="Teleonline",+tdp
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://teleonline.org/canal/plustdp/
+https://ztnr.rtve.es/ztnr/6712432.m3u8
+
+#EXTINF:-1 tvg-name="Canal Extremadura" tvg-logo="" group-title="Teleonline",Canal Extremadura
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://teleonline.org/canal/canal-extremadura/
+https://d2ymuyhevki1a1.cloudfront.net/wct-ddd2992e-86fc-4611-a491-7f392259e9ba/continuous/9be76611-d2cd-474d-bf19-ef702ba31b02/index.m3u8
+
+#EXTINF:-1 tvg-name="Esport 3" tvg-logo="" group-title="Teleonline",Esport 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://teleonline.org/canal/esport-3/
+https://directes-tv-cat.3catdirectes.cat/live-origin/esport3-hls/master.m3u8
+
+#EXTINF:-1 tvg-name="Fibwi Diario" tvg-logo="" group-title="Teleonline",Fibwi Diario
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://teleonline.org/canal/fibwi/
+https://hostcdn3.fibwi.com/fibwi_diario/index.fmp4.m3u8
+
+#EXTINF:-1 tvg-name="La 1" tvg-logo="" group-title="Teleonline",La 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://teleonline.org/canal/la-1/
+https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr.m3u8
+
+#EXTINF:-1 tvg-name="La 2" tvg-logo="" group-title="Teleonline",La 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://teleonline.org/canal/la-2/
+https://d1yebix5w29z3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-haqfba85d1gvv/La2ES.m3u8
+
+#EXTINF:-1 tvg-name="RTVCE" tvg-logo="" group-title="Teleonline",RTVCE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://teleonline.org/canal/rtvce/
+https://cdnlive.codev8.net/rtvcelive/smil:channel1.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="TVG" tvg-logo="" group-title="Teleonline",TVG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://teleonline.org/canal/tvg/
+https://crtvg-europa.flumotion.cloud/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Teledeporte" tvg-logo="" group-title="Teleonline",Teledeporte
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://teleonline.org/canal/teledeporte/
+https://ztnr.rtve.es/ztnr/1712295.m3u8
+
+#EXTINF:-1 tvg-name="VER EN DIRECTO" tvg-logo="" group-title="Teleonline",VER EN DIRECTO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://teleonline.org/canal/la-1/
+https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr.m3u8
+
+#EXTINF:-1 tvg-name="Politicas de Privacidad" tvg-logo="" group-title="VerTVcable",Politicas de Privacidad
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://play.vertvcable.com/ver/?id=chvhls
+https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chv/chv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="3ABN KIDS" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/42de800d69d78117b03852bac7ae3818.webp" group-title="cxtv",3ABN KIDS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.cxtvenvivo.com/tv-en-vivo/3-abn-kids
+https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="ABC News" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ec432b3a9f86ac0b68d68ce11c20dd99.webp" group-title="cxtv",ABC News
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.cxtvenvivo.com/tv-en-vivo/abc-news
+https://aegis-cloudfront-1.tubi.video/d6cbb0de-68e4-4f3b-82f9-bf5d526e0bde/index.m3u8
+
+#EXTINF:-1 tvg-name="Azteca Deportes" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/2ecbfa8a3f25cc1212dbcd975383b55a.webp" group-title="cxtv",Azteca Deportes
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.cxtvenvivo.com/tv-en-vivo/azteca-deportes
+https://azt-mun.otteravision.com/azt/mun/mun.m3u8
+
+#EXTINF:-1 tvg-name="Baby Shark TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/80445724b0084751d2edc41bb8eb6a9f.webp" group-title="cxtv",Baby Shark TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.cxtvenvivo.com/tv-en-vivo/baby-shark-tv-us
+https://newidco-babysharktv-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Brit Asia TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/05688812f7bb6ad3c213b091a9efdeae.webp" group-title="cxtv",Brit Asia TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.cxtvenvivo.com/tv-en-vivo/brit-asia-tv
+https://hls.autopo.st/hls/britasiatv/index.m3u8
+
+#EXTINF:-1 tvg-name="CNN en Español" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/47f99fa1872d0b6c8d1c562b94bfeb31.webp" group-title="cxtv",CNN en Español
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.cxtvenvivo.com/tv-en-vivo/cnn-en-espanol
+https://amg00803-cnnfast-amg00803c3-lg-es-5477.playouts.now.amagi.tv/playlist1080p.m3u8
+
+#EXTINF:-1 tvg-name="Caracol Mix" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/17d7292ee7ab875b0cec39567312475f.webp" group-title="cxtv",Caracol Mix
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.cxtvenvivo.com/tv-en-vivo/caracol-mix
+https://amg01433-amg01433c1-canelatv-international-8611.playouts.now.amagi.tv/1080p-vtt/index.m3u8
+
+#EXTINF:-1 tvg-name="DW - German" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/dd20dc7ce12901f45a5f100a4cc97032.webp" group-title="cxtv",DW - German
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.cxtvenvivo.com/tv-en-vivo/dw-deutsche-welle
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+
+#EXTINF:-1 tvg-name="Discover Film" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f71c0f738697bd4a28447b3187df8477.webp" group-title="cxtv",Discover Film
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.cxtvenvivo.com/tv-en-vivo/discover-film
+https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="ESPN Radio Seattle Sports" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/a33bf53e8014f0ac177ff7218dffd3a1.webp" group-title="cxtv",ESPN Radio Seattle Sports
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.cxtvenvivo.com/camara-en-vivo/espn-radio-seattle
+https://99450c6a6d974a7a8fe40e7aea7477f8.mediatailor.us-west-2.amazonaws.com/v1/master/cbadc959d0c9b4829831c664f5ec02b07c91d8a1/KIRO-AM/playlist.m3u8
+
+#EXTINF:-1 tvg-name="FIFA Plus - Português" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/f5f1b3ee68f9bd23c87dab4a49e755b2.webp" group-title="cxtv",FIFA Plus - Português
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.cxtvenvivo.com/tv-en-vivo/fifa-plus
+https://c2657533.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UGxleC1icl9GSUZBUGx1c1BvcnR1Z3Vlc2VfSExT/playlist.m3u8
+
+#EXTINF:-1 tvg-name="FOX Sports en Español" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/5c2f33d5ee4ec2d82edb58610f2b0ff7.webp" group-title="cxtv",FOX Sports en Español
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.cxtvenvivo.com/tv-en-vivo/fox-spots-en-espanol
+https://live-manifest.production-public.tubi.io/live/d906efca-1302-4e29-b0d9-9a1d7a305d69/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Hardcore Pawn - Em Português" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/2c12ee932ef481d882e426fb323250a8.webp" group-title="cxtv",Hardcore Pawn - Em Português
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.cxtvenvivo.com/tv-en-vivo/hardcore-pawn
+https://amg00627-amg00627c47-plex-international-8092.playouts.now.amagi.tv/1080p-cc-por/index.m3u8
+
+#EXTINF:-1 tvg-name="IHOP - International House of Prayer" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e6e534347244365a59c4de619aa423a9.webp" group-title="cxtv",IHOP - International House of Prayer
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.cxtvenvivo.com/tv-en-vivo/ihop-international-house-of-prayer
+https://storage.sardius.media/archives/-K6FGrVYzVr92SDZiDnc/events/site_52641B1329/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Las Estrellas" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/cf0b09469b863ba943590967bc25b9ed.webp" group-title="cxtv",Las Estrellas
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.cxtvenvivo.com/tv-en-vivo/las-estrellas
+https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
+
+#EXTINF:-1 tvg-name="Mais TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f9e5c20f4f71b3fe29622ba56a709179.webp" group-title="cxtv",Mais TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.cxtvenvivo.com/tv-en-vivo/mais-tv-sp
+https://v2.cloudecast.com/maistv/index.m3u8
+
+#EXTINF:-1 tvg-name="Muro das Lamentações (Western Wall)" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/a124fd6ea3b16839d84a40c7f851bbe9.webp" group-title="cxtv",Muro das Lamentações (Western Wall)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.cxtvenvivo.com/camara-en-vivo/muro-das-lamentacoes-western-wall
+https://cdn1.cast-tv.com/23595/Live_Kotel3_ABR/playlist.m3u8
+
+#EXTINF:-1 tvg-name="ORTV Filmes e Variedades" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/45c64f0fcb64c6441c9d9ddff2671b23.webp" group-title="cxtv",ORTV Filmes e Variedades
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.cxtvenvivo.com/tv-en-vivo/ortv-filmes-e-variedades
+https://tv.ortv.com.br/hls/stream.m3u8
+
+#EXTINF:-1 tvg-name="Parlamentsfernsehen 1" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c19a7cd099a756122c02041bae6d9032.webp" group-title="cxtv",Parlamentsfernsehen 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.cxtvenvivo.com/tv-en-vivo/parlamentsfernsehen-1
+https://cldf-hlsgw.r53.cdn.tv1.eu/1000153copo/hk1.m3u8
+
+#EXTINF:-1 tvg-name="ProSieben" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c8422579d04e6a982f14d892369ddeae.webp" group-title="cxtv",ProSieben
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.cxtvenvivo.com/tv-en-vivo/prosieben
+https://dash4.antik.sk/live/test_pro_sieben_tizen/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Qello Concerts" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/7c38e1828adec79db2b2ff74454dcba7.webp" group-title="cxtv",Qello Concerts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.cxtvenvivo.com/tv-en-vivo/qello-concerts
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=568
+
+#EXTINF:-1 tvg-name="RT en Español" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/26c5a30029b81339ef17a02aa420f64c.webp" group-title="cxtv",RT en Español
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.cxtvenvivo.com/tv-en-vivo/rt-en-espanol
+https://rt-esp.rttv.com/live/rtesp/playlist_800Kb.m3u8
+
+#EXTINF:-1 tvg-name="RedeVida Caxias" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e8460a2dc1d7151ae5bf9ac7041b12b0.webp" group-title="cxtv",RedeVida Caxias
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.cxtvenvivo.com/tv-en-vivo/redevida-caxias
+https://srv3.zcast.com.br/vidacaxias/vidacaxias/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Stay TV Costa Rica" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/558623e158656b71cbf748a08797ab98.webp" group-title="cxtv",Stay TV Costa Rica
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tv.staytv.cr/
+https://tv.staytv.cr/live/abc123.m3u8
+
+#EXTINF:-1 tvg-name="TV Gaúcha" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0bc9a603f9b942e63419626cf1f98bea.webp" group-title="cxtv",TV Gaúcha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.cxtvenvivo.com/tv-en-vivo/tv-gaucha
+https://stmv3.voxtvhd.com.br/tvgaucha/tvgaucha/playlist.m3u8
+
+#EXTINF:-1 tvg-name="TVC Pará" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/9ab44544bd6523b400763ff37f0b3caf.webp" group-title="cxtv",TVC Pará
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.cxtvenvivo.com/tv-en-vivo/tvc-para
+https://srt01.logicahost.com.br/tvcbelem/tracks-v1/index.fmp4.m3u8
+
+#EXTINF:-1 tvg-name="UFC" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cdaae9d13a4961f1c6603a4a6b0bbbd2.webp" group-title="cxtv",UFC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.cxtvenvivo.com/tv-en-vivo/ufc
+https://linear-894.frequency.stream/mt/plex-br/894/hls/master/playlist_1920x1080.m3u8
+
+#EXTINF:-1 tvg-name="Venevision" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/d1eddd04945b864b02a236f6444606db.webp" group-title="cxtv",Venevision
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.cxtvenvivo.com/tv-en-vivo/venevision
+https://pubads.g.doubleclick.net/ssai/event/xl2VClgXQmKB5abFGlmyZQ/master.m3u8
+
+#EXTINF:-1 tvg-name="Canal 5 MX online" tvg-logo="https://bestleague.world/img/canal5.webp" group-title="tvLibre",Canal 5 MX online
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://streamtp.sbs/global1.php?stream=canal5mx
+https://wp.streamtp.sbs:443/global/canal5mx/index.m3u8?token=78bb14c04d951e824b3dd112177ff0cf561f19c8-56-1784401657-1784347657&ip=189.203.13.163
+
+#EXTINF:-1 tvg-name="DirecTV Sports (DSports) online" tvg-logo="https://bestleague.world/img/dsports.webp" group-title="tvLibre",DirecTV Sports (DSports) online
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=dsports
+https://dw5pdgvk.fubo18.com:443/dsports/mono.m3u8?token=569c2322ef8902e3c96390409afb34756f8d8bbd-e3-1784373758-1784355758
+
+#EXTINF:-1 tvg-name="DirecTV Sports 2 (DSports 2) online" tvg-logo="https://bestleague.world/img/dsports2.webp" group-title="tvLibre",DirecTV Sports 2 (DSports 2) online
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=dsports2
+https://b2ZmaWNpYWw.fubo18.com:443/dsports2/mono.m3u8?token=daef683b1591655069ec61ae3a0a4dcb5d7ff2f4-27-1784373759-1784355759
+
+#EXTINF:-1 tvg-name="ESPN 1 MÃ©xico online" tvg-logo="https://bestleague.world/img/espn.webp" group-title="tvLibre",ESPN 1 MÃ©xico online
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://streamtp.sbs/global1.php?stream=espnmx
+https://wp.streamtp.sbs:443/global/espnmx/index.m3u8?token=47290f485b922f54ad6b6e00c7d32399f9c61f1d-95-1784401662-1784347662&ip=189.203.13.163
+
+#EXTINF:-1 tvg-name="ESPN 2 MÃ©xico online" tvg-logo="https://bestleague.world/img/espn2.webp" group-title="tvLibre",ESPN 2 MÃ©xico online
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://streamtp.sbs/global1.php?stream=espn2mx
+https://pw.streamtp.sbs:443/global/espn2mx/index.m3u8?token=c727fe3781c514cc7dd4e7661561af87c4936ac0-ad-1784401662-1784347662&ip=189.203.13.163
+
+#EXTINF:-1 tvg-name="ESPN 3 MÃ©xico online" tvg-logo="https://bestleague.world/img/espn3.webp" group-title="tvLibre",ESPN 3 MÃ©xico online
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://streamtp.sbs/global1.php?stream=espn3mx
+https://wp.streamtp.sbs:443/global/espn3mx/index.m3u8?token=cbd22f40c9cd1247667e1dd4e646dffd1978ad19-6d-1784401662-1784347662&ip=189.203.13.163
+
+#EXTINF:-1 tvg-name="ESPN 4 MÃ©xico online" tvg-logo="https://bestleague.world/img/espn4.webp" group-title="tvLibre",ESPN 4 MÃ©xico online
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://streamtp.sbs/global1.php?stream=espn4mx
+https://pw.streamtp.sbs:443/global/espn4mx/index.m3u8?token=3ebe30014167121c46df169fac6aab0f630c9049-f6-1784401662-1784347662&ip=189.203.13.163
+
+#EXTINF:-1 tvg-name="ESPN Deportes online" tvg-logo="https://bestleague.world/img/espndep.png" group-title="tvLibre",ESPN Deportes online
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://streamtp.sbs/global1.php?stream=espndeportes
+https://wp.streamtp.sbs:443/global/espndeportes/index.m3u8?token=7598f51f1997bec710b637775a6e060a1049f6c6-a9-1784401663-1784347663&ip=189.203.13.163
+
+#EXTINF:-1 tvg-name="FOX Deportes online" tvg-logo="https://bestleague.world/img/foxdep.png" group-title="tvLibre",FOX Deportes online
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://streamtp.sbs/global1.php?stream=fox_deportes_usa
+https://pw.streamtp.sbs:443/global/fox_deportes_usa/index.m3u8?token=cf20d6a4b477abf4ebb02d3a69f70822ecb85824-c3-1784401663-1784347663&ip=189.203.13.163
+
+#EXTINF:-1 tvg-name="Liga 1 Max online" tvg-logo="https://bestleague.world/img/liga1max.webp" group-title="tvLibre",Liga 1 Max online
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://streamtp.sbs/global1.php?stream=liga1max
+https://wp.streamtp.sbs:443/global/liga1max/index.m3u8?token=0a413b122bb51d81a7bf28a58255d9ebc80a0bf3-8a-1784401665-1784347665&ip=189.203.13.163
+
+#EXTINF:-1 tvg-name="Love Nature online" tvg-logo="https://bestleague.world/img/lovenature.png" group-title="tvLibre",Love Nature online
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bestleague.world/canal/?id=LOVENATURE
+https://unlimited1-buenosaires.dps.live/televidaar/televidaar.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="TUDN online" tvg-logo="https://bestleague.world/img/tudn.png" group-title="tvLibre",TUDN online
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://streamtp.sbs/global1.php?stream=tudn_usa
+https://wp.streamtp.sbs:443/global/tudn_usa/index.m3u8?token=19c1bac5e0dcb3f6d780129a052c1d2eea89a59d-81-1784401663-1784347663&ip=189.203.13.163
+
+#EXTINF:-1 tvg-name="Televida online" tvg-logo="https://bestleague.world/img/televida.webp" group-title="tvLibre",Televida online
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bestleague.world/canal/?id=TELEVIDAHLS
+https://unlimited1-buenosaires.dps.live/televidaar/televidaar.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="TyC Sports online" tvg-logo="https://bestleague.world/img/tyc.webp" group-title="tvLibre",TyC Sports online
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvlibreonline.tv/en-vivo/tyc-sports/
+https://tvlibreonline.tv/pc/ext/?r=https://ch11-04-11-tyc.vodgc.net/out/v1/1bcd1ee954894463b1793597891a25b6/index.m3u8%3Fheaders%3DeyJvcmlnaW4iOiJodHRwczovL3BsYXkudHljc3BvcnRzLmNvbSIsInJlZmVyZXIiOiJodHRwczovL3BsYXkudHljc3BvcnRzLmNvbS8ifQ%3D%3D
+
+#EXTINF:-1 tvg-name="Universo online" tvg-logo="https://bestleague.world/img/universo.png" group-title="tvLibre",Universo online
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://streamtp.sbs/global1.php?stream=universo
+https://wp.streamtp.sbs:443/global/universo/index.m3u8?token=55de03219ad3651465cd309a03501e214ff1605f-a0-1784401680-1784347680&ip=189.203.13.163
+
+#EXTINF:-1 tvg-name="UnivisÃ­on online" tvg-logo="https://bestleague.world/img/univision.png" group-title="tvLibre",UnivisÃ­on online
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://streamtp.sbs/global1.php?stream=univision_usa
+https://pw.streamtp.sbs:443/global/univision_usa/index.m3u8?token=d734478ae42472d6058eb4819034054a4bdf72f2-bc-1784401680-1784347680&ip=189.203.13.163
+
+#EXTINF:-1 tvg-name="VTV Plus online" tvg-logo="https://bestleague.world/img/vtvplus.webp" group-title="tvLibre",VTV Plus online
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=vtvplus
+https://c2nvdxq.fubo18.com:443/vtvplus/mono.m3u8?token=aacb0f2690b3351e6d81197ac011c6feb1176ab2-56-1784373764-1784355764
+
+#EXTINF:-1 tvg-name="Win Sports + online" tvg-logo="https://bestleague.world/img/winsports.webp" group-title="tvLibre",Win Sports + online
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://streamtp.sbs/global1.php?stream=winplus
+https://wp.streamtp.sbs:443/global/winplus/index.m3u8?token=d90e90b4a8726455db8119cf286a2e79921a86b4-2d-1784401665-1784347665&ip=189.203.13.163
+
+#EXTINF:-1 tvg-name="Win Sports online" tvg-logo="https://bestleague.world/img/win.png" group-title="tvLibre",Win Sports online
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://streamtp.sbs/global1.php?stream=winsports
+https://pw.streamtp.sbs:443/global/winsports/index.m3u8?token=4b2370e53f770e6aaeea482da284d834213936c0-18-1784401664-1784347664&ip=189.203.13.163
