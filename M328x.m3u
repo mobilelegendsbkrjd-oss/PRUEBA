@@ -1,635 +1,860 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="AMC" tvg-logo="https://www.tvporinternet2.com/imge/amc.webp" group-title="Cine y Series",AMC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=63_&exp=1784569521&sig=62a92c51c5f684d3bd201a10c7831bb81eba99dbdcc2d1d93dcf4ff6100ee498
+https://regionales.saohgdasregions.fun:9092/MTg5LjE1Ni4yNDkuMTEy/63_.m3u8?token=L4pwEjcttWVWn2-WAKScMg&expires=1784612692
+
+#EXTINF:-1 tvg-name="Canal Sony" tvg-logo="https://www.tvporinternet2.com/imge/canalsony.webp" group-title="Cine y Series",Canal Sony
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=72_&exp=1784569525&sig=0ef2a093e794fa813026c7c5bb10b8be14d065d109e8bdc3f80b61492f207d3c
+https://regionales.saohgdasregions.fun:9092/MTg5LjE1Ni4yNDkuMTEy/72_.m3u8?token=hGWMlhr1coKZi2qeCFpXqw&expires=1784612696
+
 #EXTINF:-1 tvg-name="Cinecanal" tvg-logo="https://www.tvporinternet2.com/imge/cinecanal.webp" group-title="Cine y Series",Cinecanal
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=59_&exp=1784426050&sig=014d2e35d4fd415e5556ab6936d2c00928dfd04abf05876094715055b7f2dc93
-https://regionales.saohgdasregions.fun:9092/MTg5LjIwMy4xMy4xNjM=/59_.m3u8?token=0B0XMi07O1D7l63nt7zKsw&expires=1784469220
+#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=59_&exp=1784569519&sig=2f648c7bfd4a107a08d5d544919c9ca0085a0982539b51ae4fdcabc53471fad3
+https://regionales.saohgdasregions.fun:9092/MTg5LjE1Ni4yNDkuMTEy/59_.m3u8?token=9EUsnhH3ui4UC_30gJZ05g&expires=1784612689
 
 #EXTINF:-1 tvg-name="Cinemax" tvg-logo="https://www.tvporinternet2.com/imge/cinemax.webp" group-title="Cine y Series",Cinemax
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=55_&exp=1784426037&sig=04910c03dbedfbbb9126af76978438a799ddc4f32f22da1bfa25cd9c37c1a483
-https://regionales.saohgdasregions.fun:9092/MTg5LjIwMy4xMy4xNjM=/55_.m3u8?token=w46WTvJcjBUggbE4jFsmog&expires=1784469207
+#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=55_&exp=1784569517&sig=c92815b1b5c161120956ef4a79b49f48680e48cc16fa3aa27eda1e8dc62f8a11
+https://regionales.saohgdasregions.fun:9092/MTg5LjE1Ni4yNDkuMTEy/55_.m3u8?token=K5C5TTIpnM4FA_o1puyylA&expires=1784612688
 
 #EXTINF:-1 tvg-name="FX" tvg-logo="https://www.tvporinternet2.com/imge/fx.webp" group-title="Cine y Series",FX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=60_&exp=1784426041&sig=ef60fba15ccbe6c42a95778d6aa59bd506db3bf0e51cc688cd00c277f8c879f3
-https://regionales.saohgdasregions.fun:9092/MTg5LjIwMy4xMy4xNjM=/60_.m3u8?token=-nbw3lQ_5HnGHlmDPbQWTA&expires=1784469212
+#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=60_&exp=1784569519&sig=72f12de5552156cbed1676de9e8a4bfe0517d94de0d7143c87bfbf7b6e42fd46
+https://regionales.saohgdasregions.fun:9092/MTg5LjE1Ni4yNDkuMTEy/60_.m3u8?token=gcU_S44uQyjRXQTkLNXttQ&expires=1784612689
 
 #EXTINF:-1 tvg-name="Space" tvg-logo="https://www.tvporinternet2.com/imge/space.webp" group-title="Cine y Series",Space
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=56_&exp=1784426044&sig=9ad0259c14f630430bb4484b9c5bed5520c898c045b18fed2805599955f6acd7
-https://regionales.saohgdasregions.fun:9092/MTg5LjIwMy4xMy4xNjM=/56_.m3u8?token=ZoZduQbuRHin0uJ8rGE-Cg&expires=1784469214
+#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=56_&exp=1784569518&sig=05d53d734ed842112332feeb1a1022f68c2a4446dc8f975d84680e9f6c3da824
+https://regionales.saohgdasregions.fun:9092/MTg5LjE1Ni4yNDkuMTEy/56_.m3u8?token=T6wbp_IBeK5v4hbNcswEog&expires=1784612688
 
 #EXTINF:-1 tvg-name="Star Channel" tvg-logo="https://www.tvporinternet2.com/imge/star.webp" group-title="Cine y Series",Star Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=54_&exp=1784426035&sig=1fad10aab2dc0872cf52d42778e4e5f2eb1388f20ad76da453097cc344187fc9
-https://regionales.saohgdasregions.fun:9092/MTg5LjIwMy4xMy4xNjM=/54_.m3u8?token=O2KX44gkHk15EqTIhpRVmQ&expires=1784469205
+#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=54_&exp=1784569516&sig=3fb1fd4a017f557eda4adef31ff3553fad45d7a5d5b3e20c539966b0b557364e
+https://regionales.saohgdasregions.fun:9092/MTg5LjE1Ni4yNDkuMTEy/54_.m3u8?token=vvl-dQSgdMSv0Q0yXyGDhw&expires=1784612687
 
 #EXTINF:-1 tvg-name="Studio Universal" tvg-logo="https://www.tvporinternet2.com/imge/studiouniversal.webp" group-title="Cine y Series",Studio Universal
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=64_&exp=1784426046&sig=8d799983d62ec576ca49b9f40cae563dea72736688af93c7a0a60d36b6747628
-https://regionales.saohgdasregions.fun:9092/MTg5LjIwMy4xMy4xNjM=/64_.m3u8?token=sjmga5TNbsaFh2cLm3vzgA&expires=1784469216
+#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=64_&exp=1784569521&sig=f4c62ce5e99a75068bbc92ba8075ee5fa0b866a3fed3c09e99265baac69275ca
+https://regionales.saohgdasregions.fun:9092/MTg5LjE1Ni4yNDkuMTEy/64_.m3u8?token=5XLaYqKgIDSL19eQPV2HAA&expires=1784612692
 
 #EXTINF:-1 tvg-name="TNT" tvg-logo="https://www.tvporinternet2.com/imge/tnt.webp" group-title="Cine y Series",TNT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=52_&exp=1784426042&sig=1b42b0be1f94e13c851ee1a0887cdf0bc342f1f9fda353b946002d2cf81f715b
-https://regionales.saohgdasregions.fun:9092/MTg5LjIwMy4xMy4xNjM=/52_.m3u8?token=oCw2fLjtUOn7rb8ZWo6mIA&expires=1784469213
+#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=52_&exp=1784569515&sig=575d3b6e759ab12094501ae87ee41523d1bd53cb834bea6fab33e13bae263877
+https://regionales.saohgdasregions.fun:9092/MTg5LjE1Ni4yNDkuMTEy/52_.m3u8?token=DXSjFHJt27h7Z1G_ipdyJQ&expires=1784612685
+
+#EXTINF:-1 tvg-name="TNT Novelas" tvg-logo="https://www.tvporinternet2.com/imge/tntnovelas.webp" group-title="Cine y Series",TNT Novelas
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=5_&exp=1784569509&sig=4b12ab8bf2b90a3118a850818122cff58c0cc03768f31ea1d09779e868187dec
+https://regionales.saohgdasregions.fun:9092/MTg5LjE1Ni4yNDkuMTEy/5_.m3u8?token=xTbX8eoddMe8V_yHZowQsQ&expires=1784612680
 
 #EXTINF:-1 tvg-name="TNT Series" tvg-logo="https://www.tvporinternet2.com/imge/tntseries.webp" group-title="Cine y Series",TNT Series
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=53_&exp=1784426034&sig=3f4161d2d85028ebf9cababb4818091ed54b9fcb4e6fcd5d2620e1c388875509
-https://regionales.saohgdasregions.fun:9092/MTg5LjIwMy4xMy4xNjM=/53_.m3u8?token=CVj-fyfFuCjvZO4cWuF4OA&expires=1784469204
+#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=53_&exp=1784569516&sig=434dda77667d80e5bfd44a3a0f0b9f1d1c7e60b7c619431dd801eb8114c78469
+https://regionales.saohgdasregions.fun:9092/MTg5LjE1Ni4yNDkuMTEy/53_.m3u8?token=u7H5S_Bx_ENdr-7FCHuNLQ&expires=1784612686
 
 #EXTINF:-1 tvg-name="Universal Channel" tvg-logo="https://www.tvporinternet2.com/imge/universalchannel.webp" group-title="Cine y Series",Universal Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=49_&exp=1784426031&sig=1cc0f7ab7ad9d2a23655d888ed31437ffd46e6cff1332f5b6353e15c8664e91b
-https://regionales.saohgdasregions.fun:9092/MTg5LjIwMy4xMy4xNjM=/49_.m3u8?token=Br6oAyUrDf_Hl4r7JFhAwA&expires=1784469201
+#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=49_&exp=1784569514&sig=d969f4ef20d67137a4a67edf73ccbbac4283a85b47e2458abb1372f3ee784cdf
+https://regionales.saohgdasregions.fun:9092/MTg5LjE1Ni4yNDkuMTEy/49_.m3u8?token=PRuQDPpItBpQ8Kz0YKAxrg&expires=1784612685
+
+#EXTINF:-1 tvg-name="Warner Channel" tvg-logo="https://www.tvporinternet2.com/imge/warnerbrostv.webp" group-title="Cine y Series",Warner Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=58_&exp=1784569518&sig=b965087963d949dd1d32bb42a85c4614a306baa8efcd958a082cb6c55cb6cf99
+https://regionales.saohgdasregions.fun:9092/MTg5LjE1Ni4yNDkuMTEy/58_.m3u8?token=Un1ipCj5DEhYg_k9z9N9Sw&expires=1784612689
+
+#EXTINF:-1 tvg-name="Azteca Deportes" tvg-logo="https://www.tvporinternet2.com/imge/aztecadeportes.webp" group-title="Deportes",Azteca Deportes
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://deportes.ksdjugfsddeports.com/librefutbol.php?stream=34_&exp=1784569479&sig=9121aa2a618dfd6d15e0e4eadc5bde300adfe78488c605000c4a97fdf6d9b8ff
+https://deportes.ksdjugfsddeports.com:9092/MTg5LjE1Ni4yNDkuMTEy/34_.m3u8?token=tWR2m38OjFgiRIT5iFiPaA&expires=1784612649
 
 #EXTINF:-1 tvg-name="Bein Sports Xtra" tvg-logo="https://www.tvporinternet2.com/imge/beinsportsxtra.webp" group-title="Deportes",Bein Sports Xtra
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://deportes.ksdjugfsddeports.com/librefutbol.php?stream=31_&exp=1784425964&sig=c6e782b895de3ff5331efdb18aa7441ffd0bf604069cd7092c51ec173d054c1d
-https://deportes.ksdjugfsddeports.com:9092/MTg5LjIwMy4xMy4xNjM=/31_.m3u8?token=T5CfLPbSgYGzoarbxhd49w&expires=1784469134
+#EXTVLCOPT:http-referrer=https://deportes.ksdjugfsddeports.com/librefutbol.php?stream=31_&exp=1784569484&sig=5f4b831dfaf94532f246ad71eded34b3c5dca1aac4ad341b525734e1af6c95b4
+https://deportes.ksdjugfsddeports.com:9092/MTg5LjE1Ni4yNDkuMTEy/31_.m3u8?token=monZsb9_V2gt2u5jwkOXQA&expires=1784612655
 
 #EXTINF:-1 tvg-name="Dazn La Liga" tvg-logo="https://www.tvporinternet2.com/imge/daznlaliga1.webp" group-title="Deportes",Dazn La Liga
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://deportes.ksdjugfsddeports.com/librefutbol.php?stream=28_&exp=1784425967&sig=9622fa0f7f338ecb5eaf3c8e373309338250b0de7574c4837d1d14b4181b9e22
-https://deportes.ksdjugfsddeports.com:9092/MTg5LjIwMy4xMy4xNjM=/28_.m3u8?token=KfdKLCQBCfvh0Nh07L6VZg&expires=1784469137
+#EXTVLCOPT:http-referrer=https://deportes.ksdjugfsddeports.com/librefutbol.php?stream=28_&exp=1784569484&sig=3de227a06b4dcf6a0921391b768f1bc7796e27ca1918187519f17e7512abd609
+https://deportes.ksdjugfsddeports.com:9092/MTg5LjE1Ni4yNDkuMTEy/28_.m3u8?token=w3n5nZV_lH7A4xjaMietgQ&expires=1784612655
 
-#EXTINF:-1 tvg-name="Directv Sports 2" tvg-logo="https://www.tvporinternet2.com/imge/directvsports2.webp" group-title="Deportes",Directv Sports 2
+#EXTINF:-1 tvg-name="Directv Sports" tvg-logo="https://www.tvporinternet2.com/imge/directvsports.webp" group-title="Deportes",Directv Sports
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://deportes.ksdjugfsddeports.com/librefutbol.php?stream=7_&exp=1784425970&sig=abc73728523e81773473924b3e58fad5d189ab430ee1c4ec89db1b45f0fea067
-https://deportes.ksdjugfsddeports.com:9092/MTg5LjIwMy4xMy4xNjM=/7_.m3u8?token=JfU9a0Q_glsqR-9fxqgCMA&expires=1784469140
+#EXTVLCOPT:http-referrer=https://deportes.ksdjugfsddeports.com/librefutbol.php?stream=3_&exp=1784569485&sig=37a4b5aa0e8e3df63b4a07640b4ea4f2f573b7325cb179674d0252ae4a6b8d48
+https://deportes.ksdjugfsddeports.com:9092/MTg5LjE1Ni4yNDkuMTEy/3_.m3u8?token=5gAYaKJCHnVYbkypxLUYRw&expires=1784612655
+
+#EXTINF:-1 tvg-name="Directv Sports Plus" tvg-logo="https://www.tvporinternet2.com/imge/directvsportsplus.webp" group-title="Deportes",Directv Sports Plus
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://deportes.ksdjugfsddeports.com/librefutbol.php?stream=11_&exp=1784569487&sig=635e6573dc98a3483fdbe4c7b8031db223acb2935abed2c59a85537952ecffc4
+https://deportes.ksdjugfsddeports.com:9092/MTg5LjE1Ni4yNDkuMTEy/11_.m3u8?token=qn0MwIwGQzrFA_eOqfLWqg&expires=1784612658
 
 #EXTINF:-1 tvg-name="ESPN 2" tvg-logo="https://www.tvporinternet2.com/imge/espn2.webp" group-title="Deportes",ESPN 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://deportes.ksdjugfsddeports.com/librefutbol.php?stream=14_&exp=1784425971&sig=08e2f75ea66a4bc2aeaeac3e174358b940a363574e86ebb14e984cf8071361e5
-https://deportes.ksdjugfsddeports.com:9092/MTg5LjIwMy4xMy4xNjM=/14_.m3u8?token=Z8_ErhtSs5yhYmkXQd4yZA&expires=1784469141
+#EXTVLCOPT:http-referrer=https://deportes.ksdjugfsddeports.com/librefutbol.php?stream=14_&exp=1784569488&sig=230b7fb4162f81bbc33eb78cde3c6e28e07b481da3172a403e0b21c6325e868c
+https://deportes.ksdjugfsddeports.com:9092/MTg5LjE1Ni4yNDkuMTEy/14_.m3u8?token=nwO7yHhujrIb2cgBKQsmOg&expires=1784612658
 
-#EXTINF:-1 tvg-name="ESPN 2 Mexico" tvg-logo="https://www.tvporinternet2.com/imge/espn2mexico.webp" group-title="Deportes",ESPN 2 Mexico
+#EXTINF:-1 tvg-name="ESPN Mexico" tvg-logo="https://www.tvporinternet2.com/imge/espnmexico.webp" group-title="Deportes",ESPN Mexico
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://deportes.ksdjugfsddeports.com/librefutbol.php?stream=20_&exp=1784425977&sig=0d3bdca20328cca6fd707191df24dec6bc541a30a922eeb17560eb9378720f96
-https://deportes.ksdjugfsddeports.com:9092/MTg5LjIwMy4xMy4xNjM=/20_.m3u8?token=yxyccjDrdP00HgkGxqb-XQ&expires=1784469147
+#EXTVLCOPT:http-referrer=https://deportes.ksdjugfsddeports.com/librefutbol.php?stream=19_&exp=1784569492&sig=874ebc6971b71f7cc3be08388f8d4a8dee3f56367f82c665eb7ddd03742b8768
+https://deportes.ksdjugfsddeports.com:9092/MTg5LjE1Ni4yNDkuMTEy/19_.m3u8?token=bPpqw4QnIZxfGlwhad8b-w&expires=1784612663
 
 #EXTINF:-1 tvg-name="ESPN Premium" tvg-logo="https://www.tvporinternet2.com/imge/espnpremium.webp" group-title="Deportes",ESPN Premium
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://deportes.ksdjugfsddeports.com/librefutbol.php?stream=5_&exp=1784425972&sig=c7fee7cc5bf8ec540cc17de97952db21c13a125d41caff48951c4d54005d80b0
-https://deportes.ksdjugfsddeports.com:9092/MTg5LjIwMy4xMy4xNjM=/5_.m3u8?token=Jo0O7IqSVfN2QsI42JkjvQ&expires=1784469142
+#EXTVLCOPT:http-referrer=https://deportes.ksdjugfsddeports.com/librefutbol.php?stream=5_&exp=1784569487&sig=2e5f6c2c70cae2eade6d7547b8b08261099d05a00ddadcf372801b70844899b4
+https://deportes.ksdjugfsddeports.com:9092/MTg5LjE1Ni4yNDkuMTEy/5_.m3u8?token=a2quFKwV2NIwHQeTI8UzoA&expires=1784612658
 
 #EXTINF:-1 tvg-name="Fox Sports 3" tvg-logo="https://www.tvporinternet2.com/imge/foxsports3.webp" group-title="Deportes",Fox Sports 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://deportes.ksdjugfsddeports.com/librefutbol.php?stream=10_&exp=1784426006&sig=f64de36307f99772c9d56523dfac0d6094b32da41f089febc09f61a5affc7d71
-https://deportes.ksdjugfsddeports.com:9092/MTg5LjIwMy4xMy4xNjM=/10_.m3u8?token=Xq8vQ-8lM1FYU3QW5Kynbg&expires=1784469177
+#EXTVLCOPT:http-referrer=https://deportes.ksdjugfsddeports.com/librefutbol.php?stream=10_&exp=1784569496&sig=83c94a7512861799294d2a61fa2d0fc269ebcd05d01fcac754ab166418ef988a
+https://deportes.ksdjugfsddeports.com:9092/MTg5LjE1Ni4yNDkuMTEy/10_.m3u8?token=4OJKnJQVPGs-JAmzT4gfxw&expires=1784612667
 
 #EXTINF:-1 tvg-name="Fox Sports 3 Mexico" tvg-logo="https://www.tvporinternet2.com/imge/foxsports3mexico.webp" group-title="Deportes",Fox Sports 3 Mexico
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://deportes.ksdjugfsddeports.com/librefutbol.php?stream=18_&exp=1784425991&sig=53c797baed2f2806d62a1a4ee4c13b6a87b9fe202de30553767f6fa11d56dd0f
-https://deportes.ksdjugfsddeports.com:9092/MTg5LjIwMy4xMy4xNjM=/18_.m3u8?token=ljyY7AZd0tp_SZEiH8i0HA&expires=1784469161
+#EXTVLCOPT:http-referrer=https://deportes.ksdjugfsddeports.com/librefutbol.php?stream=18_&exp=1784569497&sig=0c9d4f8e94797ab2a7e508d4477ed2e4edf46a30121dfb896c098903457358bb
+https://deportes.ksdjugfsddeports.com:9092/MTg5LjE1Ni4yNDkuMTEy/18_.m3u8?token=MAOujTovtuXSeUH-flrfvQ&expires=1784612667
 
 #EXTINF:-1 tvg-name="Fox Sports Premium" tvg-logo="https://www.tvporinternet2.com/imge/foxsportspremium.webp" group-title="Deportes",Fox Sports Premium
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://deportes.ksdjugfsddeports.com/librefutbol.php?stream=12_&exp=1784425954&sig=04b70d307c1ef46bb8f5939ad43b30ffa24da794f4f5eedcac3edc34f3e23f5b
-https://deportes.ksdjugfsddeports.com:9092/MTg5LjIwMy4xMy4xNjM=/12_.m3u8?token=H6LTD_56g-9aQf75bjOseQ&expires=1784469124
+#EXTVLCOPT:http-referrer=https://deportes.ksdjugfsddeports.com/librefutbol.php?stream=12_&exp=1784569483&sig=09a0d1ff820f09656b7826277a27147753a0786c92f6369bab5b6acc5f329d98
+https://deportes.ksdjugfsddeports.com:9092/MTg5LjE1Ni4yNDkuMTEy/12_.m3u8?token=2_pCjgvHAUEGlxh6cHiggQ&expires=1784612653
 
 #EXTINF:-1 tvg-name="Golden" tvg-logo="https://www.tvporinternet2.com/imge/golden.webp" group-title="Deportes",Golden
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=67_&exp=1784426054&sig=50bf329d37b20548a0d328fcc6a8447951387be3e57a512e6bb085c8e019cbe6
-https://regionales.saohgdasregions.fun:9092/MTg5LjIwMy4xMy4xNjM=/67_.m3u8?token=WUExHEJpefw1gHW0L2Jt1g&expires=1784469224
+#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=67_&exp=1784569523&sig=0d40d72ebd606a7256ad3d04a40e78e2d3fc454c5a66d796f1b6912577945755
+https://regionales.saohgdasregions.fun:9092/MTg5LjE1Ni4yNDkuMTEy/67_.m3u8?token=JpU5_fD_ew19MXj-S2B2DQ&expires=1784612693
 
 #EXTINF:-1 tvg-name="Golden Edge" tvg-logo="https://www.tvporinternet2.com/imge/goldenedge.webp" group-title="Deportes",Golden Edge
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=69_&exp=1784426057&sig=40378d89e44bbb6299c310433c6f2417d0b023fd833980394a456ff5b5fe018a
-https://regionales.saohgdasregions.fun:9092/MTg5LjIwMy4xMy4xNjM=/69_.m3u8?token=7b8XP2Ho9KzLe-kdX0eHdg&expires=1784469227
+#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=69_&exp=1784569523&sig=a003ca85327b2b5dcffffb56ba0e67c46aa32be840bbcb41e72fa4a913ea7169
+https://regionales.saohgdasregions.fun:9092/MTg5LjE1Ni4yNDkuMTEy/69_.m3u8?token=5TtX1tiAFBE4OMwqF76cbw&expires=1784612693
 
 #EXTINF:-1 tvg-name="Golden Plus" tvg-logo="https://www.tvporinternet2.com/imge/goldenplus.webp" group-title="Deportes",Golden Plus
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=68_&exp=1784426049&sig=8e05f5e8d4b5eda003a60224f4e8f0f328ad736e8b760f7dddf06068a8f945c3
-https://regionales.saohgdasregions.fun:9092/MTg5LjIwMy4xMy4xNjM=/68_.m3u8?token=FPMDvuXtPkO4uSKx7qz2Wg&expires=1784469219
+#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=68_&exp=1784569523&sig=2058b74b9bb6f7b4899da1505073877d878f3ad7bfeb1b2f98839037a000d74a
+https://regionales.saohgdasregions.fun:9092/MTg5LjE1Ni4yNDkuMTEy/68_.m3u8?token=U65QfZ63pvZldlhOCfnXOw&expires=1784612693
+
+#EXTINF:-1 tvg-name="Golden Premier" tvg-logo="https://www.tvporinternet2.com/imge/goldenpremier.webp" group-title="Deportes",Golden Premier
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=70_&exp=1784569523&sig=1883274a8b940e26c52a74fc41e5c46ea36a7fbb9a88149d2324e0cea5a340d2
+https://regionales.saohgdasregions.fun:9092/MTg5LjE1Ni4yNDkuMTEy/70_.m3u8?token=k5PeBkKH32DGGP7oGtJbtg&expires=1784612694
 
 #EXTINF:-1 tvg-name="Liga 1" tvg-logo="https://www.tvporinternet2.com/imge/liga1.webp" group-title="Deportes",Liga 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://deportes.ksdjugfsddeports.com/librefutbol.php?stream=39_&exp=1784425949&sig=ef18785cdb8055a539a87c2416d334df57e3456c8f79dbc78a7e22fc1a8db1ff
-https://deportes.ksdjugfsddeports.com:9092/MTg5LjIwMy4xMy4xNjM=/39_.m3u8?token=FXT9KibC-593Lvs7EEDadg&expires=1784469119
+#EXTVLCOPT:http-referrer=https://deportes.ksdjugfsddeports.com/librefutbol.php?stream=39_&exp=1784569479&sig=038c9431f9481c039cdcd4a8ea1f37c27727b30e754113a5410167c7d0f38b6d
+https://deportes.ksdjugfsddeports.com:9092/MTg5LjE1Ni4yNDkuMTEy/39_.m3u8?token=2fa_CL4OkdE6gR4MsE5CDw&expires=1784612649
 
 #EXTINF:-1 tvg-name="Liga 1 Max" tvg-logo="https://www.tvporinternet2.com/imge/liga1max.webp" group-title="Deportes",Liga 1 Max
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://deportes.ksdjugfsddeports.com/librefutbol.php?stream=22_&exp=1784425951&sig=4d9211cc7322dff3d0e90b742031972236c8f8665713ca53874f41852e38b45b
-https://deportes.ksdjugfsddeports.com:9092/MTg5LjIwMy4xMy4xNjM=/22_.m3u8?token=W_UEk92bPh1SA-ejq9m8Zg&expires=1784469121
+#EXTVLCOPT:http-referrer=https://deportes.ksdjugfsddeports.com/librefutbol.php?stream=22_&exp=1784569480&sig=777a6a1dd7fc86e6b86c6dd2101ecb3e3a84603b51095fd968b4cd0a194db342
+https://deportes.ksdjugfsddeports.com:9092/MTg5LjE1Ni4yNDkuMTEy/22_.m3u8?token=_c0-7oZpMiDVBpVTNCqEpA&expires=1784612650
 
 #EXTINF:-1 tvg-name="Movistar La Liga" tvg-logo="https://www.tvporinternet2.com/imge/movistarlaliga.webp" group-title="Deportes",Movistar La Liga
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://deportes.ksdjugfsddeports.com/librefutbol.php?stream=32_&exp=1784425955&sig=60f4368e7cc6f390b5c6e63c12281f97ec01f9afc7684fe1ec46fac1c0a7cac1
-https://deportes.ksdjugfsddeports.com:9092/MTg5LjIwMy4xMy4xNjM=/32_.m3u8?token=niSsgERwDuY_dNr8Y7zDlw&expires=1784469125
+#EXTVLCOPT:http-referrer=https://deportes.ksdjugfsddeports.com/librefutbol.php?stream=32_&exp=1784569484&sig=14d9dae794e19fb773f2c3e86627ddae90f572efcffcdf9156a71a1f23e4fac8
+https://deportes.ksdjugfsddeports.com:9092/MTg5LjE1Ni4yNDkuMTEy/32_.m3u8?token=xf2U3Jetrz2_h7TME5fGNQ&expires=1784612654
 
 #EXTINF:-1 tvg-name="Movistar Liga De Campeones" tvg-logo="https://www.tvporinternet2.com/imge/movistarligadecampeones.webp" group-title="Deportes",Movistar Liga De Campeones
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://deportes.ksdjugfsddeports.com/librefutbol.php?stream=29_&exp=1784425967&sig=8d76866ba5a16758fa53958ac24dd7e29a4ec993af7f08c9c83770304347e117
-https://deportes.ksdjugfsddeports.com:9092/MTg5LjIwMy4xMy4xNjM=/29_.m3u8?token=w-59IJVLd_ob2s81eGa8rg&expires=1784469137
+#EXTVLCOPT:http-referrer=https://deportes.ksdjugfsddeports.com/librefutbol.php?stream=29_&exp=1784569484&sig=01285673d309fee449a6808cbec475baab29dd896d0535a70223feb2add21317
+https://deportes.ksdjugfsddeports.com:9092/MTg5LjE1Ni4yNDkuMTEy/29_.m3u8?token=zGwX7INg8INi88UlEeldQw&expires=1784612654
 
 #EXTINF:-1 tvg-name="Sky Sports La Liga" tvg-logo="https://www.tvporinternet2.com/imge/skysportslaliga.webp" group-title="Deportes",Sky Sports La Liga
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://deportes.ksdjugfsddeports.com/librefutbol.php?stream=37_&exp=1784425968&sig=8058614c513955dc5660ca974fda3811d7535fc64f8f23e0384d25f97208f167
-https://deportes.ksdjugfsddeports.com:9092/MTg5LjIwMy4xMy4xNjM=/37_.m3u8?token=xepXh06xu8aor9msRydCtg&expires=1784469138
+#EXTVLCOPT:http-referrer=https://deportes.ksdjugfsddeports.com/librefutbol.php?stream=37_&exp=1784569480&sig=47376a151a15893139f3e83bcd5d4d694655f4293198a76b1d6a89f7cb1c334a
+https://deportes.ksdjugfsddeports.com:9092/MTg5LjE1Ni4yNDkuMTEy/37_.m3u8?token=PHbnxIFm5fYLSxDgvxeX_w&expires=1784612650
+
+#EXTINF:-1 tvg-name="TNT Sports" tvg-logo="https://www.tvporinternet2.com/imge/tntsports.webp" group-title="Deportes",TNT Sports
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://deportes.ksdjugfsddeports.com/librefutbol.php?stream=4_&exp=1784569480&sig=4b8724969d1c8e3fd3217ec6796f9de942d0751feeff064beb81f59fa3483abf
+https://deportes.ksdjugfsddeports.com:9092/MTg5LjE1Ni4yNDkuMTEy/4_.m3u8?token=9bBAwVQuxv2gjdBVPWZbpA&expires=1784612650
 
 #EXTINF:-1 tvg-name="TNT Sports Chile" tvg-logo="https://www.tvporinternet2.com/imge/tntsports.webp" group-title="Deportes",TNT Sports Chile
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://deportes.ksdjugfsddeports.com/librefutbol.php?stream=35_&exp=1784425951&sig=1d82e36e2d565b7da6ebec395d5e53199b99040726759813d0be62a405f213c3
-https://deportes.ksdjugfsddeports.com:9092/MTg5LjIwMy4xMy4xNjM=/35_.m3u8?token=u9kSkjOyQRHL3GH_KcEhUw&expires=1784469122
+#EXTVLCOPT:http-referrer=https://deportes.ksdjugfsddeports.com/librefutbol.php?stream=35_&exp=1784569480&sig=f2f8a33ed6d77ea8cdc0092d303edddd79f3480c054bfa1258169baf98458206
+https://deportes.ksdjugfsddeports.com:9092/MTg5LjE1Ni4yNDkuMTEy/35_.m3u8?token=WJwwnryhs6lkAmz6j3lN5A&expires=1784612650
+
+#EXTINF:-1 tvg-name="TUDN" tvg-logo="https://www.tvporinternet2.com/imge/tudn.webp" group-title="Deportes",TUDN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://deportes.ksdjugfsddeports.com/librefutbol.php?stream=1_&exp=1784569480&sig=7ea70fdcf3b67c9bb1ee41c535e50d4a2b04f29bb8fef5f407059a8d2bcfa477
+https://deportes.ksdjugfsddeports.com:9092/MTg5LjE1Ni4yNDkuMTEy/1_.m3u8?token=l2oxGuvW3U-T_uzMp_V09w&expires=1784612650
+
+#EXTINF:-1 tvg-name="TyC Sports" tvg-logo="https://www.tvporinternet2.com/imge/tycsports.webp" group-title="Deportes",TyC Sports
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://deportes.ksdjugfsddeports.com/librefutbol.php?stream=6_&exp=1784569483&sig=ff55e1f7b50447c5797e92bc11809bb9e712efc023adc23d4a43f54760448eb0
+https://deportes.ksdjugfsddeports.com:9092/MTg5LjE1Ni4yNDkuMTEy/6_.m3u8?token=pOrQDwkA-tfk1WDk1gUi2Q&expires=1784612654
+
+#EXTINF:-1 tvg-name="VIX TUDN" tvg-logo="https://www.tvporinternet2.com/imge/tudnxtra.webp" group-title="Deportes",VIX TUDN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://deportes.ksdjugfsddeports.com/librefutbol.php?stream=1_&exp=1784569480&sig=7ea70fdcf3b67c9bb1ee41c535e50d4a2b04f29bb8fef5f407059a8d2bcfa477
+https://deportes.ksdjugfsddeports.com:9092/MTg5LjE1Ni4yNDkuMTEy/1_.m3u8?token=l2oxGuvW3U-T_uzMp_V09w&expires=1784612650
 
 #EXTINF:-1 tvg-name="Win Sports Plus" tvg-logo="https://www.tvporinternet2.com/imge/winsportsplus.webp" group-title="Deportes",Win Sports Plus
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://deportes.ksdjugfsddeports.com/librefutbol.php?stream=30_&exp=1784425988&sig=7b235a6c1020760c670aec81127c12790c7601aaad63254f2eebe0407d6a1c33
-https://deportes.ksdjugfsddeports.com:9092/MTg5LjIwMy4xMy4xNjM=/30_.m3u8?token=J2pFoeyQS-r-MbSd-5O3ng&expires=1784469158
+#EXTVLCOPT:http-referrer=https://deportes.ksdjugfsddeports.com/librefutbol.php?stream=30_&exp=1784569498&sig=8d31dea90f4b42164f925216b51d25b492c828235994aac5fc8cfc24563aadb2
+https://deportes.ksdjugfsddeports.com:9092/MTg5LjE1Ni4yNDkuMTEy/30_.m3u8?token=FxZSSr0Amci-GKr9q1nq0g&expires=1784612668
 
 #EXTINF:-1 tvg-name="ATV" tvg-logo="https://www.tvporinternet2.com/imge/atv.webp" group-title="Entretenimiento",ATV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=23_&exp=1784426006&sig=83c44f4364ee0d68c7a5a6eb5b7bce92ff7d6f5f46ef89caf7644b9161af0cce
-https://regionales.saohgdasregions.fun:9092/MTg5LjIwMy4xMy4xNjM=/23_.m3u8?token=edXMsKFG2ebBn5_GZ1e87A&expires=1784469176
+#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=23_&exp=1784569505&sig=74d2d7d76361e1e402be9aeb3021839bf48d975197f020d6b3295b37911108ec
+https://regionales.saohgdasregions.fun:9092/MTg5LjE1Ni4yNDkuMTEy/23_.m3u8?token=FHjkW7baZ0hDXK-RcTID7w&expires=1784612675
 
 #EXTINF:-1 tvg-name="AXN" tvg-logo="https://www.tvporinternet2.com/imge/axn.webp" group-title="Entretenimiento",AXN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=61_&exp=1784426042&sig=333ec4595d7383021e3bd08690ac3c64cab86da29c28891b15c5e0d266e53d45
-https://regionales.saohgdasregions.fun:9092/MTg5LjIwMy4xMy4xNjM=/61_.m3u8?token=h6UODbkKPUpq3JxTZkBzEQ&expires=1784469212
+#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=61_&exp=1784569520&sig=6898522fa7891b1064f65cf4d79d55a7e7e692ac60e5e85e43d7ea6e48f4dec8
+https://regionales.saohgdasregions.fun:9092/MTg5LjE1Ni4yNDkuMTEy/61_.m3u8?token=TIDibfaCAvYjeJY5pmfPHA&expires=1784612690
 
 #EXTINF:-1 tvg-name="America TV" tvg-logo="https://www.tvporinternet2.com/imge/americatv.webp" group-title="Entretenimiento",America TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=20_&exp=1784426003&sig=3946b8eb12d6365f3e09a25097510d2bac5dbae7c8963c7343dc22a8f89e20b7
-https://regionales.saohgdasregions.fun:9092/MTg5LjIwMy4xMy4xNjM=/20_.m3u8?token=m3iAdm1_qZFdNjteZfCv6A&expires=1784469174
+#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=20_&exp=1784569505&sig=2e74601bac25ce2b2119889565a31ad9df303d4ed2ea85ab225030221bcabe90
+https://regionales.saohgdasregions.fun:9092/MTg5LjE1Ni4yNDkuMTEy/20_.m3u8?token=2_vRmmqXqOXvj0iI0TbGJA&expires=1784612675
 
 #EXTINF:-1 tvg-name="Animal Planet" tvg-logo="https://www.tvporinternet2.com/imge/animalplanet.webp" group-title="Entretenimiento",Animal Planet
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=46_&exp=1784426043&sig=3eddf4baf75edf05907f50b94827c3fc01094b7ee20e7bd65ed3f384805d442c
-https://regionales.saohgdasregions.fun:9092/MTg5LjIwMy4xMy4xNjM=/46_.m3u8?token=pBGB14O_fAeyjf3QuBd1-A&expires=1784469214
+#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=46_&exp=1784569514&sig=db0958d3603498f8d273d02ae922ea8ac59d487dcdaf301d14f01f6d36ae7414
+https://regionales.saohgdasregions.fun:9092/MTg5LjE1Ni4yNDkuMTEy/46_.m3u8?token=UOmKN8SVcISLrTWovSKe-w&expires=1784612684
+
+#EXTINF:-1 tvg-name="Antena 3" tvg-logo="https://www.tvporinternet2.com/imge/antena3.webp" group-title="Entretenimiento",Antena 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=14_&exp=1784569502&sig=66678a0bee4f9e2b8319dbaedbf8d7da315e5e431256bfc8c1d37df2c4a4f13f
+https://regionales.saohgdasregions.fun:9092/MTg5LjE1Ni4yNDkuMTEy/14_.m3u8?token=c6IptRaJ5PapD56TWMyhyg&expires=1784612672
 
 #EXTINF:-1 tvg-name="Azteca 7" tvg-logo="https://www.tvporinternet2.com/imge/azteca7.webp" group-title="Entretenimiento",Azteca 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=1_&exp=1784426009&sig=87d110f07443e4a457e9e5ec2cc9022b57ce9bdac958ec54a1ae2faafb99fc2f
-https://regionales.saohgdasregions.fun:9092/MTg5LjIwMy4xMy4xNjM=/1_.m3u8?token=tj57FPcgyGJYArGhjMqURQ&expires=1784469179
+#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=1_&exp=1784569506&sig=e3bfe57e91dfccf4881764f68027349f90bb9292161af968c7c5d6f5f95ec976
+https://regionales.saohgdasregions.fun:9092/MTg5LjE1Ni4yNDkuMTEy/1_.m3u8?token=sqqGo4B9WoStXDhK9D8GcQ&expires=1784612676
 
 #EXTINF:-1 tvg-name="Azteca Uno" tvg-logo="https://www.tvporinternet2.com/imge/aztecauno.webp" group-title="Entretenimiento",Azteca Uno
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=26_&exp=1784426011&sig=6fcee1c8f4f16dcf9ff07bafde7b9cdc1a8369f964b953ee0ae0de4b182a8941
-https://regionales.saohgdasregions.fun:9092/MTg5LjIwMy4xMy4xNjM=/26_.m3u8?token=hRzd6nKN5_io5PFeXvBK6w&expires=1784469181
+#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=26_&exp=1784569507&sig=48ce7fba655b8242e731a0d44728b37e63f3762884b806a504a034ae53fe764c
+https://regionales.saohgdasregions.fun:9092/MTg5LjE1Ni4yNDkuMTEy/26_.m3u8?token=Zec4Y91c9SNCWIEhl_xT_w&expires=1784612677
 
 #EXTINF:-1 tvg-name="Canal 5" tvg-logo="https://www.tvporinternet2.com/imge/canal5.webp" group-title="Entretenimiento",Canal 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=2_&exp=1784426017&sig=d63410a7b9df0925a08879bfa9008f3ea2ec7f830105b36b29d092807a6342fe
-https://regionales.saohgdasregions.fun:9092/MTg5LjIwMy4xMy4xNjM=/2_.m3u8?token=Qs1ksoPvVcTthgGieLb_xQ&expires=1784469187
+#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=2_&exp=1784569508&sig=ff6e268dc98db0117223a28857b47bf5d47e276e830f39e4fbf9e32c6cd62481
+https://regionales.saohgdasregions.fun:9092/MTg5LjE1Ni4yNDkuMTEy/2_.m3u8?token=YtceATwFA1aqRGnjj4brbA&expires=1784612679
+
+#EXTINF:-1 tvg-name="Caracol" tvg-logo="https://www.tvporinternet2.com/imge/caracol.webp" group-title="Entretenimiento",Caracol
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=17_&exp=1784569503&sig=4882e98e04a4113c5c622b6bbc70ff51aeb3844d63a17deea16ec798842451c4
+https://regionales.saohgdasregions.fun:9092/MTg5LjE1Ni4yNDkuMTEy/17_.m3u8?token=XYtD5RQpgdM-oBPU2ViVjQ&expires=1784612674
+
+#EXTINF:-1 tvg-name="Dazn F1" tvg-logo="https://www.tvporinternet2.com/imge/daznf1.jpg" group-title="Entretenimiento",Dazn F1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://deportes.ksdjugfsddeports.com/librefutbol.php?stream=27_&exp=1784569484&sig=5347c1b4702c0c97f0b6c8c84e92763855c28ffc4bee84f925e2a132c0a8de15
+https://deportes.ksdjugfsddeports.com:9092/MTg5LjE1Ni4yNDkuMTEy/27_.m3u8?token=lVyl8S2zn1vf9pJlLlnL7Q&expires=1784612655
+
+#EXTINF:-1 tvg-name="Discovery A&E" tvg-logo="https://www.tvporinternet2.com/imge/discoveryaye.webp" group-title="Entretenimiento",Discovery A&E
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=43_&exp=1784569512&sig=0d17940f4288bf2145d36a98244c5e39a58e4dae68d487ffb84a9a765271989a
+https://regionales.saohgdasregions.fun:9092/MTg5LjE1Ni4yNDkuMTEy/43_.m3u8?token=-PMJ5Xk_yTKZdE6izPnUyA&expires=1784612683
+
+#EXTINF:-1 tvg-name="Discovery Channel" tvg-logo="https://www.tvporinternet2.com/imge/discoverychannel.webp" group-title="Entretenimiento",Discovery Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=37_&exp=1784569510&sig=e1a638e33550f8dd620135390359da7822ff30a7c79cf82354216ce2f1c9b3fa
+https://regionales.saohgdasregions.fun:9092/MTg5LjE1Ni4yNDkuMTEy/37_.m3u8?token=VBlT-0s2-IK7Pj6r0h5WhA&expires=1784612680
+
+#EXTINF:-1 tvg-name="Discovery H&H" tvg-logo="https://www.tvporinternet2.com/imge/discoveryhyh.webp" group-title="Entretenimiento",Discovery H&H
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=42_&exp=1784569511&sig=c40bc5890d11f9005a67ee2a9b333602a855047e21f537db5015ce00d5531960
+https://regionales.saohgdasregions.fun:9092/MTg5LjE1Ni4yNDkuMTEy/42_.m3u8?token=qFiwOq4YCCz5lgfprE8NFA&expires=1784612682
 
 #EXTINF:-1 tvg-name="Distrito Comedia" tvg-logo="https://www.tvporinternet2.com/imge/distritocomedia.webp" group-title="Entretenimiento",Distrito Comedia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=75_&exp=1784426058&sig=96a39be840155b0bfc2655b5cfae1f7059be15aa8af2256d6a06429b32ca693a
-https://regionales.saohgdasregions.fun:9092/MTg5LjIwMy4xMy4xNjM=/75_.m3u8?token=_rnwlhF5FpWfnrJ-rxPFnA&expires=1784469228
+#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=75_&exp=1784569527&sig=b33a6a383fbe6c583ca4fd7831d8f9833dc02c212a04719b1ce0539b0f7c777e
+https://regionales.saohgdasregions.fun:9092/MTg5LjE1Ni4yNDkuMTEy/75_.m3u8?token=W15w8luYBg_i8kvxYr0fdg&expires=1784612697
 
 #EXTINF:-1 tvg-name="El Trece" tvg-logo="https://www.tvporinternet2.com/imge/eltrece.webp" group-title="Entretenimiento",El Trece
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=4_&exp=1784425991&sig=6b98541bd2221d94048bd326cb1d9f4f47e15e99a63dc050fa2246335ca6d8b0
-https://regionales.saohgdasregions.fun:9092/MTg5LjIwMy4xMy4xNjM=/4_.m3u8?token=tFZj8Yj3z6dv-aZ0KFSVmQ&expires=1784469161
+#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=4_&exp=1784569498&sig=6ebc05cd654ad869af79ba8b95a87887bfd4231a0fc35f3adb4f77ceb9dd672d
+https://regionales.saohgdasregions.fun:9092/MTg5LjE1Ni4yNDkuMTEy/4_.m3u8?token=adaYqRy9zqi2t18O2cCQbg&expires=1784612668
+
+#EXTINF:-1 tvg-name="Extrema TV" tvg-logo="https://www.tvporinternet2.com/imge/extrematv.webp" group-title="Entretenimiento",Extrema TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=73_&exp=1784569527&sig=e9a67e5da34edba2962d80f6646a25ab2f25ffd061831ee983c4c787e6a9b925
+https://regionales.saohgdasregions.fun:9092/MTg5LjE1Ni4yNDkuMTEy/73_.m3u8?token=W5LkiW54I1YrD-LXrUMm-A&expires=1784612697
 
 #EXTINF:-1 tvg-name="FM Hot Movies" tvg-logo="https://www.tvporinternet2.com/imge/fmhotmovies.webp" group-title="Entretenimiento",FM Hot Movies
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=34_&exp=1784426056&sig=ac7225269b3312811c1286c87c817a5a014bce5bf11c325cb205d04f7115b4d9
-https://regionales.saohgdasregions.fun:9092/MTg5LjIwMy4xMy4xNjM=/34_.m3u8?token=bOm0HxhIMhTB7HvRegmPjA&expires=1784469226
+#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=34_&exp=1784569526&sig=c88ecc209621085d8f76a6297eb72fa67bc2cd84e13d6072dcf97fab1c22867c
+https://regionales.saohgdasregions.fun:9092/MTg5LjE1Ni4yNDkuMTEy/34_.m3u8?token=glg_io6m_SezfllKBuXczg&expires=1784612696
 
 #EXTINF:-1 tvg-name="History" tvg-logo="https://www.tvporinternet2.com/imge/history.webp" group-title="Entretenimiento",History
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=44_&exp=1784426021&sig=d32330a7d8b3851070ca36bea39a24243fb2d0fc909e9bd007c75d2570ff2bc7
-https://regionales.saohgdasregions.fun:9092/MTg5LjIwMy4xMy4xNjM=/44_.m3u8?token=7rqkp7anQSIA8BgMzrf4Og&expires=1784469192
+#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=44_&exp=1784569513&sig=688251d674637190dfc773ff3f50ce0a6a44309114071702fffcecb6071449e0
+https://regionales.saohgdasregions.fun:9092/MTg5LjE1Ni4yNDkuMTEy/44_.m3u8?token=v3tE06lSLR3i5_ney90-Bw&expires=1784612684
 
 #EXTINF:-1 tvg-name="ID Investigation" tvg-logo="https://www.tvporinternet2.com/imge/idinvestigation.webp" group-title="Entretenimiento",ID Investigation
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=41_&exp=1784426024&sig=7b6e15eb89dcb4f7ed9b4d0106d6cc4756faf7ecec910e782c603a2eca1bb204
-https://regionales.saohgdasregions.fun:9092/MTg5LjIwMy4xMy4xNjM=/41_.m3u8?token=Wig5xBP6xyxAxAwoTUik2A&expires=1784469194
+#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=41_&exp=1784569511&sig=bc9d7485847a6663a9f497e7ecf3c6933a0615499bdb37069a280ab09dd5f8d0
+https://regionales.saohgdasregions.fun:9092/MTg5LjE1Ni4yNDkuMTEy/41_.m3u8?token=4JjzoeVO_PFQJFsUrVyrOw&expires=1784612681
 
 #EXTINF:-1 tvg-name="Imagen TV" tvg-logo="https://www.tvporinternet2.com/imge/imagentv.webp" group-title="Entretenimiento",Imagen TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=25_&exp=1784426006&sig=fa6e5e15a1668bdc97a8126ae208299ea03c8acdf3e2f192f33c53f533715b74
-https://regionales.saohgdasregions.fun:9092/MTg5LjIwMy4xMy4xNjM=/25_.m3u8?token=BY1w5mjhNXcz9eRWsF5ZgQ&expires=1784469177
+#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=25_&exp=1784569505&sig=f89fd4577ad5e03d66b4a82ea07861eee92e627f642d29ec302d1bf23b70b247
+https://regionales.saohgdasregions.fun:9092/MTg5LjE1Ni4yNDkuMTEy/25_.m3u8?token=QtvKDmBB1XZExeIcqc7mOg&expires=1784612676
 
 #EXTINF:-1 tvg-name="Las Estrellas" tvg-logo="https://www.tvporinternet2.com/imge/lasestrellas.webp" group-title="Entretenimiento",Las Estrellas
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=13_&exp=1784425998&sig=b4225ab4b76f93b21c0401a44f21ba3acac3f3bdfdeefe69cedcb94a188404c2
-https://regionales.saohgdasregions.fun:9092/MTg5LjIwMy4xMy4xNjM=/13_.m3u8?token=4WgIwrsVMnJJUy6quLZFLw&expires=1784469168
+#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=13_&exp=1784569501&sig=f52e6a8fde35b9af48df1346dc4354d61533934d92277f15ac3ffbda78b78c9a
+https://regionales.saohgdasregions.fun:9092/MTg5LjE1Ni4yNDkuMTEy/13_.m3u8?token=5fpQFLDLqgdo2fMxmfLzaw&expires=1784612672
+
+#EXTINF:-1 tvg-name="Latina" tvg-logo="https://www.tvporinternet2.com/imge/latina.webp" group-title="Entretenimiento",Latina
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=19_&exp=1784569504&sig=f2a86072261c0c94fd3ecbf99aa1cd1b41bbc7f26384f54356a6a7870cc27317
+https://regionales.saohgdasregions.fun:9092/MTg5LjE1Ni4yNDkuMTEy/19_.m3u8?token=_k7un4-SnJsyFfkFeY0IYQ&expires=1784612675
 
 #EXTINF:-1 tvg-name="Multipremier" tvg-logo="https://www.tvporinternet2.com/imge/multipremier.webp" group-title="Entretenimiento",Multipremier
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=66_&exp=1784426050&sig=a76a51b5abea61cad79d0b3b36d3f298f95ba0a7e2af08200238b5fe7c3bb483
-https://regionales.saohgdasregions.fun:9092/MTg5LjIwMy4xMy4xNjM=/66_.m3u8?token=lKnUQIeYUc9CIvl8cz9fcw&expires=1784469220
+#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=66_&exp=1784569522&sig=82ef00a127b8dcd92969516f156cc8fa41c9ea934dc3c1786ed1031a32b4c90d
+https://regionales.saohgdasregions.fun:9092/MTg5LjE1Ni4yNDkuMTEy/66_.m3u8?token=uaS7M3mgPyAmY_0f0Ox04w&expires=1784612693
 
 #EXTINF:-1 tvg-name="Nat Geo" tvg-logo="https://www.tvporinternet2.com/imge/natgeo.webp" group-title="Entretenimiento",Nat Geo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=47_&exp=1784426029&sig=75f09a2b636b0712c92ea715e7862d57a95259b173642ef31e4f21963f30d018
-https://regionales.saohgdasregions.fun:9092/MTg5LjIwMy4xMy4xNjM=/47_.m3u8?token=Hs91YRf4JXKAwtUlKzrYvg&expires=1784469199
+#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=47_&exp=1784569514&sig=560c6ab3fc16e74f8a8e715448fceab1843607aa514964b84ef238275ef90ffa
+https://regionales.saohgdasregions.fun:9092/MTg5LjE1Ni4yNDkuMTEy/47_.m3u8?token=Xn48g26yNz_ctQIqzYv8rA&expires=1784612685
 
 #EXTINF:-1 tvg-name="Panico HD" tvg-logo="https://www.tvporinternet2.com/imge/panico.webp" group-title="Entretenimiento",Panico HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=65_&exp=1784426050&sig=9cf72a61eb9f990fb148bc058b4e04a2dbb202ce21ee6d17b3849d3fe4cb0ba3
-https://regionales.saohgdasregions.fun:9092/MTg5LjIwMy4xMy4xNjM=/65_.m3u8?token=HSfGvt1YMgG0PAFufBDTKg&expires=1784469220
+#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=65_&exp=1784569522&sig=f9f30bc1466f79ebd9441514445b3dbc3f574d324371fba41ad490fe6fb065ec
+https://regionales.saohgdasregions.fun:9092/MTg5LjE1Ni4yNDkuMTEy/65_.m3u8?token=cVrnYiW2tUtUcfeXnIDFAA&expires=1784612693
 
 #EXTINF:-1 tvg-name="Pasiones" tvg-logo="https://www.tvporinternet2.com/imge/pasiones.webp" group-title="Entretenimiento",Pasiones
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=10_&exp=1784426000&sig=18b783f1a3c4d8ebb9af3a90e46facec809c5fa30d2e686f6528d81c86423766
-https://regionales.saohgdasregions.fun:9092/MTg5LjIwMy4xMy4xNjM=/10_.m3u8?token=_zWDg5R6lXG3m2GHZgbp0A&expires=1784469170
+#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=10_&exp=1784569501&sig=13a7ae9a157293bdb4a0f3fb19fbf72f31724a455dc05b02f5000136f25487f2
+https://regionales.saohgdasregions.fun:9092/MTg5LjE1Ni4yNDkuMTEy/10_.m3u8?token=2yt7GgA0851sdw1HMEggww&expires=1784612671
 
 #EXTINF:-1 tvg-name="RCN" tvg-logo="https://www.tvporinternet2.com/imge/rcn.webp" group-title="Entretenimiento",RCN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=18_&exp=1784426001&sig=51a8c4989a2ee2055375314077f5d0a49719d818dfe47da64f0b18d3ec706664
-https://regionales.saohgdasregions.fun:9092/MTg5LjIwMy4xMy4xNjM=/18_.m3u8?token=KI-iUX8bo0i8lV6gIL2J1A&expires=1784469172
+#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=18_&exp=1784569504&sig=b488ace810b0f9abe3c0097455e00ad1b1a608bd5c0b5fba538adf70c7ca70e0
+https://regionales.saohgdasregions.fun:9092/MTg5LjE1Ni4yNDkuMTEy/18_.m3u8?token=H5-jRHrSYgf5VYu8oGG_Uw&expires=1784612675
 
 #EXTINF:-1 tvg-name="Telefe" tvg-logo="https://www.tvporinternet2.com/imge/telefe.webp" group-title="Entretenimiento",Telefe
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=3_&exp=1784426004&sig=7cd506ddc377a8140e4b14ca3e12745844cdeac9032c3e791e15d718754bea01
-https://regionales.saohgdasregions.fun:9092/MTg5LjIwMy4xMy4xNjM=/3_.m3u8?token=18vNwTnEuKXB-mn0mzXmzw&expires=1784469174
+#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=3_&exp=1784569498&sig=1a7d235c59c38437f47b590da6f75d2f1a596f91f3e83c299a8e0c82150650b6
+https://regionales.saohgdasregions.fun:9092/MTg5LjE1Ni4yNDkuMTEy/3_.m3u8?token=QQl-6KBK3plC67cAfke2bg&expires=1784612668
 
 #EXTINF:-1 tvg-name="Telemundo 51" tvg-logo="https://www.tvporinternet2.com/imge/telemundo51.webp" group-title="Entretenimiento",Telemundo 51
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=6_&exp=1784425992&sig=c90323ad4db16011726feaf6cdc6e349350105c217249a566e70a240c80ceced
-https://regionales.saohgdasregions.fun:9092/MTg5LjIwMy4xMy4xNjM=/6_.m3u8?token=fVq0dw0eoMBUd3q15JC3zQ&expires=1784469162
+#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=6_&exp=1784569499&sig=5d628a996c2c28e96a5e8d2f3eb112ab9531986b543531f2cc33dc8f77887e14
+https://regionales.saohgdasregions.fun:9092/MTg5LjE1Ni4yNDkuMTEy/6_.m3u8?token=wqasi55A05iurRgc3QkSHg&expires=1784612670
 
 #EXTINF:-1 tvg-name="Telemundo Puerto Rico" tvg-logo="https://www.tvporinternet2.com/imge/telemundopuertorico.webp" group-title="Entretenimiento",Telemundo Puerto Rico
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=7_&exp=1784425995&sig=36c589368858781c16c40cefe1f52d84017a4d12bc55dc7b18220ad83d80cc32
-https://regionales.saohgdasregions.fun:9092/MTg5LjIwMy4xMy4xNjM=/7_.m3u8?token=gUAxZfL6ia0LDaHkzMO7Ig&expires=1784469166
+#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=7_&exp=1784569500&sig=9cef629f0c9929f7d0df17968d3a0c54784ea9a1becf24229c360d5a17a266fd
+https://regionales.saohgdasregions.fun:9092/MTg5LjE1Ni4yNDkuMTEy/7_.m3u8?token=c0L6SFofy6IgN4LspT5IFw&expires=1784612670
 
 #EXTINF:-1 tvg-name="Tlnovelas" tvg-logo="https://www.tvporinternet2.com/imge/tlnovelas.webp" group-title="Entretenimiento",Tlnovelas
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=12_&exp=1784425996&sig=54fc8c3272b5338330654b5df25fbacda935dae462d243b7ba6cf3cec95bd49a
-https://regionales.saohgdasregions.fun:9092/MTg5LjIwMy4xMy4xNjM=/12_.m3u8?token=Pl-dXKs9MKKAa-3vniAXSw&expires=1784469166
+#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=12_&exp=1784569501&sig=e7da04297e9909d6efa737a5a4568a16272b6e8abdac2b3420ca4e6e0df72439
+https://regionales.saohgdasregions.fun:9092/MTg5LjE1Ni4yNDkuMTEy/12_.m3u8?token=NgMllmwlZDEuRw_LU222MA&expires=1784612671
 
 #EXTINF:-1 tvg-name="USA / Syfy" tvg-logo="https://www.tvporinternet2.com/imge/usa.webp" group-title="Entretenimiento",USA / Syfy
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=57_&exp=1784426043&sig=dd33c8318a95a566fcd3c86b96adc0d26e3df0b0da1c4371d56e10a492bb875c
-https://regionales.saohgdasregions.fun:9092/MTg5LjIwMy4xMy4xNjM=/57_.m3u8?token=RROiLzkjc_QzIU1kRF4lQw&expires=1784469213
+#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=57_&exp=1784569518&sig=50459ac61a782d6426bb0298d87cf86a6abb602abb366763fc27bb7a179cb561
+https://regionales.saohgdasregions.fun:9092/MTg5LjE1Ni4yNDkuMTEy/57_.m3u8?token=Btwo0ZbpcOEN0J2QxqUQjA&expires=1784612688
+
+#EXTINF:-1 tvg-name="Unicable" tvg-logo="https://www.tvporinternet2.com/imge/unicable.webp" group-title="Entretenimiento",Unicable
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=24_&exp=1784569506&sig=fcc4a850614ca767794755a7ab95b8bc19dcc157b2888c9ec527bbfed9fd523a
+https://regionales.saohgdasregions.fun:9092/MTg5LjE1Ni4yNDkuMTEy/24_.m3u8?token=SdNgc9f9Ro_Cdz9HVQ1drg&expires=1784612677
 
 #EXTINF:-1 tvg-name="Univision" tvg-logo="https://www.tvporinternet2.com/imge/univision.webp" group-title="Entretenimiento",Univision
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=9_&exp=1784425995&sig=a6283195c064f9971e7e7402ef738dddf155a1fcfc660d766cb1e78435b9a2cf
-https://regionales.saohgdasregions.fun:9092/MTg5LjIwMy4xMy4xNjM=/9_.m3u8?token=Ci-tjlaWtgAxg9nE6zW3Tw&expires=1784469165
+#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=9_&exp=1784569500&sig=64935d9df60b218eae2598cadd93d3ec291445c3ebcd98af9a25631299bd6fec
+https://regionales.saohgdasregions.fun:9092/MTg5LjE1Ni4yNDkuMTEy/9_.m3u8?token=5TbCRYTy0dJIL2Hb0UBmQg&expires=1784612671
 
 #EXTINF:-1 tvg-name="Cartoon Network" tvg-logo="https://www.tvporinternet2.com/imge/cartoonnetwork.webp" group-title="Infantiles",Cartoon Network
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=31_&exp=1784426018&sig=0d7edf4b00b0602928e680f57a08bbfb37c49bc8b058acdb9c0e9de3c18a6f9f
-https://regionales.saohgdasregions.fun:9092/MTg5LjIwMy4xMy4xNjM=/31_.m3u8?token=QyZamIO-rLc1eoOlAgr2HA&expires=1784469188
+#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=31_&exp=1784569509&sig=0a02994c5a60a73f940bbc09b06b5640e5700267485097155dc9344c9296ad70
+https://regionales.saohgdasregions.fun:9092/MTg5LjE1Ni4yNDkuMTEy/31_.m3u8?token=y2rhq1U68GgdYGi0DECk7Q&expires=1784612680
 
 #EXTINF:-1 tvg-name="Disney Channel" tvg-logo="https://www.tvporinternet2.com/imge/disneychannel.webp" group-title="Infantiles",Disney Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=28_&exp=1784426013&sig=32a4397f7c7b5ecbd1e02bf6f5042b04b307fc5f29987b51324a8cf09235c928
-https://regionales.saohgdasregions.fun:9092/MTg5LjIwMy4xMy4xNjM=/28_.m3u8?token=oBCkRbYw9yMek8TzHKyW6w&expires=1784469183
+#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=28_&exp=1784569509&sig=7a3539d1b0ef6d504279276f991ed508759163e0f7f776ee7e4359b7239dd78b
+https://regionales.saohgdasregions.fun:9092/MTg5LjE1Ni4yNDkuMTEy/28_.m3u8?token=JPgjDn6YQKGf4b6C8EMjpw&expires=1784612680
 
 #EXTINF:-1 tvg-name="FM Hot Kids" tvg-logo="https://www.tvporinternet2.com/imge/fmhotkids.webp" group-title="Infantiles",FM Hot Kids
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=78_&exp=1784426054&sig=7ecd34624952d8abecb68e63b882064ddf2c0c26ef40b8d8595b62d702d02b63
-https://regionales.saohgdasregions.fun:9092/MTg5LjIwMy4xMy4xNjM=/78_.m3u8?token=TztCmfi_TMUiGafRt5QqGA&expires=1784469224
+#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=78_&exp=1784569527&sig=36b83c45839615885a1bc3990a99946de6150f0906915d54918c9e997fb1cc22
+https://regionales.saohgdasregions.fun:9092/MTg5LjE1Ni4yNDkuMTEy/78_.m3u8?token=sB7HyjuK0ZT-m6M8YIxZow&expires=1784612697
+
+#EXTINF:-1 tvg-name="Tooncast" tvg-logo="https://www.tvporinternet2.com/imge/tooncast.webp" group-title="Infantiles",Tooncast
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=32_&exp=1784569510&sig=cbdad2da35584009d6969a27b87ec8251e5700337085311f1ec2b28651bb7832
+https://regionales.saohgdasregions.fun:9092/MTg5LjE1Ni4yNDkuMTEy/32_.m3u8?token=kjaBY_ZtO4iaUhQy5szunA&expires=1784612680
 
 #EXTINF:-1 tvg-name="DW Español" tvg-logo="https://www.tvporinternet2.com/imge/dw.webp" group-title="Noticias",DW Español
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=15_&exp=1784426000&sig=066044c8562a5e168bb10921919105b47324095c23ac96450d4a0990950c1843
-https://regionales.saohgdasregions.fun:9092/MTg5LjIwMy4xMy4xNjM=/15_.m3u8?token=YIDbBO9qQWCtt1ojcd1LKQ&expires=1784469171
+#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=15_&exp=1784569501&sig=a23da673567d2580bebc762b7595134937ac994cbeecaf8ec48da28a8116e7c3
+https://regionales.saohgdasregions.fun:9092/MTg5LjE1Ni4yNDkuMTEy/15_.m3u8?token=I6uuVevx1-7nDdlp2sQyIg&expires=1784612672
+
+#EXTINF:-1 tvg-name="AMC" tvg-logo="https://www.tvporinternet2.com/imge/amc.webp" group-title="TvporinternetHD",AMC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=63_&exp=1784569521&sig=62a92c51c5f684d3bd201a10c7831bb81eba99dbdcc2d1d93dcf4ff6100ee498
+https://regionales.saohgdasregions.fun:9092/MTg5LjE1Ni4yNDkuMTEy/63_.m3u8?token=L4pwEjcttWVWn2-WAKScMg&expires=1784612692
 
 #EXTINF:-1 tvg-name="ATV" tvg-logo="https://www.tvporinternet2.com/imge/atv.webp" group-title="TvporinternetHD",ATV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=23_&exp=1784426006&sig=83c44f4364ee0d68c7a5a6eb5b7bce92ff7d6f5f46ef89caf7644b9161af0cce
-https://regionales.saohgdasregions.fun:9092/MTg5LjIwMy4xMy4xNjM=/23_.m3u8?token=edXMsKFG2ebBn5_GZ1e87A&expires=1784469176
+#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=23_&exp=1784569505&sig=74d2d7d76361e1e402be9aeb3021839bf48d975197f020d6b3295b37911108ec
+https://regionales.saohgdasregions.fun:9092/MTg5LjE1Ni4yNDkuMTEy/23_.m3u8?token=FHjkW7baZ0hDXK-RcTID7w&expires=1784612675
 
 #EXTINF:-1 tvg-name="AXN" tvg-logo="https://www.tvporinternet2.com/imge/axn.webp" group-title="TvporinternetHD",AXN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=61_&exp=1784426042&sig=333ec4595d7383021e3bd08690ac3c64cab86da29c28891b15c5e0d266e53d45
-https://regionales.saohgdasregions.fun:9092/MTg5LjIwMy4xMy4xNjM=/61_.m3u8?token=h6UODbkKPUpq3JxTZkBzEQ&expires=1784469212
+#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=61_&exp=1784569520&sig=6898522fa7891b1064f65cf4d79d55a7e7e692ac60e5e85e43d7ea6e48f4dec8
+https://regionales.saohgdasregions.fun:9092/MTg5LjE1Ni4yNDkuMTEy/61_.m3u8?token=TIDibfaCAvYjeJY5pmfPHA&expires=1784612690
 
 #EXTINF:-1 tvg-name="America TV" tvg-logo="https://www.tvporinternet2.com/imge/americatv.webp" group-title="TvporinternetHD",America TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=20_&exp=1784426003&sig=3946b8eb12d6365f3e09a25097510d2bac5dbae7c8963c7343dc22a8f89e20b7
-https://regionales.saohgdasregions.fun:9092/MTg5LjIwMy4xMy4xNjM=/20_.m3u8?token=m3iAdm1_qZFdNjteZfCv6A&expires=1784469174
+#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=20_&exp=1784569505&sig=2e74601bac25ce2b2119889565a31ad9df303d4ed2ea85ab225030221bcabe90
+https://regionales.saohgdasregions.fun:9092/MTg5LjE1Ni4yNDkuMTEy/20_.m3u8?token=2_vRmmqXqOXvj0iI0TbGJA&expires=1784612675
 
 #EXTINF:-1 tvg-name="Animal Planet" tvg-logo="https://www.tvporinternet2.com/imge/animalplanet.webp" group-title="TvporinternetHD",Animal Planet
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=46_&exp=1784426043&sig=3eddf4baf75edf05907f50b94827c3fc01094b7ee20e7bd65ed3f384805d442c
-https://regionales.saohgdasregions.fun:9092/MTg5LjIwMy4xMy4xNjM=/46_.m3u8?token=pBGB14O_fAeyjf3QuBd1-A&expires=1784469214
+#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=46_&exp=1784569514&sig=db0958d3603498f8d273d02ae922ea8ac59d487dcdaf301d14f01f6d36ae7414
+https://regionales.saohgdasregions.fun:9092/MTg5LjE1Ni4yNDkuMTEy/46_.m3u8?token=UOmKN8SVcISLrTWovSKe-w&expires=1784612684
+
+#EXTINF:-1 tvg-name="Antena 3" tvg-logo="https://www.tvporinternet2.com/imge/antena3.webp" group-title="TvporinternetHD",Antena 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=14_&exp=1784569502&sig=66678a0bee4f9e2b8319dbaedbf8d7da315e5e431256bfc8c1d37df2c4a4f13f
+https://regionales.saohgdasregions.fun:9092/MTg5LjE1Ni4yNDkuMTEy/14_.m3u8?token=c6IptRaJ5PapD56TWMyhyg&expires=1784612672
 
 #EXTINF:-1 tvg-name="Azteca 7" tvg-logo="https://www.tvporinternet2.com/imge/azteca7.webp" group-title="TvporinternetHD",Azteca 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=1_&exp=1784426009&sig=87d110f07443e4a457e9e5ec2cc9022b57ce9bdac958ec54a1ae2faafb99fc2f
-https://regionales.saohgdasregions.fun:9092/MTg5LjIwMy4xMy4xNjM=/1_.m3u8?token=tj57FPcgyGJYArGhjMqURQ&expires=1784469179
+#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=1_&exp=1784569506&sig=e3bfe57e91dfccf4881764f68027349f90bb9292161af968c7c5d6f5f95ec976
+https://regionales.saohgdasregions.fun:9092/MTg5LjE1Ni4yNDkuMTEy/1_.m3u8?token=sqqGo4B9WoStXDhK9D8GcQ&expires=1784612676
+
+#EXTINF:-1 tvg-name="Azteca Deportes" tvg-logo="https://www.tvporinternet2.com/imge/aztecadeportes.webp" group-title="TvporinternetHD",Azteca Deportes
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://deportes.ksdjugfsddeports.com/librefutbol.php?stream=34_&exp=1784569479&sig=9121aa2a618dfd6d15e0e4eadc5bde300adfe78488c605000c4a97fdf6d9b8ff
+https://deportes.ksdjugfsddeports.com:9092/MTg5LjE1Ni4yNDkuMTEy/34_.m3u8?token=tWR2m38OjFgiRIT5iFiPaA&expires=1784612649
 
 #EXTINF:-1 tvg-name="Azteca Uno" tvg-logo="https://www.tvporinternet2.com/imge/aztecauno.webp" group-title="TvporinternetHD",Azteca Uno
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=26_&exp=1784426011&sig=6fcee1c8f4f16dcf9ff07bafde7b9cdc1a8369f964b953ee0ae0de4b182a8941
-https://regionales.saohgdasregions.fun:9092/MTg5LjIwMy4xMy4xNjM=/26_.m3u8?token=hRzd6nKN5_io5PFeXvBK6w&expires=1784469181
+#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=26_&exp=1784569507&sig=48ce7fba655b8242e731a0d44728b37e63f3762884b806a504a034ae53fe764c
+https://regionales.saohgdasregions.fun:9092/MTg5LjE1Ni4yNDkuMTEy/26_.m3u8?token=Zec4Y91c9SNCWIEhl_xT_w&expires=1784612677
 
 #EXTINF:-1 tvg-name="Bein Sports Xtra" tvg-logo="https://www.tvporinternet2.com/imge/beinsportsxtra.webp" group-title="TvporinternetHD",Bein Sports Xtra
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://deportes.ksdjugfsddeports.com/librefutbol.php?stream=31_&exp=1784425964&sig=c6e782b895de3ff5331efdb18aa7441ffd0bf604069cd7092c51ec173d054c1d
-https://deportes.ksdjugfsddeports.com:9092/MTg5LjIwMy4xMy4xNjM=/31_.m3u8?token=T5CfLPbSgYGzoarbxhd49w&expires=1784469134
+#EXTVLCOPT:http-referrer=https://deportes.ksdjugfsddeports.com/librefutbol.php?stream=31_&exp=1784569484&sig=5f4b831dfaf94532f246ad71eded34b3c5dca1aac4ad341b525734e1af6c95b4
+https://deportes.ksdjugfsddeports.com:9092/MTg5LjE1Ni4yNDkuMTEy/31_.m3u8?token=monZsb9_V2gt2u5jwkOXQA&expires=1784612655
 
 #EXTINF:-1 tvg-name="Canal 5" tvg-logo="https://www.tvporinternet2.com/imge/canal5.webp" group-title="TvporinternetHD",Canal 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=2_&exp=1784426017&sig=d63410a7b9df0925a08879bfa9008f3ea2ec7f830105b36b29d092807a6342fe
-https://regionales.saohgdasregions.fun:9092/MTg5LjIwMy4xMy4xNjM=/2_.m3u8?token=Qs1ksoPvVcTthgGieLb_xQ&expires=1784469187
+#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=2_&exp=1784569508&sig=ff6e268dc98db0117223a28857b47bf5d47e276e830f39e4fbf9e32c6cd62481
+https://regionales.saohgdasregions.fun:9092/MTg5LjE1Ni4yNDkuMTEy/2_.m3u8?token=YtceATwFA1aqRGnjj4brbA&expires=1784612679
+
+#EXTINF:-1 tvg-name="Canal Sony" tvg-logo="https://www.tvporinternet2.com/imge/canalsony.webp" group-title="TvporinternetHD",Canal Sony
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=72_&exp=1784569525&sig=0ef2a093e794fa813026c7c5bb10b8be14d065d109e8bdc3f80b61492f207d3c
+https://regionales.saohgdasregions.fun:9092/MTg5LjE1Ni4yNDkuMTEy/72_.m3u8?token=hGWMlhr1coKZi2qeCFpXqw&expires=1784612696
+
+#EXTINF:-1 tvg-name="Caracol" tvg-logo="https://www.tvporinternet2.com/imge/caracol.webp" group-title="TvporinternetHD",Caracol
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=17_&exp=1784569503&sig=4882e98e04a4113c5c622b6bbc70ff51aeb3844d63a17deea16ec798842451c4
+https://regionales.saohgdasregions.fun:9092/MTg5LjE1Ni4yNDkuMTEy/17_.m3u8?token=XYtD5RQpgdM-oBPU2ViVjQ&expires=1784612674
 
 #EXTINF:-1 tvg-name="Cartoon Network" tvg-logo="https://www.tvporinternet2.com/imge/cartoonnetwork.webp" group-title="TvporinternetHD",Cartoon Network
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=31_&exp=1784426018&sig=0d7edf4b00b0602928e680f57a08bbfb37c49bc8b058acdb9c0e9de3c18a6f9f
-https://regionales.saohgdasregions.fun:9092/MTg5LjIwMy4xMy4xNjM=/31_.m3u8?token=QyZamIO-rLc1eoOlAgr2HA&expires=1784469188
+#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=31_&exp=1784569509&sig=0a02994c5a60a73f940bbc09b06b5640e5700267485097155dc9344c9296ad70
+https://regionales.saohgdasregions.fun:9092/MTg5LjE1Ni4yNDkuMTEy/31_.m3u8?token=y2rhq1U68GgdYGi0DECk7Q&expires=1784612680
 
 #EXTINF:-1 tvg-name="Cinecanal" tvg-logo="https://www.tvporinternet2.com/imge/cinecanal.webp" group-title="TvporinternetHD",Cinecanal
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=59_&exp=1784426050&sig=014d2e35d4fd415e5556ab6936d2c00928dfd04abf05876094715055b7f2dc93
-https://regionales.saohgdasregions.fun:9092/MTg5LjIwMy4xMy4xNjM=/59_.m3u8?token=0B0XMi07O1D7l63nt7zKsw&expires=1784469220
+#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=59_&exp=1784569519&sig=2f648c7bfd4a107a08d5d544919c9ca0085a0982539b51ae4fdcabc53471fad3
+https://regionales.saohgdasregions.fun:9092/MTg5LjE1Ni4yNDkuMTEy/59_.m3u8?token=9EUsnhH3ui4UC_30gJZ05g&expires=1784612689
 
 #EXTINF:-1 tvg-name="Cinemax" tvg-logo="https://www.tvporinternet2.com/imge/cinemax.webp" group-title="TvporinternetHD",Cinemax
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=55_&exp=1784426037&sig=04910c03dbedfbbb9126af76978438a799ddc4f32f22da1bfa25cd9c37c1a483
-https://regionales.saohgdasregions.fun:9092/MTg5LjIwMy4xMy4xNjM=/55_.m3u8?token=w46WTvJcjBUggbE4jFsmog&expires=1784469207
+#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=55_&exp=1784569517&sig=c92815b1b5c161120956ef4a79b49f48680e48cc16fa3aa27eda1e8dc62f8a11
+https://regionales.saohgdasregions.fun:9092/MTg5LjE1Ni4yNDkuMTEy/55_.m3u8?token=K5C5TTIpnM4FA_o1puyylA&expires=1784612688
 
 #EXTINF:-1 tvg-name="DW Español" tvg-logo="https://www.tvporinternet2.com/imge/dw.webp" group-title="TvporinternetHD",DW Español
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=15_&exp=1784426000&sig=066044c8562a5e168bb10921919105b47324095c23ac96450d4a0990950c1843
-https://regionales.saohgdasregions.fun:9092/MTg5LjIwMy4xMy4xNjM=/15_.m3u8?token=YIDbBO9qQWCtt1ojcd1LKQ&expires=1784469171
+#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=15_&exp=1784569501&sig=a23da673567d2580bebc762b7595134937ac994cbeecaf8ec48da28a8116e7c3
+https://regionales.saohgdasregions.fun:9092/MTg5LjE1Ni4yNDkuMTEy/15_.m3u8?token=I6uuVevx1-7nDdlp2sQyIg&expires=1784612672
+
+#EXTINF:-1 tvg-name="Dazn F1" tvg-logo="https://www.tvporinternet2.com/imge/daznf1.jpg" group-title="TvporinternetHD",Dazn F1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://deportes.ksdjugfsddeports.com/librefutbol.php?stream=27_&exp=1784569484&sig=5347c1b4702c0c97f0b6c8c84e92763855c28ffc4bee84f925e2a132c0a8de15
+https://deportes.ksdjugfsddeports.com:9092/MTg5LjE1Ni4yNDkuMTEy/27_.m3u8?token=lVyl8S2zn1vf9pJlLlnL7Q&expires=1784612655
 
 #EXTINF:-1 tvg-name="Dazn La Liga" tvg-logo="https://www.tvporinternet2.com/imge/daznlaliga1.webp" group-title="TvporinternetHD",Dazn La Liga
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://deportes.ksdjugfsddeports.com/librefutbol.php?stream=28_&exp=1784425967&sig=9622fa0f7f338ecb5eaf3c8e373309338250b0de7574c4837d1d14b4181b9e22
-https://deportes.ksdjugfsddeports.com:9092/MTg5LjIwMy4xMy4xNjM=/28_.m3u8?token=KfdKLCQBCfvh0Nh07L6VZg&expires=1784469137
+#EXTVLCOPT:http-referrer=https://deportes.ksdjugfsddeports.com/librefutbol.php?stream=28_&exp=1784569484&sig=3de227a06b4dcf6a0921391b768f1bc7796e27ca1918187519f17e7512abd609
+https://deportes.ksdjugfsddeports.com:9092/MTg5LjE1Ni4yNDkuMTEy/28_.m3u8?token=w3n5nZV_lH7A4xjaMietgQ&expires=1784612655
+
+#EXTINF:-1 tvg-name="Directv Sports" tvg-logo="https://www.tvporinternet2.com/imge/directvsports.webp" group-title="TvporinternetHD",Directv Sports
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://deportes.ksdjugfsddeports.com/librefutbol.php?stream=3_&exp=1784569485&sig=37a4b5aa0e8e3df63b4a07640b4ea4f2f573b7325cb179674d0252ae4a6b8d48
+https://deportes.ksdjugfsddeports.com:9092/MTg5LjE1Ni4yNDkuMTEy/3_.m3u8?token=5gAYaKJCHnVYbkypxLUYRw&expires=1784612655
 
 #EXTINF:-1 tvg-name="Directv Sports 2" tvg-logo="https://www.tvporinternet2.com/imge/directvsports2.webp" group-title="TvporinternetHD",Directv Sports 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://deportes.ksdjugfsddeports.com/librefutbol.php?stream=7_&exp=1784425970&sig=abc73728523e81773473924b3e58fad5d189ab430ee1c4ec89db1b45f0fea067
-https://deportes.ksdjugfsddeports.com:9092/MTg5LjIwMy4xMy4xNjM=/7_.m3u8?token=JfU9a0Q_glsqR-9fxqgCMA&expires=1784469140
+#EXTVLCOPT:http-referrer=https://deportes.ksdjugfsddeports.com/librefutbol.php?stream=7_&exp=1784569487&sig=14019a695c1703f3f3a0ec0fe3d3866e2289f2a02595d23615d9726b95c20fd7
+https://deportes.ksdjugfsddeports.com:9092/MTg5LjE1Ni4yNDkuMTEy/7_.m3u8?token=JoYRPRf5ov9ZjvnBwY0jEg&expires=1784612658
+
+#EXTINF:-1 tvg-name="Directv Sports Plus" tvg-logo="https://www.tvporinternet2.com/imge/directvsportsplus.webp" group-title="TvporinternetHD",Directv Sports Plus
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://deportes.ksdjugfsddeports.com/librefutbol.php?stream=11_&exp=1784569487&sig=635e6573dc98a3483fdbe4c7b8031db223acb2935abed2c59a85537952ecffc4
+https://deportes.ksdjugfsddeports.com:9092/MTg5LjE1Ni4yNDkuMTEy/11_.m3u8?token=qn0MwIwGQzrFA_eOqfLWqg&expires=1784612658
+
+#EXTINF:-1 tvg-name="Discovery A&E" tvg-logo="https://www.tvporinternet2.com/imge/discoveryaye.webp" group-title="TvporinternetHD",Discovery A&E
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=43_&exp=1784569512&sig=0d17940f4288bf2145d36a98244c5e39a58e4dae68d487ffb84a9a765271989a
+https://regionales.saohgdasregions.fun:9092/MTg5LjE1Ni4yNDkuMTEy/43_.m3u8?token=-PMJ5Xk_yTKZdE6izPnUyA&expires=1784612683
+
+#EXTINF:-1 tvg-name="Discovery Channel" tvg-logo="https://www.tvporinternet2.com/imge/discoverychannel.webp" group-title="TvporinternetHD",Discovery Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=37_&exp=1784569510&sig=e1a638e33550f8dd620135390359da7822ff30a7c79cf82354216ce2f1c9b3fa
+https://regionales.saohgdasregions.fun:9092/MTg5LjE1Ni4yNDkuMTEy/37_.m3u8?token=VBlT-0s2-IK7Pj6r0h5WhA&expires=1784612680
+
+#EXTINF:-1 tvg-name="Discovery H&H" tvg-logo="https://www.tvporinternet2.com/imge/discoveryhyh.webp" group-title="TvporinternetHD",Discovery H&H
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=42_&exp=1784569511&sig=c40bc5890d11f9005a67ee2a9b333602a855047e21f537db5015ce00d5531960
+https://regionales.saohgdasregions.fun:9092/MTg5LjE1Ni4yNDkuMTEy/42_.m3u8?token=qFiwOq4YCCz5lgfprE8NFA&expires=1784612682
 
 #EXTINF:-1 tvg-name="Disney Channel" tvg-logo="https://www.tvporinternet2.com/imge/disneychannel.webp" group-title="TvporinternetHD",Disney Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=28_&exp=1784426013&sig=32a4397f7c7b5ecbd1e02bf6f5042b04b307fc5f29987b51324a8cf09235c928
-https://regionales.saohgdasregions.fun:9092/MTg5LjIwMy4xMy4xNjM=/28_.m3u8?token=oBCkRbYw9yMek8TzHKyW6w&expires=1784469183
+#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=28_&exp=1784569509&sig=7a3539d1b0ef6d504279276f991ed508759163e0f7f776ee7e4359b7239dd78b
+https://regionales.saohgdasregions.fun:9092/MTg5LjE1Ni4yNDkuMTEy/28_.m3u8?token=JPgjDn6YQKGf4b6C8EMjpw&expires=1784612680
 
 #EXTINF:-1 tvg-name="Distrito Comedia" tvg-logo="https://www.tvporinternet2.com/imge/distritocomedia.webp" group-title="TvporinternetHD",Distrito Comedia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=75_&exp=1784426058&sig=96a39be840155b0bfc2655b5cfae1f7059be15aa8af2256d6a06429b32ca693a
-https://regionales.saohgdasregions.fun:9092/MTg5LjIwMy4xMy4xNjM=/75_.m3u8?token=_rnwlhF5FpWfnrJ-rxPFnA&expires=1784469228
+#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=75_&exp=1784569527&sig=b33a6a383fbe6c583ca4fd7831d8f9833dc02c212a04719b1ce0539b0f7c777e
+https://regionales.saohgdasregions.fun:9092/MTg5LjE1Ni4yNDkuMTEy/75_.m3u8?token=W15w8luYBg_i8kvxYr0fdg&expires=1784612697
 
 #EXTINF:-1 tvg-name="ESPN" tvg-logo="https://www.tvporinternet2.com/imge/espn.webp" group-title="TvporinternetHD",ESPN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://deportes.ksdjugfsddeports.com/librefutbol.php?stream=13_&exp=1784425973&sig=23bc148c26857a4b946f6eeb7a277cdcf00b8b9cf0749a889952842c649e9fcf
-https://deportes.ksdjugfsddeports.com:9092/MTg5LjIwMy4xMy4xNjM=/13_.m3u8?token=haWEHLuSRm-VCutrJU88yA&expires=1784469144
+#EXTVLCOPT:http-referrer=https://deportes.ksdjugfsddeports.com/librefutbol.php?stream=13_&exp=1784569488&sig=4097d70834d6610e5e493bd95c2dea558bfa9b34d9cd0c9d208a469d2ade3276
+https://deportes.ksdjugfsddeports.com:9092/MTg5LjE1Ni4yNDkuMTEy/13_.m3u8?token=0LquzinoNyCXPG9ngSYWiw&expires=1784612658
 
 #EXTINF:-1 tvg-name="ESPN 2" tvg-logo="https://www.tvporinternet2.com/imge/espn2.webp" group-title="TvporinternetHD",ESPN 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://deportes.ksdjugfsddeports.com/librefutbol.php?stream=14_&exp=1784425971&sig=08e2f75ea66a4bc2aeaeac3e174358b940a363574e86ebb14e984cf8071361e5
-https://deportes.ksdjugfsddeports.com:9092/MTg5LjIwMy4xMy4xNjM=/14_.m3u8?token=Z8_ErhtSs5yhYmkXQd4yZA&expires=1784469141
+#EXTVLCOPT:http-referrer=https://deportes.ksdjugfsddeports.com/librefutbol.php?stream=14_&exp=1784569488&sig=230b7fb4162f81bbc33eb78cde3c6e28e07b481da3172a403e0b21c6325e868c
+https://deportes.ksdjugfsddeports.com:9092/MTg5LjE1Ni4yNDkuMTEy/14_.m3u8?token=nwO7yHhujrIb2cgBKQsmOg&expires=1784612658
 
 #EXTINF:-1 tvg-name="ESPN 2 Mexico" tvg-logo="https://www.tvporinternet2.com/imge/espn2mexico.webp" group-title="TvporinternetHD",ESPN 2 Mexico
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://deportes.ksdjugfsddeports.com/librefutbol.php?stream=20_&exp=1784425977&sig=0d3bdca20328cca6fd707191df24dec6bc541a30a922eeb17560eb9378720f96
-https://deportes.ksdjugfsddeports.com:9092/MTg5LjIwMy4xMy4xNjM=/20_.m3u8?token=yxyccjDrdP00HgkGxqb-XQ&expires=1784469147
+#EXTVLCOPT:http-referrer=https://deportes.ksdjugfsddeports.com/librefutbol.php?stream=20_&exp=1784569493&sig=a8e06360d45239b12feaf6e8110a8fcd79bbac32bcef67b3bdddb04b2f7245a9
+https://deportes.ksdjugfsddeports.com:9092/MTg5LjE1Ni4yNDkuMTEy/20_.m3u8?token=gK6IgLTltPwszVTwXi4hGA&expires=1784612663
 
 #EXTINF:-1 tvg-name="ESPN 3" tvg-logo="https://www.tvporinternet2.com/imge/espn3.webp" group-title="TvporinternetHD",ESPN 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://deportes.ksdjugfsddeports.com/librefutbol.php?stream=15_&exp=1784425974&sig=41cebd850b5a4efd4b314a1985580e19eb9184c83b53bb754d60868a0a5d3d9b
-https://deportes.ksdjugfsddeports.com:9092/MTg5LjIwMy4xMy4xNjM=/15_.m3u8?token=FJQBC2WBHNSmw972Zexq6g&expires=1784469144
+#EXTVLCOPT:http-referrer=https://deportes.ksdjugfsddeports.com/librefutbol.php?stream=15_&exp=1784569489&sig=1628c9c5eb580931cd9f50c155b284627a2e726b6c832c52d43dd5df8a86e25b
+https://deportes.ksdjugfsddeports.com:9092/MTg5LjE1Ni4yNDkuMTEy/15_.m3u8?token=UHJLgQ8JhYM6XAeyiiXs9g&expires=1784612659
 
 #EXTINF:-1 tvg-name="ESPN 3 Mexico" tvg-logo="https://www.tvporinternet2.com/imge/espn3mexico.webp" group-title="TvporinternetHD",ESPN 3 Mexico
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://deportes.ksdjugfsddeports.com/librefutbol.php?stream=21_&exp=1784425981&sig=40bf03f3404466d72e89a61e57b72d728d9c4656ed92a54fd55f4adb4cd1d98a
-https://deportes.ksdjugfsddeports.com:9092/MTg5LjIwMy4xMy4xNjM=/21_.m3u8?token=-nBXGMO4ii0GvtAcdwsTNg&expires=1784469151
+#EXTVLCOPT:http-referrer=https://deportes.ksdjugfsddeports.com/librefutbol.php?stream=21_&exp=1784569492&sig=c5b3d26855fed933d1f50a281c5136dac9ff76d37b739b123ebd7c9fba6e85ff
+https://deportes.ksdjugfsddeports.com:9092/MTg5LjE1Ni4yNDkuMTEy/21_.m3u8?token=3ivgndaky70pOoZcSeSTBQ&expires=1784612663
 
 #EXTINF:-1 tvg-name="ESPN 4" tvg-logo="https://www.tvporinternet2.com/imge/espn4.webp" group-title="TvporinternetHD",ESPN 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://deportes.ksdjugfsddeports.com/librefutbol.php?stream=23_&exp=1784425973&sig=b8b631b7da6b3cf069370d26e9f5caaf1ab1dc18b5a1cc93d1fc61d6cc28e99d
-https://deportes.ksdjugfsddeports.com:9092/MTg5LjIwMy4xMy4xNjM=/23_.m3u8?token=dysMS1YJZA_XjRQx1xTEPA&expires=1784469144
+#EXTVLCOPT:http-referrer=https://deportes.ksdjugfsddeports.com/librefutbol.php?stream=23_&exp=1784569489&sig=51c44cb6a618e613606a3403fad864406491d266f7d9344558317681b9338e47
+https://deportes.ksdjugfsddeports.com:9092/MTg5LjE1Ni4yNDkuMTEy/23_.m3u8?token=CJzGgRBCLFj0aXdzXAv1HA&expires=1784612659
 
 #EXTINF:-1 tvg-name="ESPN 4 Mexico" tvg-logo="https://www.tvporinternet2.com/imge/espn4mexico.webp" group-title="TvporinternetHD",ESPN 4 Mexico
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://deportes.ksdjugfsddeports.com/librefutbol.php?stream=33_&exp=1784425982&sig=d3afcf2de49dd5a76e88c3c4dcaa42065a7d5c2cd6097bf620a0d2f39780d583
-https://deportes.ksdjugfsddeports.com:9092/MTg5LjIwMy4xMy4xNjM=/33_.m3u8?token=shCVvEXEJ2Z2Qw5kaf4Tyg&expires=1784469152
+#EXTVLCOPT:http-referrer=https://deportes.ksdjugfsddeports.com/librefutbol.php?stream=33_&exp=1784569493&sig=bb4517aa334620eb33f6bfe480469b73a29398ae47af7930a6d379ac46990db8
+https://deportes.ksdjugfsddeports.com:9092/MTg5LjE1Ni4yNDkuMTEy/33_.m3u8?token=2MHgaB2t-Ok4PrE9anMOVA&expires=1784612664
 
 #EXTINF:-1 tvg-name="ESPN 5" tvg-logo="https://www.tvporinternet2.com/imge/espn5.webp" group-title="TvporinternetHD",ESPN 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://deportes.ksdjugfsddeports.com/librefutbol.php?stream=24_&exp=1784425979&sig=75bc633f17d360cc2a1e4f416b47d4538ef88cda0ff1954064529ae8b0454c38
-https://deportes.ksdjugfsddeports.com:9092/MTg5LjIwMy4xMy4xNjM=/24_.m3u8?token=GcpmjlN6KhsyCRg9PZoxPA&expires=1784469149
+#EXTVLCOPT:http-referrer=https://deportes.ksdjugfsddeports.com/librefutbol.php?stream=24_&exp=1784569489&sig=43ee816d34eefc2654e1fa31b3ea83f92a6c2cbfa21e286a4d09f5a199e5561e
+https://deportes.ksdjugfsddeports.com:9092/MTg5LjE1Ni4yNDkuMTEy/24_.m3u8?token=Z5aD0JWi9WTKdijhvmUuyQ&expires=1784612659
 
 #EXTINF:-1 tvg-name="ESPN 5 Mexico" tvg-logo="https://www.tvporinternet2.com/imge/espn5mexico.webp" group-title="TvporinternetHD",ESPN 5 Mexico
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://deportes.ksdjugfsddeports.com/librefutbol.php?stream=38_&exp=1784425981&sig=88ab34550dad90cb860bc5247c278e4e827714b005965db12f391faa1947fc80
-https://deportes.ksdjugfsddeports.com:9092/MTg5LjIwMy4xMy4xNjM=/38_.m3u8?token=ghu1zO1bc8_pZW8TUzeIyQ&expires=1784469152
+#EXTVLCOPT:http-referrer=https://deportes.ksdjugfsddeports.com/librefutbol.php?stream=38_&exp=1784569493&sig=4ccc7145b8601d8beb5334ce0571e231221e4ee9b88cb6e6f866012327599640
+https://deportes.ksdjugfsddeports.com:9092/MTg5LjE1Ni4yNDkuMTEy/38_.m3u8?token=ZZTFVf259xqVWtzzFBw42g&expires=1784612664
 
 #EXTINF:-1 tvg-name="ESPN 6" tvg-logo="https://www.tvporinternet2.com/imge/espn6.webp" group-title="TvporinternetHD",ESPN 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://deportes.ksdjugfsddeports.com/librefutbol.php?stream=25_&exp=1784425989&sig=bfed1a24e4ca6498b56bfa2baeaf47ec5b20295a4ff8ea2ac901cbe2004d1bc4
-https://deportes.ksdjugfsddeports.com:9092/MTg5LjIwMy4xMy4xNjM=/25_.m3u8?token=O7_O_9Glkz1_37xbn5aZqA&expires=1784469159
+#EXTVLCOPT:http-referrer=https://deportes.ksdjugfsddeports.com/librefutbol.php?stream=25_&exp=1784569491&sig=5614322731f39b7abbe059809e349908862041c3e8625e8cc0ab19459bf8d18d
+https://deportes.ksdjugfsddeports.com:9092/MTg5LjE1Ni4yNDkuMTEy/25_.m3u8?token=MS9BPZufpcr83UetyTVRKw&expires=1784612661
+
+#EXTINF:-1 tvg-name="ESPN 7" tvg-logo="https://www.tvporinternet2.com/imge/espn7.webp" group-title="TvporinternetHD",ESPN 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://deportes.ksdjugfsddeports.com/librefutbol.php?stream=26_&exp=1784569492&sig=3cc5da7147bd4dbf682f3b3c7fc85e7e25957dde12411f91e6f007f497052649
+https://deportes.ksdjugfsddeports.com:9092/MTg5LjE1Ni4yNDkuMTEy/26_.m3u8?token=GU8evVt02lpOHBkztpmXdw&expires=1784612663
 
 #EXTINF:-1 tvg-name="ESPN Mexico" tvg-logo="https://www.tvporinternet2.com/imge/espnmexico.webp" group-title="TvporinternetHD",ESPN Mexico
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://deportes.ksdjugfsddeports.com/librefutbol.php?stream=19_&exp=1784425979&sig=324a9da117ee63d160cc63e2d94ffbae9f2327351feba29d27452e969515f3ad
-https://deportes.ksdjugfsddeports.com:9092/MTg5LjIwMy4xMy4xNjM=/19_.m3u8?token=Ws-CZ-B6kPLo1oUpozfRug&expires=1784469149
+#EXTVLCOPT:http-referrer=https://deportes.ksdjugfsddeports.com/librefutbol.php?stream=19_&exp=1784569492&sig=874ebc6971b71f7cc3be08388f8d4a8dee3f56367f82c665eb7ddd03742b8768
+https://deportes.ksdjugfsddeports.com:9092/MTg5LjE1Ni4yNDkuMTEy/19_.m3u8?token=bPpqw4QnIZxfGlwhad8b-w&expires=1784612663
 
 #EXTINF:-1 tvg-name="ESPN Premium" tvg-logo="https://www.tvporinternet2.com/imge/espnpremium.webp" group-title="TvporinternetHD",ESPN Premium
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://deportes.ksdjugfsddeports.com/librefutbol.php?stream=5_&exp=1784425972&sig=c7fee7cc5bf8ec540cc17de97952db21c13a125d41caff48951c4d54005d80b0
-https://deportes.ksdjugfsddeports.com:9092/MTg5LjIwMy4xMy4xNjM=/5_.m3u8?token=Jo0O7IqSVfN2QsI42JkjvQ&expires=1784469142
+#EXTVLCOPT:http-referrer=https://deportes.ksdjugfsddeports.com/librefutbol.php?stream=5_&exp=1784569487&sig=2e5f6c2c70cae2eade6d7547b8b08261099d05a00ddadcf372801b70844899b4
+https://deportes.ksdjugfsddeports.com:9092/MTg5LjE1Ni4yNDkuMTEy/5_.m3u8?token=a2quFKwV2NIwHQeTI8UzoA&expires=1784612658
 
 #EXTINF:-1 tvg-name="El Trece" tvg-logo="https://www.tvporinternet2.com/imge/eltrece.webp" group-title="TvporinternetHD",El Trece
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=4_&exp=1784425991&sig=6b98541bd2221d94048bd326cb1d9f4f47e15e99a63dc050fa2246335ca6d8b0
-https://regionales.saohgdasregions.fun:9092/MTg5LjIwMy4xMy4xNjM=/4_.m3u8?token=tFZj8Yj3z6dv-aZ0KFSVmQ&expires=1784469161
+#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=4_&exp=1784569498&sig=6ebc05cd654ad869af79ba8b95a87887bfd4231a0fc35f3adb4f77ceb9dd672d
+https://regionales.saohgdasregions.fun:9092/MTg5LjE1Ni4yNDkuMTEy/4_.m3u8?token=adaYqRy9zqi2t18O2cCQbg&expires=1784612668
+
+#EXTINF:-1 tvg-name="Extrema TV" tvg-logo="https://www.tvporinternet2.com/imge/extrematv.webp" group-title="TvporinternetHD",Extrema TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=73_&exp=1784569527&sig=e9a67e5da34edba2962d80f6646a25ab2f25ffd061831ee983c4c787e6a9b925
+https://regionales.saohgdasregions.fun:9092/MTg5LjE1Ni4yNDkuMTEy/73_.m3u8?token=W5LkiW54I1YrD-LXrUMm-A&expires=1784612697
 
 #EXTINF:-1 tvg-name="FM Hot Kids" tvg-logo="https://www.tvporinternet2.com/imge/fmhotkids.webp" group-title="TvporinternetHD",FM Hot Kids
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=78_&exp=1784426054&sig=7ecd34624952d8abecb68e63b882064ddf2c0c26ef40b8d8595b62d702d02b63
-https://regionales.saohgdasregions.fun:9092/MTg5LjIwMy4xMy4xNjM=/78_.m3u8?token=TztCmfi_TMUiGafRt5QqGA&expires=1784469224
+#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=78_&exp=1784569527&sig=36b83c45839615885a1bc3990a99946de6150f0906915d54918c9e997fb1cc22
+https://regionales.saohgdasregions.fun:9092/MTg5LjE1Ni4yNDkuMTEy/78_.m3u8?token=sB7HyjuK0ZT-m6M8YIxZow&expires=1784612697
 
 #EXTINF:-1 tvg-name="FM Hot Movies" tvg-logo="https://www.tvporinternet2.com/imge/fmhotmovies.webp" group-title="TvporinternetHD",FM Hot Movies
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=34_&exp=1784426056&sig=ac7225269b3312811c1286c87c817a5a014bce5bf11c325cb205d04f7115b4d9
-https://regionales.saohgdasregions.fun:9092/MTg5LjIwMy4xMy4xNjM=/34_.m3u8?token=bOm0HxhIMhTB7HvRegmPjA&expires=1784469226
+#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=34_&exp=1784569526&sig=c88ecc209621085d8f76a6297eb72fa67bc2cd84e13d6072dcf97fab1c22867c
+https://regionales.saohgdasregions.fun:9092/MTg5LjE1Ni4yNDkuMTEy/34_.m3u8?token=glg_io6m_SezfllKBuXczg&expires=1784612696
 
 #EXTINF:-1 tvg-name="FX" tvg-logo="https://www.tvporinternet2.com/imge/fx.webp" group-title="TvporinternetHD",FX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=60_&exp=1784426041&sig=ef60fba15ccbe6c42a95778d6aa59bd506db3bf0e51cc688cd00c277f8c879f3
-https://regionales.saohgdasregions.fun:9092/MTg5LjIwMy4xMy4xNjM=/60_.m3u8?token=-nbw3lQ_5HnGHlmDPbQWTA&expires=1784469212
+#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=60_&exp=1784569519&sig=72f12de5552156cbed1676de9e8a4bfe0517d94de0d7143c87bfbf7b6e42fd46
+https://regionales.saohgdasregions.fun:9092/MTg5LjE1Ni4yNDkuMTEy/60_.m3u8?token=gcU_S44uQyjRXQTkLNXttQ&expires=1784612689
 
 #EXTINF:-1 tvg-name="Fox Sports" tvg-logo="https://www.tvporinternet2.com/imge/foxsports.webp" group-title="TvporinternetHD",Fox Sports
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://deportes.ksdjugfsddeports.com/librefutbol.php?stream=8_&exp=1784425984&sig=4ef62ee4c99d5e9ab32a8669c2c68da58e8911c1c8242b1b9f5609c55c1471bc
-https://deportes.ksdjugfsddeports.com:9092/MTg5LjIwMy4xMy4xNjM=/8_.m3u8?token=6ExzO46mhFlU5cpB5CXUUQ&expires=1784469154
+#EXTVLCOPT:http-referrer=https://deportes.ksdjugfsddeports.com/librefutbol.php?stream=8_&exp=1784569493&sig=3415704d1f2e528e3435946cc37dd972260aca63769da2ab46e75ed207afeece
+https://deportes.ksdjugfsddeports.com:9092/MTg5LjE1Ni4yNDkuMTEy/8_.m3u8?token=KHZVY3a9ZtSyCZFwMB-dfQ&expires=1784612664
 
 #EXTINF:-1 tvg-name="Fox Sports 2" tvg-logo="https://www.tvporinternet2.com/imge/foxsports2.webp" group-title="TvporinternetHD",Fox Sports 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://deportes.ksdjugfsddeports.com/librefutbol.php?stream=9_&exp=1784425996&sig=773eba2919c80313cb89d73d94996b2ff79d38bf49e050d7330e98bd86689302
-https://deportes.ksdjugfsddeports.com:9092/MTg5LjIwMy4xMy4xNjM=/9_.m3u8?token=git9sqTkXeKqBDZw6_8Ixw&expires=1784469166
+#EXTVLCOPT:http-referrer=https://deportes.ksdjugfsddeports.com/librefutbol.php?stream=9_&exp=1784569495&sig=97d9cbd8fde79eff370503b7409482dc461d06b783f58edd3b8b3adfbb55c02d
+https://deportes.ksdjugfsddeports.com:9092/MTg5LjE1Ni4yNDkuMTEy/9_.m3u8?token=mlwrMlA4dps2cuFyUdGKbg&expires=1784612665
+
+#EXTINF:-1 tvg-name="Fox Sports 2 Mexico" tvg-logo="https://www.tvporinternet2.com/imge/foxsports2mx.webp" group-title="TvporinternetHD",Fox Sports 2 Mexico
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://deportes.ksdjugfsddeports.com/librefutbol.php?stream=9_&exp=1784569497&sig=b94091cc5e1497f74dac8ada911438b835fca93785a74a504faa53f9b2588762
+https://deportes.ksdjugfsddeports.com:9092/MTg5LjE1Ni4yNDkuMTEy/9_.m3u8?token=sTBsKIXvEHXzYjNY5mJ-tQ&expires=1784612667
 
 #EXTINF:-1 tvg-name="Fox Sports 3" tvg-logo="https://www.tvporinternet2.com/imge/foxsports3.webp" group-title="TvporinternetHD",Fox Sports 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://deportes.ksdjugfsddeports.com/librefutbol.php?stream=10_&exp=1784426006&sig=f64de36307f99772c9d56523dfac0d6094b32da41f089febc09f61a5affc7d71
-https://deportes.ksdjugfsddeports.com:9092/MTg5LjIwMy4xMy4xNjM=/10_.m3u8?token=Xq8vQ-8lM1FYU3QW5Kynbg&expires=1784469177
+#EXTVLCOPT:http-referrer=https://deportes.ksdjugfsddeports.com/librefutbol.php?stream=10_&exp=1784569496&sig=83c94a7512861799294d2a61fa2d0fc269ebcd05d01fcac754ab166418ef988a
+https://deportes.ksdjugfsddeports.com:9092/MTg5LjE1Ni4yNDkuMTEy/10_.m3u8?token=4OJKnJQVPGs-JAmzT4gfxw&expires=1784612667
 
 #EXTINF:-1 tvg-name="Fox Sports 3 Mexico" tvg-logo="https://www.tvporinternet2.com/imge/foxsports3mexico.webp" group-title="TvporinternetHD",Fox Sports 3 Mexico
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://deportes.ksdjugfsddeports.com/librefutbol.php?stream=18_&exp=1784425991&sig=53c797baed2f2806d62a1a4ee4c13b6a87b9fe202de30553767f6fa11d56dd0f
-https://deportes.ksdjugfsddeports.com:9092/MTg5LjIwMy4xMy4xNjM=/18_.m3u8?token=ljyY7AZd0tp_SZEiH8i0HA&expires=1784469161
+#EXTVLCOPT:http-referrer=https://deportes.ksdjugfsddeports.com/librefutbol.php?stream=18_&exp=1784569497&sig=0c9d4f8e94797ab2a7e508d4477ed2e4edf46a30121dfb896c098903457358bb
+https://deportes.ksdjugfsddeports.com:9092/MTg5LjE1Ni4yNDkuMTEy/18_.m3u8?token=MAOujTovtuXSeUH-flrfvQ&expires=1784612667
 
 #EXTINF:-1 tvg-name="Fox Sports Mexico" tvg-logo="https://www.tvporinternet2.com/imge/foxsportsmx.webp" group-title="TvporinternetHD",Fox Sports Mexico
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://deportes.ksdjugfsddeports.com/librefutbol.php?stream=8_&exp=1784425985&sig=3ca015d389cf71c8cf06703079cbb611453823a0cac567fc44e1f2cee8adad54
-https://deportes.ksdjugfsddeports.com:9092/MTg5LjIwMy4xMy4xNjM=/8_.m3u8?token=PuU6ayjdTjTAi8oUIGmzvQ&expires=1784469155
+#EXTVLCOPT:http-referrer=https://deportes.ksdjugfsddeports.com/librefutbol.php?stream=8_&exp=1784569497&sig=a2316ea58c3bf9521e6bf0be296943a9a5ee87842845c59e101be5340251ca8c
+https://deportes.ksdjugfsddeports.com:9092/MTg5LjE1Ni4yNDkuMTEy/8_.m3u8?token=0N9i1_9sl4UF-YY-X-kLog&expires=1784612667
 
 #EXTINF:-1 tvg-name="Fox Sports Premium" tvg-logo="https://www.tvporinternet2.com/imge/foxsportspremium.webp" group-title="TvporinternetHD",Fox Sports Premium
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://deportes.ksdjugfsddeports.com/librefutbol.php?stream=12_&exp=1784425954&sig=04b70d307c1ef46bb8f5939ad43b30ffa24da794f4f5eedcac3edc34f3e23f5b
-https://deportes.ksdjugfsddeports.com:9092/MTg5LjIwMy4xMy4xNjM=/12_.m3u8?token=H6LTD_56g-9aQf75bjOseQ&expires=1784469124
+#EXTVLCOPT:http-referrer=https://deportes.ksdjugfsddeports.com/librefutbol.php?stream=12_&exp=1784569483&sig=09a0d1ff820f09656b7826277a27147753a0786c92f6369bab5b6acc5f329d98
+https://deportes.ksdjugfsddeports.com:9092/MTg5LjE1Ni4yNDkuMTEy/12_.m3u8?token=2_pCjgvHAUEGlxh6cHiggQ&expires=1784612653
 
 #EXTINF:-1 tvg-name="Golden" tvg-logo="https://www.tvporinternet2.com/imge/golden.webp" group-title="TvporinternetHD",Golden
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=67_&exp=1784426054&sig=50bf329d37b20548a0d328fcc6a8447951387be3e57a512e6bb085c8e019cbe6
-https://regionales.saohgdasregions.fun:9092/MTg5LjIwMy4xMy4xNjM=/67_.m3u8?token=WUExHEJpefw1gHW0L2Jt1g&expires=1784469224
+#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=67_&exp=1784569523&sig=0d40d72ebd606a7256ad3d04a40e78e2d3fc454c5a66d796f1b6912577945755
+https://regionales.saohgdasregions.fun:9092/MTg5LjE1Ni4yNDkuMTEy/67_.m3u8?token=JpU5_fD_ew19MXj-S2B2DQ&expires=1784612693
 
 #EXTINF:-1 tvg-name="Golden Edge" tvg-logo="https://www.tvporinternet2.com/imge/goldenedge.webp" group-title="TvporinternetHD",Golden Edge
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=69_&exp=1784426057&sig=40378d89e44bbb6299c310433c6f2417d0b023fd833980394a456ff5b5fe018a
-https://regionales.saohgdasregions.fun:9092/MTg5LjIwMy4xMy4xNjM=/69_.m3u8?token=7b8XP2Ho9KzLe-kdX0eHdg&expires=1784469227
+#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=69_&exp=1784569523&sig=a003ca85327b2b5dcffffb56ba0e67c46aa32be840bbcb41e72fa4a913ea7169
+https://regionales.saohgdasregions.fun:9092/MTg5LjE1Ni4yNDkuMTEy/69_.m3u8?token=5TtX1tiAFBE4OMwqF76cbw&expires=1784612693
 
 #EXTINF:-1 tvg-name="Golden Plus" tvg-logo="https://www.tvporinternet2.com/imge/goldenplus.webp" group-title="TvporinternetHD",Golden Plus
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=68_&exp=1784426049&sig=8e05f5e8d4b5eda003a60224f4e8f0f328ad736e8b760f7dddf06068a8f945c3
-https://regionales.saohgdasregions.fun:9092/MTg5LjIwMy4xMy4xNjM=/68_.m3u8?token=FPMDvuXtPkO4uSKx7qz2Wg&expires=1784469219
+#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=68_&exp=1784569523&sig=2058b74b9bb6f7b4899da1505073877d878f3ad7bfeb1b2f98839037a000d74a
+https://regionales.saohgdasregions.fun:9092/MTg5LjE1Ni4yNDkuMTEy/68_.m3u8?token=U65QfZ63pvZldlhOCfnXOw&expires=1784612693
+
+#EXTINF:-1 tvg-name="Golden Premier" tvg-logo="https://www.tvporinternet2.com/imge/goldenpremier.webp" group-title="TvporinternetHD",Golden Premier
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=70_&exp=1784569523&sig=1883274a8b940e26c52a74fc41e5c46ea36a7fbb9a88149d2324e0cea5a340d2
+https://regionales.saohgdasregions.fun:9092/MTg5LjE1Ni4yNDkuMTEy/70_.m3u8?token=k5PeBkKH32DGGP7oGtJbtg&expires=1784612694
 
 #EXTINF:-1 tvg-name="History" tvg-logo="https://www.tvporinternet2.com/imge/history.webp" group-title="TvporinternetHD",History
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=44_&exp=1784426021&sig=d32330a7d8b3851070ca36bea39a24243fb2d0fc909e9bd007c75d2570ff2bc7
-https://regionales.saohgdasregions.fun:9092/MTg5LjIwMy4xMy4xNjM=/44_.m3u8?token=7rqkp7anQSIA8BgMzrf4Og&expires=1784469192
+#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=44_&exp=1784569513&sig=688251d674637190dfc773ff3f50ce0a6a44309114071702fffcecb6071449e0
+https://regionales.saohgdasregions.fun:9092/MTg5LjE1Ni4yNDkuMTEy/44_.m3u8?token=v3tE06lSLR3i5_ney90-Bw&expires=1784612684
 
 #EXTINF:-1 tvg-name="History 2" tvg-logo="https://www.tvporinternet2.com/imge/history2.webp" group-title="TvporinternetHD",History 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=45_&exp=1784426023&sig=0787af7bbc05e0d17910e6721080610a22930d7719c3effa337b1126d8a8869b
-https://regionales.saohgdasregions.fun:9092/MTg5LjIwMy4xMy4xNjM=/45_.m3u8?token=UU1LlViA-28N4YLW8pwB4w&expires=1784469193
+#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=45_&exp=1784569514&sig=09f996be95c8fa9c8d43f43390f371b0efe872a37ef37e56f0612c18c5926250
+https://regionales.saohgdasregions.fun:9092/MTg5LjE1Ni4yNDkuMTEy/45_.m3u8?token=uT6cdfdXO0xf00QH_hELow&expires=1784612684
 
 #EXTINF:-1 tvg-name="ID Investigation" tvg-logo="https://www.tvporinternet2.com/imge/idinvestigation.webp" group-title="TvporinternetHD",ID Investigation
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=41_&exp=1784426024&sig=7b6e15eb89dcb4f7ed9b4d0106d6cc4756faf7ecec910e782c603a2eca1bb204
-https://regionales.saohgdasregions.fun:9092/MTg5LjIwMy4xMy4xNjM=/41_.m3u8?token=Wig5xBP6xyxAxAwoTUik2A&expires=1784469194
+#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=41_&exp=1784569511&sig=bc9d7485847a6663a9f497e7ecf3c6933a0615499bdb37069a280ab09dd5f8d0
+https://regionales.saohgdasregions.fun:9092/MTg5LjE1Ni4yNDkuMTEy/41_.m3u8?token=4JjzoeVO_PFQJFsUrVyrOw&expires=1784612681
 
 #EXTINF:-1 tvg-name="Imagen TV" tvg-logo="https://www.tvporinternet2.com/imge/imagentv.webp" group-title="TvporinternetHD",Imagen TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=25_&exp=1784426006&sig=fa6e5e15a1668bdc97a8126ae208299ea03c8acdf3e2f192f33c53f533715b74
-https://regionales.saohgdasregions.fun:9092/MTg5LjIwMy4xMy4xNjM=/25_.m3u8?token=BY1w5mjhNXcz9eRWsF5ZgQ&expires=1784469177
+#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=25_&exp=1784569505&sig=f89fd4577ad5e03d66b4a82ea07861eee92e627f642d29ec302d1bf23b70b247
+https://regionales.saohgdasregions.fun:9092/MTg5LjE1Ni4yNDkuMTEy/25_.m3u8?token=QtvKDmBB1XZExeIcqc7mOg&expires=1784612676
 
 #EXTINF:-1 tvg-name="Las Estrellas" tvg-logo="https://www.tvporinternet2.com/imge/lasestrellas.webp" group-title="TvporinternetHD",Las Estrellas
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=13_&exp=1784425998&sig=b4225ab4b76f93b21c0401a44f21ba3acac3f3bdfdeefe69cedcb94a188404c2
-https://regionales.saohgdasregions.fun:9092/MTg5LjIwMy4xMy4xNjM=/13_.m3u8?token=4WgIwrsVMnJJUy6quLZFLw&expires=1784469168
+#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=13_&exp=1784569501&sig=f52e6a8fde35b9af48df1346dc4354d61533934d92277f15ac3ffbda78b78c9a
+https://regionales.saohgdasregions.fun:9092/MTg5LjE1Ni4yNDkuMTEy/13_.m3u8?token=5fpQFLDLqgdo2fMxmfLzaw&expires=1784612672
+
+#EXTINF:-1 tvg-name="Latina" tvg-logo="https://www.tvporinternet2.com/imge/latina.webp" group-title="TvporinternetHD",Latina
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=19_&exp=1784569504&sig=f2a86072261c0c94fd3ecbf99aa1cd1b41bbc7f26384f54356a6a7870cc27317
+https://regionales.saohgdasregions.fun:9092/MTg5LjE1Ni4yNDkuMTEy/19_.m3u8?token=_k7un4-SnJsyFfkFeY0IYQ&expires=1784612675
 
 #EXTINF:-1 tvg-name="Liga 1" tvg-logo="https://www.tvporinternet2.com/imge/liga1.webp" group-title="TvporinternetHD",Liga 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://deportes.ksdjugfsddeports.com/librefutbol.php?stream=39_&exp=1784425949&sig=ef18785cdb8055a539a87c2416d334df57e3456c8f79dbc78a7e22fc1a8db1ff
-https://deportes.ksdjugfsddeports.com:9092/MTg5LjIwMy4xMy4xNjM=/39_.m3u8?token=FXT9KibC-593Lvs7EEDadg&expires=1784469119
+#EXTVLCOPT:http-referrer=https://deportes.ksdjugfsddeports.com/librefutbol.php?stream=39_&exp=1784569479&sig=038c9431f9481c039cdcd4a8ea1f37c27727b30e754113a5410167c7d0f38b6d
+https://deportes.ksdjugfsddeports.com:9092/MTg5LjE1Ni4yNDkuMTEy/39_.m3u8?token=2fa_CL4OkdE6gR4MsE5CDw&expires=1784612649
 
 #EXTINF:-1 tvg-name="Liga 1 Max" tvg-logo="https://www.tvporinternet2.com/imge/liga1max.webp" group-title="TvporinternetHD",Liga 1 Max
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://deportes.ksdjugfsddeports.com/librefutbol.php?stream=22_&exp=1784425951&sig=4d9211cc7322dff3d0e90b742031972236c8f8665713ca53874f41852e38b45b
-https://deportes.ksdjugfsddeports.com:9092/MTg5LjIwMy4xMy4xNjM=/22_.m3u8?token=W_UEk92bPh1SA-ejq9m8Zg&expires=1784469121
+#EXTVLCOPT:http-referrer=https://deportes.ksdjugfsddeports.com/librefutbol.php?stream=22_&exp=1784569480&sig=777a6a1dd7fc86e6b86c6dd2101ecb3e3a84603b51095fd968b4cd0a194db342
+https://deportes.ksdjugfsddeports.com:9092/MTg5LjE1Ni4yNDkuMTEy/22_.m3u8?token=_c0-7oZpMiDVBpVTNCqEpA&expires=1784612650
 
 #EXTINF:-1 tvg-name="Movistar La Liga" tvg-logo="https://www.tvporinternet2.com/imge/movistarlaliga.webp" group-title="TvporinternetHD",Movistar La Liga
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://deportes.ksdjugfsddeports.com/librefutbol.php?stream=32_&exp=1784425955&sig=60f4368e7cc6f390b5c6e63c12281f97ec01f9afc7684fe1ec46fac1c0a7cac1
-https://deportes.ksdjugfsddeports.com:9092/MTg5LjIwMy4xMy4xNjM=/32_.m3u8?token=niSsgERwDuY_dNr8Y7zDlw&expires=1784469125
+#EXTVLCOPT:http-referrer=https://deportes.ksdjugfsddeports.com/librefutbol.php?stream=32_&exp=1784569484&sig=14d9dae794e19fb773f2c3e86627ddae90f572efcffcdf9156a71a1f23e4fac8
+https://deportes.ksdjugfsddeports.com:9092/MTg5LjE1Ni4yNDkuMTEy/32_.m3u8?token=xf2U3Jetrz2_h7TME5fGNQ&expires=1784612654
 
 #EXTINF:-1 tvg-name="Movistar Liga De Campeones" tvg-logo="https://www.tvporinternet2.com/imge/movistarligadecampeones.webp" group-title="TvporinternetHD",Movistar Liga De Campeones
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://deportes.ksdjugfsddeports.com/librefutbol.php?stream=29_&exp=1784425967&sig=8d76866ba5a16758fa53958ac24dd7e29a4ec993af7f08c9c83770304347e117
-https://deportes.ksdjugfsddeports.com:9092/MTg5LjIwMy4xMy4xNjM=/29_.m3u8?token=w-59IJVLd_ob2s81eGa8rg&expires=1784469137
+#EXTVLCOPT:http-referrer=https://deportes.ksdjugfsddeports.com/librefutbol.php?stream=29_&exp=1784569484&sig=01285673d309fee449a6808cbec475baab29dd896d0535a70223feb2add21317
+https://deportes.ksdjugfsddeports.com:9092/MTg5LjE1Ni4yNDkuMTEy/29_.m3u8?token=zGwX7INg8INi88UlEeldQw&expires=1784612654
 
 #EXTINF:-1 tvg-name="Multipremier" tvg-logo="https://www.tvporinternet2.com/imge/multipremier.webp" group-title="TvporinternetHD",Multipremier
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=66_&exp=1784426050&sig=a76a51b5abea61cad79d0b3b36d3f298f95ba0a7e2af08200238b5fe7c3bb483
-https://regionales.saohgdasregions.fun:9092/MTg5LjIwMy4xMy4xNjM=/66_.m3u8?token=lKnUQIeYUc9CIvl8cz9fcw&expires=1784469220
+#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=66_&exp=1784569522&sig=82ef00a127b8dcd92969516f156cc8fa41c9ea934dc3c1786ed1031a32b4c90d
+https://regionales.saohgdasregions.fun:9092/MTg5LjE1Ni4yNDkuMTEy/66_.m3u8?token=uaS7M3mgPyAmY_0f0Ox04w&expires=1784612693
 
 #EXTINF:-1 tvg-name="Nat Geo" tvg-logo="https://www.tvporinternet2.com/imge/natgeo.webp" group-title="TvporinternetHD",Nat Geo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=47_&exp=1784426029&sig=75f09a2b636b0712c92ea715e7862d57a95259b173642ef31e4f21963f30d018
-https://regionales.saohgdasregions.fun:9092/MTg5LjIwMy4xMy4xNjM=/47_.m3u8?token=Hs91YRf4JXKAwtUlKzrYvg&expires=1784469199
+#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=47_&exp=1784569514&sig=560c6ab3fc16e74f8a8e715448fceab1843607aa514964b84ef238275ef90ffa
+https://regionales.saohgdasregions.fun:9092/MTg5LjE1Ni4yNDkuMTEy/47_.m3u8?token=Xn48g26yNz_ctQIqzYv8rA&expires=1784612685
 
 #EXTINF:-1 tvg-name="Panico HD" tvg-logo="https://www.tvporinternet2.com/imge/panico.webp" group-title="TvporinternetHD",Panico HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=65_&exp=1784426050&sig=9cf72a61eb9f990fb148bc058b4e04a2dbb202ce21ee6d17b3849d3fe4cb0ba3
-https://regionales.saohgdasregions.fun:9092/MTg5LjIwMy4xMy4xNjM=/65_.m3u8?token=HSfGvt1YMgG0PAFufBDTKg&expires=1784469220
+#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=65_&exp=1784569522&sig=f9f30bc1466f79ebd9441514445b3dbc3f574d324371fba41ad490fe6fb065ec
+https://regionales.saohgdasregions.fun:9092/MTg5LjE1Ni4yNDkuMTEy/65_.m3u8?token=cVrnYiW2tUtUcfeXnIDFAA&expires=1784612693
 
 #EXTINF:-1 tvg-name="Pasiones" tvg-logo="https://www.tvporinternet2.com/imge/pasiones.webp" group-title="TvporinternetHD",Pasiones
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=10_&exp=1784426000&sig=18b783f1a3c4d8ebb9af3a90e46facec809c5fa30d2e686f6528d81c86423766
-https://regionales.saohgdasregions.fun:9092/MTg5LjIwMy4xMy4xNjM=/10_.m3u8?token=_zWDg5R6lXG3m2GHZgbp0A&expires=1784469170
+#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=10_&exp=1784569501&sig=13a7ae9a157293bdb4a0f3fb19fbf72f31724a455dc05b02f5000136f25487f2
+https://regionales.saohgdasregions.fun:9092/MTg5LjE1Ni4yNDkuMTEy/10_.m3u8?token=2yt7GgA0851sdw1HMEggww&expires=1784612671
 
 #EXTINF:-1 tvg-name="RCN" tvg-logo="https://www.tvporinternet2.com/imge/rcn.webp" group-title="TvporinternetHD",RCN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=18_&exp=1784426001&sig=51a8c4989a2ee2055375314077f5d0a49719d818dfe47da64f0b18d3ec706664
-https://regionales.saohgdasregions.fun:9092/MTg5LjIwMy4xMy4xNjM=/18_.m3u8?token=KI-iUX8bo0i8lV6gIL2J1A&expires=1784469172
+#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=18_&exp=1784569504&sig=b488ace810b0f9abe3c0097455e00ad1b1a608bd5c0b5fba538adf70c7ca70e0
+https://regionales.saohgdasregions.fun:9092/MTg5LjE1Ni4yNDkuMTEy/18_.m3u8?token=H5-jRHrSYgf5VYu8oGG_Uw&expires=1784612675
 
 #EXTINF:-1 tvg-name="Sky Sports La Liga" tvg-logo="https://www.tvporinternet2.com/imge/skysportslaliga.webp" group-title="TvporinternetHD",Sky Sports La Liga
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://deportes.ksdjugfsddeports.com/librefutbol.php?stream=37_&exp=1784425968&sig=8058614c513955dc5660ca974fda3811d7535fc64f8f23e0384d25f97208f167
-https://deportes.ksdjugfsddeports.com:9092/MTg5LjIwMy4xMy4xNjM=/37_.m3u8?token=xepXh06xu8aor9msRydCtg&expires=1784469138
+#EXTVLCOPT:http-referrer=https://deportes.ksdjugfsddeports.com/librefutbol.php?stream=37_&exp=1784569480&sig=47376a151a15893139f3e83bcd5d4d694655f4293198a76b1d6a89f7cb1c334a
+https://deportes.ksdjugfsddeports.com:9092/MTg5LjE1Ni4yNDkuMTEy/37_.m3u8?token=PHbnxIFm5fYLSxDgvxeX_w&expires=1784612650
 
 #EXTINF:-1 tvg-name="Space" tvg-logo="https://www.tvporinternet2.com/imge/space.webp" group-title="TvporinternetHD",Space
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=56_&exp=1784426044&sig=9ad0259c14f630430bb4484b9c5bed5520c898c045b18fed2805599955f6acd7
-https://regionales.saohgdasregions.fun:9092/MTg5LjIwMy4xMy4xNjM=/56_.m3u8?token=ZoZduQbuRHin0uJ8rGE-Cg&expires=1784469214
+#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=56_&exp=1784569518&sig=05d53d734ed842112332feeb1a1022f68c2a4446dc8f975d84680e9f6c3da824
+https://regionales.saohgdasregions.fun:9092/MTg5LjE1Ni4yNDkuMTEy/56_.m3u8?token=T6wbp_IBeK5v4hbNcswEog&expires=1784612688
 
 #EXTINF:-1 tvg-name="Star Channel" tvg-logo="https://www.tvporinternet2.com/imge/star.webp" group-title="TvporinternetHD",Star Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=54_&exp=1784426035&sig=1fad10aab2dc0872cf52d42778e4e5f2eb1388f20ad76da453097cc344187fc9
-https://regionales.saohgdasregions.fun:9092/MTg5LjIwMy4xMy4xNjM=/54_.m3u8?token=O2KX44gkHk15EqTIhpRVmQ&expires=1784469205
+#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=54_&exp=1784569516&sig=3fb1fd4a017f557eda4adef31ff3553fad45d7a5d5b3e20c539966b0b557364e
+https://regionales.saohgdasregions.fun:9092/MTg5LjE1Ni4yNDkuMTEy/54_.m3u8?token=vvl-dQSgdMSv0Q0yXyGDhw&expires=1784612687
 
 #EXTINF:-1 tvg-name="Studio Universal" tvg-logo="https://www.tvporinternet2.com/imge/studiouniversal.webp" group-title="TvporinternetHD",Studio Universal
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=64_&exp=1784426046&sig=8d799983d62ec576ca49b9f40cae563dea72736688af93c7a0a60d36b6747628
-https://regionales.saohgdasregions.fun:9092/MTg5LjIwMy4xMy4xNjM=/64_.m3u8?token=sjmga5TNbsaFh2cLm3vzgA&expires=1784469216
+#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=64_&exp=1784569521&sig=f4c62ce5e99a75068bbc92ba8075ee5fa0b866a3fed3c09e99265baac69275ca
+https://regionales.saohgdasregions.fun:9092/MTg5LjE1Ni4yNDkuMTEy/64_.m3u8?token=5XLaYqKgIDSL19eQPV2HAA&expires=1784612692
 
 #EXTINF:-1 tvg-name="TNT" tvg-logo="https://www.tvporinternet2.com/imge/tnt.webp" group-title="TvporinternetHD",TNT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=52_&exp=1784426042&sig=1b42b0be1f94e13c851ee1a0887cdf0bc342f1f9fda353b946002d2cf81f715b
-https://regionales.saohgdasregions.fun:9092/MTg5LjIwMy4xMy4xNjM=/52_.m3u8?token=oCw2fLjtUOn7rb8ZWo6mIA&expires=1784469213
+#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=52_&exp=1784569515&sig=575d3b6e759ab12094501ae87ee41523d1bd53cb834bea6fab33e13bae263877
+https://regionales.saohgdasregions.fun:9092/MTg5LjE1Ni4yNDkuMTEy/52_.m3u8?token=DXSjFHJt27h7Z1G_ipdyJQ&expires=1784612685
+
+#EXTINF:-1 tvg-name="TNT Novelas" tvg-logo="https://www.tvporinternet2.com/imge/tntnovelas.webp" group-title="TvporinternetHD",TNT Novelas
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=5_&exp=1784569509&sig=4b12ab8bf2b90a3118a850818122cff58c0cc03768f31ea1d09779e868187dec
+https://regionales.saohgdasregions.fun:9092/MTg5LjE1Ni4yNDkuMTEy/5_.m3u8?token=xTbX8eoddMe8V_yHZowQsQ&expires=1784612680
 
 #EXTINF:-1 tvg-name="TNT Series" tvg-logo="https://www.tvporinternet2.com/imge/tntseries.webp" group-title="TvporinternetHD",TNT Series
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=53_&exp=1784426034&sig=3f4161d2d85028ebf9cababb4818091ed54b9fcb4e6fcd5d2620e1c388875509
-https://regionales.saohgdasregions.fun:9092/MTg5LjIwMy4xMy4xNjM=/53_.m3u8?token=CVj-fyfFuCjvZO4cWuF4OA&expires=1784469204
+#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=53_&exp=1784569516&sig=434dda77667d80e5bfd44a3a0f0b9f1d1c7e60b7c619431dd801eb8114c78469
+https://regionales.saohgdasregions.fun:9092/MTg5LjE1Ni4yNDkuMTEy/53_.m3u8?token=u7H5S_Bx_ENdr-7FCHuNLQ&expires=1784612686
+
+#EXTINF:-1 tvg-name="TNT Sports" tvg-logo="https://www.tvporinternet2.com/imge/tntsports.webp" group-title="TvporinternetHD",TNT Sports
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://deportes.ksdjugfsddeports.com/librefutbol.php?stream=4_&exp=1784569480&sig=4b8724969d1c8e3fd3217ec6796f9de942d0751feeff064beb81f59fa3483abf
+https://deportes.ksdjugfsddeports.com:9092/MTg5LjE1Ni4yNDkuMTEy/4_.m3u8?token=9bBAwVQuxv2gjdBVPWZbpA&expires=1784612650
 
 #EXTINF:-1 tvg-name="TNT Sports Chile" tvg-logo="https://www.tvporinternet2.com/imge/tntsports.webp" group-title="TvporinternetHD",TNT Sports Chile
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://deportes.ksdjugfsddeports.com/librefutbol.php?stream=35_&exp=1784425951&sig=1d82e36e2d565b7da6ebec395d5e53199b99040726759813d0be62a405f213c3
-https://deportes.ksdjugfsddeports.com:9092/MTg5LjIwMy4xMy4xNjM=/35_.m3u8?token=u9kSkjOyQRHL3GH_KcEhUw&expires=1784469122
+#EXTVLCOPT:http-referrer=https://deportes.ksdjugfsddeports.com/librefutbol.php?stream=35_&exp=1784569480&sig=f2f8a33ed6d77ea8cdc0092d303edddd79f3480c054bfa1258169baf98458206
+https://deportes.ksdjugfsddeports.com:9092/MTg5LjE1Ni4yNDkuMTEy/35_.m3u8?token=WJwwnryhs6lkAmz6j3lN5A&expires=1784612650
+
+#EXTINF:-1 tvg-name="TUDN" tvg-logo="https://www.tvporinternet2.com/imge/tudn.webp" group-title="TvporinternetHD",TUDN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://deportes.ksdjugfsddeports.com/librefutbol.php?stream=1_&exp=1784569480&sig=7ea70fdcf3b67c9bb1ee41c535e50d4a2b04f29bb8fef5f407059a8d2bcfa477
+https://deportes.ksdjugfsddeports.com:9092/MTg5LjE1Ni4yNDkuMTEy/1_.m3u8?token=l2oxGuvW3U-T_uzMp_V09w&expires=1784612650
 
 #EXTINF:-1 tvg-name="Telefe" tvg-logo="https://www.tvporinternet2.com/imge/telefe.webp" group-title="TvporinternetHD",Telefe
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=3_&exp=1784426004&sig=7cd506ddc377a8140e4b14ca3e12745844cdeac9032c3e791e15d718754bea01
-https://regionales.saohgdasregions.fun:9092/MTg5LjIwMy4xMy4xNjM=/3_.m3u8?token=18vNwTnEuKXB-mn0mzXmzw&expires=1784469174
+#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=3_&exp=1784569498&sig=1a7d235c59c38437f47b590da6f75d2f1a596f91f3e83c299a8e0c82150650b6
+https://regionales.saohgdasregions.fun:9092/MTg5LjE1Ni4yNDkuMTEy/3_.m3u8?token=QQl-6KBK3plC67cAfke2bg&expires=1784612668
 
 #EXTINF:-1 tvg-name="Telemundo 51" tvg-logo="https://www.tvporinternet2.com/imge/telemundo51.webp" group-title="TvporinternetHD",Telemundo 51
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=6_&exp=1784425992&sig=c90323ad4db16011726feaf6cdc6e349350105c217249a566e70a240c80ceced
-https://regionales.saohgdasregions.fun:9092/MTg5LjIwMy4xMy4xNjM=/6_.m3u8?token=fVq0dw0eoMBUd3q15JC3zQ&expires=1784469162
+#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=6_&exp=1784569499&sig=5d628a996c2c28e96a5e8d2f3eb112ab9531986b543531f2cc33dc8f77887e14
+https://regionales.saohgdasregions.fun:9092/MTg5LjE1Ni4yNDkuMTEy/6_.m3u8?token=wqasi55A05iurRgc3QkSHg&expires=1784612670
 
 #EXTINF:-1 tvg-name="Telemundo Puerto Rico" tvg-logo="https://www.tvporinternet2.com/imge/telemundopuertorico.webp" group-title="TvporinternetHD",Telemundo Puerto Rico
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=7_&exp=1784425995&sig=36c589368858781c16c40cefe1f52d84017a4d12bc55dc7b18220ad83d80cc32
-https://regionales.saohgdasregions.fun:9092/MTg5LjIwMy4xMy4xNjM=/7_.m3u8?token=gUAxZfL6ia0LDaHkzMO7Ig&expires=1784469166
+#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=7_&exp=1784569500&sig=9cef629f0c9929f7d0df17968d3a0c54784ea9a1becf24229c360d5a17a266fd
+https://regionales.saohgdasregions.fun:9092/MTg5LjE1Ni4yNDkuMTEy/7_.m3u8?token=c0L6SFofy6IgN4LspT5IFw&expires=1784612670
 
 #EXTINF:-1 tvg-name="Tlnovelas" tvg-logo="https://www.tvporinternet2.com/imge/tlnovelas.webp" group-title="TvporinternetHD",Tlnovelas
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=12_&exp=1784425996&sig=54fc8c3272b5338330654b5df25fbacda935dae462d243b7ba6cf3cec95bd49a
-https://regionales.saohgdasregions.fun:9092/MTg5LjIwMy4xMy4xNjM=/12_.m3u8?token=Pl-dXKs9MKKAa-3vniAXSw&expires=1784469166
+#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=12_&exp=1784569501&sig=e7da04297e9909d6efa737a5a4568a16272b6e8abdac2b3420ca4e6e0df72439
+https://regionales.saohgdasregions.fun:9092/MTg5LjE1Ni4yNDkuMTEy/12_.m3u8?token=NgMllmwlZDEuRw_LU222MA&expires=1784612671
+
+#EXTINF:-1 tvg-name="Tooncast" tvg-logo="https://www.tvporinternet2.com/imge/tooncast.webp" group-title="TvporinternetHD",Tooncast
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=32_&exp=1784569510&sig=cbdad2da35584009d6969a27b87ec8251e5700337085311f1ec2b28651bb7832
+https://regionales.saohgdasregions.fun:9092/MTg5LjE1Ni4yNDkuMTEy/32_.m3u8?token=kjaBY_ZtO4iaUhQy5szunA&expires=1784612680
+
+#EXTINF:-1 tvg-name="TyC Sports" tvg-logo="https://www.tvporinternet2.com/imge/tycsports.webp" group-title="TvporinternetHD",TyC Sports
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://deportes.ksdjugfsddeports.com/librefutbol.php?stream=6_&exp=1784569483&sig=ff55e1f7b50447c5797e92bc11809bb9e712efc023adc23d4a43f54760448eb0
+https://deportes.ksdjugfsddeports.com:9092/MTg5LjE1Ni4yNDkuMTEy/6_.m3u8?token=pOrQDwkA-tfk1WDk1gUi2Q&expires=1784612654
 
 #EXTINF:-1 tvg-name="USA / Syfy" tvg-logo="https://www.tvporinternet2.com/imge/usa.webp" group-title="TvporinternetHD",USA / Syfy
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=57_&exp=1784426043&sig=dd33c8318a95a566fcd3c86b96adc0d26e3df0b0da1c4371d56e10a492bb875c
-https://regionales.saohgdasregions.fun:9092/MTg5LjIwMy4xMy4xNjM=/57_.m3u8?token=RROiLzkjc_QzIU1kRF4lQw&expires=1784469213
+#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=57_&exp=1784569518&sig=50459ac61a782d6426bb0298d87cf86a6abb602abb366763fc27bb7a179cb561
+https://regionales.saohgdasregions.fun:9092/MTg5LjE1Ni4yNDkuMTEy/57_.m3u8?token=Btwo0ZbpcOEN0J2QxqUQjA&expires=1784612688
+
+#EXTINF:-1 tvg-name="Unicable" tvg-logo="https://www.tvporinternet2.com/imge/unicable.webp" group-title="TvporinternetHD",Unicable
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=24_&exp=1784569506&sig=fcc4a850614ca767794755a7ab95b8bc19dcc157b2888c9ec527bbfed9fd523a
+https://regionales.saohgdasregions.fun:9092/MTg5LjE1Ni4yNDkuMTEy/24_.m3u8?token=SdNgc9f9Ro_Cdz9HVQ1drg&expires=1784612677
 
 #EXTINF:-1 tvg-name="Universal Channel" tvg-logo="https://www.tvporinternet2.com/imge/universalchannel.webp" group-title="TvporinternetHD",Universal Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=49_&exp=1784426031&sig=1cc0f7ab7ad9d2a23655d888ed31437ffd46e6cff1332f5b6353e15c8664e91b
-https://regionales.saohgdasregions.fun:9092/MTg5LjIwMy4xMy4xNjM=/49_.m3u8?token=Br6oAyUrDf_Hl4r7JFhAwA&expires=1784469201
+#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=49_&exp=1784569514&sig=d969f4ef20d67137a4a67edf73ccbbac4283a85b47e2458abb1372f3ee784cdf
+https://regionales.saohgdasregions.fun:9092/MTg5LjE1Ni4yNDkuMTEy/49_.m3u8?token=PRuQDPpItBpQ8Kz0YKAxrg&expires=1784612685
 
 #EXTINF:-1 tvg-name="Univision" tvg-logo="https://www.tvporinternet2.com/imge/univision.webp" group-title="TvporinternetHD",Univision
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=9_&exp=1784425995&sig=a6283195c064f9971e7e7402ef738dddf155a1fcfc660d766cb1e78435b9a2cf
-https://regionales.saohgdasregions.fun:9092/MTg5LjIwMy4xMy4xNjM=/9_.m3u8?token=Ci-tjlaWtgAxg9nE6zW3Tw&expires=1784469165
+#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=9_&exp=1784569500&sig=64935d9df60b218eae2598cadd93d3ec291445c3ebcd98af9a25631299bd6fec
+https://regionales.saohgdasregions.fun:9092/MTg5LjE1Ni4yNDkuMTEy/9_.m3u8?token=5TbCRYTy0dJIL2Hb0UBmQg&expires=1784612671
+
+#EXTINF:-1 tvg-name="VIX TUDN" tvg-logo="https://www.tvporinternet2.com/imge/tudnxtra.webp" group-title="TvporinternetHD",VIX TUDN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://deportes.ksdjugfsddeports.com/librefutbol.php?stream=1_&exp=1784569480&sig=7ea70fdcf3b67c9bb1ee41c535e50d4a2b04f29bb8fef5f407059a8d2bcfa477
+https://deportes.ksdjugfsddeports.com:9092/MTg5LjE1Ni4yNDkuMTEy/1_.m3u8?token=l2oxGuvW3U-T_uzMp_V09w&expires=1784612650
+
+#EXTINF:-1 tvg-name="Warner Channel" tvg-logo="https://www.tvporinternet2.com/imge/warnerbrostv.webp" group-title="TvporinternetHD",Warner Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/tvenvivo.php?stream=58_&exp=1784569518&sig=b965087963d949dd1d32bb42a85c4614a306baa8efcd958a082cb6c55cb6cf99
+https://regionales.saohgdasregions.fun:9092/MTg5LjE1Ni4yNDkuMTEy/58_.m3u8?token=Un1ipCj5DEhYg_k9z9N9Sw&expires=1784612689
 
 #EXTINF:-1 tvg-name="Win Sports Plus" tvg-logo="https://www.tvporinternet2.com/imge/winsportsplus.webp" group-title="TvporinternetHD",Win Sports Plus
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://deportes.ksdjugfsddeports.com/librefutbol.php?stream=30_&exp=1784425988&sig=7b235a6c1020760c670aec81127c12790c7601aaad63254f2eebe0407d6a1c33
-https://deportes.ksdjugfsddeports.com:9092/MTg5LjIwMy4xMy4xNjM=/30_.m3u8?token=J2pFoeyQS-r-MbSd-5O3ng&expires=1784469158
+#EXTVLCOPT:http-referrer=https://deportes.ksdjugfsddeports.com/librefutbol.php?stream=30_&exp=1784569498&sig=8d31dea90f4b42164f925216b51d25b492c828235994aac5fc8cfc24563aadb2
+https://deportes.ksdjugfsddeports.com:9092/MTg5LjE1Ni4yNDkuMTEy/30_.m3u8?token=FxZSSr0Amci-GKr9q1nq0g&expires=1784612668
