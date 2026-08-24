@@ -1,184 +1,243 @@
 #EXTM3U
-#EXTINF:-1,ComedyCentralHD
-http://185.246.209.113:80/ComedyCentralHD/index.m3u8
-#EXTINF:-1,AMCHD
-http://185.246.209.113:80/AMCHD/index.m3u8
-#EXTINF:-1,TLCHD
-http://185.246.209.113:80/TLCHD/index.m3u8
-#EXTINF:-1,ANIMALPLANETHD
-http://185.246.209.113:80/ANIMALPLANETHD/index.m3u8
-#EXTINF:-1,BET
-http://185.246.209.113:80/BET/index.m3u8
-#EXTINF:-1,Alibi
-http://185.246.209.113:80/Alibi/index.m3u8
-#EXTINF:-1,Hallmark
-http://185.246.209.113:80/Hallmark/index.m3u8
-#EXTINF:-1,Dmax
-http://185.246.209.113:80/Dmax/index.m3u8
-#EXTINF:-1,MSNBC
-http://185.246.209.113:80/MSNBC/index.m3u8
-#EXTINF:-1,MotorTrendHD
-http://185.246.209.113:80/MotorTrendHD/index.m3u8
-#EXTINF:-1,DiscoveryScience
-http://185.246.209.113:80/DiscoveryScience/index.m3u8
-#EXTINF:-1,BET
-http://185.246.209.113:80/BET/index.m3u8
-#EXTINF:-1,SkyArts
-http://185.246.209.113:80/SkyArts/index.m3u8
-#EXTINF:-1,HGTV
-http://185.246.209.113:80/HGTVHD/index.m3u8
-#EXTINF:-1,FYI
-http://185.246.209.113:80/FYIHD/index.m3u8
-#EXTINF:-1,LOVENATURE
-http://185.246.209.113:80/LOVENATUREHD/index.m3u8
-#EXTINF:-1,TSN5
-http://185.246.209.113:80/TSN5HD/index.m3u8
-#EXTINF:-1,MTV2
-http://185.246.209.113:80/MTV2HD/index.m3u8
-#EXTINF:-1,FoxSports1
-http://185.246.209.113:80/FoxSports1HD/index.m3u8
-#EXTINF:-1,DISCOVERY
-http://185.246.209.113:80/DISCOVERYHD/index.m3u8
-#EXTINF:-1,BBCEarth
-http://185.246.209.113:80/BBCEarthHD/index.m3u8
-#EXTINF:-1,NATGEO
-http://185.246.209.113:80/NATGEOHD/index.m3u8
-#EXTINF:-1,Spike
-http://185.246.209.113:80/SpikeHD/index.m3u8
-#EXTINF:-1,NBA
-http://185.246.209.113:80/NBAHD/index.m3u8
-
-#EXTINF:0,abc_hd
-http://190.11.225.124:5000/live/abc_hd/playlist.m3u8
-#EXTINF:0,aljazeera_hd
-http://190.11.225.124:5000/live/aljazeera_hd/playlist.m3u8
-#EXTINF:0,amc_hd
-http://190.11.225.124:5000/live/amc_hd/playlist.m3u8
-#EXTINF:0,animal_planet_hd
-http://190.11.225.124:5000/live/animal_planet_hd/playlist.m3u8
-#EXTINF:0,axn_hd
-http://190.11.225.124:5000/live/axn_hd/playlist.m3u8
-#EXTINF:0,azcinema_hd
-http://190.11.225.124:5000/live/azcinema_hd/playlist.m3u8
-#EXTINF:0,azcorazon_hd
-http://190.11.225.124:5000/live/azcorazon_hd/playlist.m3u8
-#EXTINF:0,azmundo_hd
-http://190.11.225.124:5000/live/azmundo_hd/playlist.m3u8
-#EXTINF:0,azteca7_hd
-http://190.11.225.124:5000/live/azteca7_hd/playlist.m3u8
-#EXTINF:0,canal11_hd
-http://190.11.225.124:5000/live/canal11_hd/playlist.m3u8
-#EXTINF:0,canal5_hd
-http://190.11.225.124:5000/live/canal5_hd/playlist.m3u8
-#EXTINF:0,cartoonito_hd
-http://190.11.225.124:5000/live/cartoonito_hd/playlist.m3u8
-#EXTINF:0,cbs_hd
-http://190.11.225.124:5000/live/cbs_hd/playlist.m3u8
-#EXTINF:0,cine_canal_hd
-http://190.11.225.124:5000/live/cine_canal_hd/playlist.m3u8
-#EXTINF:0,cnn_hd
-http://190.11.225.124:5000/live/cnn_hd/playlist.m3u8
-#EXTINF:0,comedycentral_hd
-http://190.11.225.124:5000/live/comedycentral_hd/playlist.m3u8
-#EXTINF:0,deportes_tvc_hd
-http://190.11.225.124:5000/live/deportes_tvc_hd/playlist.m3u8
-#EXTINF:0,dhe_hd
-http://190.11.225.124:5000/live/dhe_hd/playlist.m3u8
-#EXTINF:0,discovery_hd
-http://190.11.225.124:5000/live/discovery_hd/playlist.m3u8
-#EXTINF:0,discovery_id_hd
-http://190.11.225.124:5000/live/discovery_id_hd/playlist.m3u8
-#EXTINF:0,discovery_theater_hd
-http://190.11.225.124:5000/live/discovery_theater_hd/playlist.m3u8
-#EXTINF:0,discovery_world_hd
-http://190.11.225.124:5000/live/discovery_world_hd/playlist.m3u8
-#EXTINF:0,disney_hd
-http://190.11.225.124:5000/live/disney_hd/playlist.m3u8
-#EXTINF:0,disney_jr_hd
-http://190.11.225.124:5000/live/disney_jr_hd/playlist.m3u8
-#EXTINF:0,el_gourmet_hd
-http://190.11.225.124:5000/live/el_gourmet_hd/playlist.m3u8
-#EXTINF:0,espn_2_hd
-http://190.11.225.124:5000/live/espn_2_hd/playlist.m3u8
-#EXTINF:0,espn_3_hd
-http://190.11.225.124:5000/live/espn_3_hd/playlist.m3u8
-#EXTINF:0,espn_4_hd
-http://190.11.225.124:5000/live/espn_4_hd/playlist.m3u8
-#EXTINF:0,espn_5_hd
-http://190.11.225.124:5000/live/espn_5_hd/playlist.m3u8
-#EXTINF:0,espn_6_hd
-http://190.11.225.124:5000/live/espn_6_hd/playlist.m3u8
-#EXTINF:0,estrellas_hd
-http://190.11.225.124:5000/live/estrellas_hd/playlist.m3u8
-#EXTINF:0,foodnetwork_hd
-http://190.11.225.124:5000/live/foodnetwork_hd/playlist.m3u8
-#EXTINF:0,fox_news_hd
-http://190.11.225.124:5000/live/fox_news_hd/playlist.m3u8
-#EXTINF:0,freeform_hd
-http://190.11.225.124:5000/live/freeform_hd/playlist.m3u8
-#EXTINF:0,fs1_hd
-http://190.11.225.124:5000/live/fs1_hd/playlist.m3u8
-#EXTINF:0,fx_hd
-http://190.11.225.124:5000/live/fx_hd/playlist.m3u8
-#EXTINF:0,golden_hd
-http://190.11.225.124:5000/live/golden_hd/playlist.m3u8
-#EXTINF:0,golf_hd
-http://190.11.225.124:5000/live/golf_hd/playlist.m3u8
-#EXTINF:0,hbo_family_hd
-http://190.11.225.124:5000/live/hbo_family_hd/playlist.m3u8
-#EXTINF:0,hbo_plus_hd
-http://190.11.225.124:5000/live/hbo_plus_hd/playlist.m3u8
-#EXTINF:0,hbo_signature_hd
-http://190.11.225.124:5000/live/hbo_signature_hd/playlist.m3u8
-#EXTINF:0,hbo_xtreme_hd
-http://190.11.225.124:5000/live/hbo_xtreme_hd/playlist.m3u8
-#EXTINF:0,hch_hd
-http://190.11.225.124:5000/live/hch_hd/playlist.m3u8
-#EXTINF:0,history_hd
-http://190.11.225.124:5000/live/history_hd/playlist.m3u8
-#EXTINF:0,home_health_hd
-http://190.11.225.124:5000/live/home_health_hd/playlist.m3u8
-#EXTINF:0,htv_hd
-http://190.11.225.124:5000/live/htv_hd/playlist.m3u8
-#EXTINF:0,ltv_hd
-http://190.11.225.124:5000/live/ltv_hd/playlist.m3u8
-#EXTINF:0,natgeo_hd
-http://190.11.225.124:5000/live/natgeo_hd/playlist.m3u8
-#EXTINF:0,nbc_hd
-http://190.11.225.124:5000/live/nbc_hd/playlist.m3u8
-#EXTINF:0,paramount_hd
-http://190.11.225.124:5000/live/paramount_hd/playlist.m3u8
-#EXTINF:0,penthouse_hd
-http://190.11.225.124:5000/live/penthouse_hd/playlist.m3u8
-#EXTINF:0,playboy_hd
-http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
-#EXTINF:0,showtime_hd
+#EXTINF:0 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/a-and-e-us.png",A&E
+#EXTVLCOPT:network-caching=1000
+http://45.167.1.138:8000/play/a03g
+#EXTINF:0 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/a-and-e-us.png",A&E HD
+#EXTVLCOPT:network-caching=1000
+http://45.167.1.138:8000/play/a05j
+#EXTINF:0 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/mexico/a-mas-mx.png",A+ GUA
+#EXTVLCOPT:network-caching=1000
+http://45.167.1.138:8000/play/a01r
+#EXTINF:0 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/amc-us.png",AMC
+#EXTVLCOPT:network-caching=1000
+http://45.167.1.138:8000/play/a01h
+#EXTINF:0 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/amc-us.png",AMC HD
+#EXTVLCOPT:network-caching=1000
+http://45.167.1.138:8000/play/a05k
+#EXTINF:0 tvg-id="" tvg-logo="",AXN
+#EXTVLCOPT:network-caching=1000
+http://45.167.1.138:8000/play/a01f
+#EXTINF:0 tvg-id="" tvg-logo="",AXN HD
+#EXTVLCOPT:network-caching=1000
+http://45.167.1.138:8000/play/a04s
+#EXTINF:0 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cartoon-network-us.png",Cartoon Network
+#EXTVLCOPT:network-caching=1000
+http://45.167.1.137:8000/play/a00w
+#EXTINF:0 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/cartoonito-lam.png",Cartoonito
+#EXTVLCOPT:network-caching=1000
+http://45.167.1.137:8000/play/a00y
+#EXTINF:0 tvg-id="" tvg-logo="",Cine Latino
+#EXTVLCOPT:network-caching=1000
+http://45.167.1.137:8000/play/a04l
+#EXTINF:0 tvg-id="" tvg-logo="",Cine Premium HD
+#EXTVLCOPT:network-caching=1000
+http://45.167.1.137:8000/play/a06s
+#EXTINF:0 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/cine-canal-lam.png",CineCanal
+#EXTVLCOPT:network-caching=1000
+http://45.167.1.137:8000/play/a04o
+#EXTINF:0 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/cinemax-lam.png",CineMax
+#EXTVLCOPT:network-caching=1000
+http://45.167.1.137:8000/play/a04m
+#EXTINF:0 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/comedy-central-us.png",Comedy Central HD
+#EXTVLCOPT:network-caching=1000
+http://45.167.1.137:8000/play/a060
+#EXTINF:0 tvg-id="" tvg-logo="",Concert Channel
+#EXTVLCOPT:network-caching=1000
+http://45.167.1.137:8000/play/a04i
+#EXTINF:0 tvg-id="" tvg-logo="",DHE
+#EXTVLCOPT:network-caching=1000
+http://45.167.1.137:8000/play/a00b
+#EXTINF:0 tvg-id="" tvg-logo="",DHE HD
+#EXTVLCOPT:network-caching=1000
+http://45.167.1.137:8000/play/a05p
+#EXTINF:0 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/discovery-channel-us.png",Discovery Channel
+#EXTVLCOPT:network-caching=1000
+http://45.167.1.137:8000/play/a03h
+#EXTINF:0 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/discovery-channel-us.png",Discovery Channel HD
+#EXTVLCOPT:network-caching=1000
+http://45.167.1.137:8000/play/a06h
+#EXTINF:0 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/discovery-home-and-health-lam.png",Discovery Home & Health
+#EXTVLCOPT:network-caching=1000
+http://45.167.1.137:8000/play/a04b
+#EXTINF:0 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/investigation-discovery-us.png",Discovery ID HD
+#EXTVLCOPT:network-caching=1000
+http://45.167.1.137:8000/play/a06l
+#EXTINF:0 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/discovery-kids-lam.png",Discovery Kids
+#EXTVLCOPT:network-caching=1000
+http://45.167.1.137:8000/play/a045
+#EXTINF:0 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/discovery-turbo-lat.png",Discovery Turbo
+#EXTVLCOPT:network-caching=1000
+http://45.167.1.137:8000/play/a04a
+#EXTINF:0 tvg-id="" tvg-logo="",Discovery World HD
+#EXTVLCOPT:network-caching=1000
+http://45.167.1.137:8000/play/a06i
+#EXTINF:0 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/disney-channel-lam.png",Disney
+#EXTVLCOPT:network-caching=1000
+http://45.167.1.137:8000/play/a047
+#EXTINF:0 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/disney-jr-lam.png",Disney JR
+#EXTVLCOPT:network-caching=1000
+http://45.167.1.137:8000/play/a00z
+#EXTINF:0 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/e-entertainment-us.png",E!
+#EXTVLCOPT:network-caching=1000
+http://45.167.1.137:8000/play/a03f
+#EXTINF:0 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/e-entertainment-us.png",E! Entertainment HD
+#EXTVLCOPT:network-caching=1000
+http://45.167.1.137:8000/play/a05h
+#EXTINF:0 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/el-gourmet-lam.png",El Gourmet
+#EXTVLCOPT:network-caching=1000
+http://45.167.1.137:8000/play/a02h
+#EXTINF:0 tvg-id="" tvg-logo="",Exa TV
+#EXTVLCOPT:network-caching=1000
+http://45.167.1.137:8000/play/a03n
+#EXTINF:0 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/fx-lam.png",FX
+#EXTVLCOPT:network-caching=1000
+http://45.167.1.137:8000/play/a02d
+#EXTINF:0 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/fx-lam.png",FX HD
+#EXTVLCOPT:network-caching=1000
+http://45.167.1.137:8000/play/a05m
+#EXTINF:0 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/golden-lam.png",Golden
+#EXTVLCOPT:network-caching=1000
+http://45.167.1.137:8000/play/a02r
+#EXTINF:0 tvg-id="" tvg-logo="",Golf Channel HD
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0 tvg-id="" tvg-logo="",H2
+#EXTVLCOPT:network-caching=1000
+http://45.167.1.137:8000/play/a02g
+#EXTINF:0 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/hbo-lam.png",HBO Family HD
+#EXTVLCOPT:network-caching=1000
+http://45.167.1.137:8000/play/a00k
+#EXTINF:0 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/hbo-lam.png",HBO HD
+#EXTVLCOPT:network-caching=1000
+http://45.167.1.137:8000/play/a00h
+#EXTINF:0 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/hbo-lam.png",HBO Plus HD
+#EXTVLCOPT:network-caching=1000
+http://45.167.1.137:8000/play/a00j
+#EXTINF:0 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/hbo-lam.png",HBO XTREME
+#EXTVLCOPT:network-caching=1000
+http://45.167.1.137:8000/play/a00l
+#EXTINF:0 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/hbo-lam.png",HBO2 HD
+#EXTVLCOPT:network-caching=1000
+http://45.167.1.137:8000/play/a00i
+#EXTINF:0 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/history-channel-lam.png",History Channel
+#EXTVLCOPT:network-caching=1000
+http://45.167.1.137:8000/play/a03j
+#EXTINF:0 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/history-channel-lam.png",History HD
+#EXTVLCOPT:network-caching=1000
+http://45.167.1.137:8000/play/a01n
+#EXTINF:0 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/discovery-home-and-health-hd-lam.png",Home & Health HD
+#EXTVLCOPT:network-caching=1000
+http://45.167.1.137:8000/play/a05y
+#EXTINF:0 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/investigation-discovery-us.png",ID
+#EXTVLCOPT:network-caching=1000
+http://45.167.1.137:8000/play/a04c
+#EXTINF:0 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/lifetime-us.png",LIFE TIME
+#EXTVLCOPT:network-caching=1000
+http://45.167.1.137:8000/play/a01a
+#EXTINF:0 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/national-geographic-lam.png",Nat Geo HD
+#EXTVLCOPT:network-caching=1000
+http://45.167.1.137:8000/play/a06e
+#EXTINF:0 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/national-geographic-lam.png",National Geographic
+#EXTVLCOPT:network-caching=1000
+http://45.167.1.137:8000/play/a019
+#EXTINF:0 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/paramount-network-us.png",Paramount
+#EXTVLCOPT:network-caching=1000
+http://45.167.1.137:8000/play/a00c
+#EXTINF:0 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/paramount-network-us.png",Paramount HD
+#EXTVLCOPT:network-caching=1000
+http://45.167.1.137:8000/play/a06f
+#EXTINF:0 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/showtime-us.png",showtime_hd
+#EXTVLCOPT:network-caching=1000
 http://190.11.225.124:5000/live/showtime_hd/playlist.m3u8
-#EXTINF:0,sony_hd
+#EXTINF:0 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/sony-channel-lam.png",SONY
+#EXTVLCOPT:network-caching=1000
+http://45.167.1.137:8000/play/a03d
+#EXTINF:0 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/sony-channel-lam.png",SONY HD
+#EXTVLCOPT:network-caching=1000
+http://45.167.1.137:8000/play/a03r
+#EXTINF:0 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/sony-channel-lam.png",sony_hd
+#EXTVLCOPT:network-caching=1000
 http://190.11.225.124:5000/live/sony_hd/playlist.m3u8
-#EXTINF:0,space_hd
+#EXTINF:0 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/sony-movies-us.png",Sony Movies HD
+#EXTVLCOPT:network-caching=1000
+http://45.167.1.137:8000/play/a05o
+#EXTINF:0 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/space-lam.png",SPACE
+#EXTVLCOPT:network-caching=1000
+http://45.167.1.137:8000/play/a015
+#EXTINF:0 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/space-lam.png",SPACE HD
+#EXTVLCOPT:network-caching=1000
+http://45.167.1.137:8000/play/a04t
+#EXTINF:0 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/space-lam.png",space_hd
+#EXTVLCOPT:network-caching=1000
 http://190.11.225.124:5000/live/space_hd/playlist.m3u8
-#EXTINF:0,starz_hd
+#EXTINF:0 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/star-channel-lam.png",STAR CHANNEL
+#EXTVLCOPT:network-caching=1000
+http://45.167.1.137:8000/play/a048
+#EXTINF:0 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/star-channel-lam.png",STAR CHANNEL HD
+#EXTVLCOPT:network-caching=1000
+http://45.167.1.137:8000/play/a03p
+#EXTINF:0 tvg-id="" tvg-logo="",Star TVE HD
+#EXTVLCOPT:network-caching=1000
+http://45.167.1.137:8000/play/a05r
+#EXTINF:0 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/starz-us.png",starz_hd
+#EXTVLCOPT:network-caching=1000
 http://190.11.225.124:5000/live/starz_hd/playlist.m3u8
-#EXTINF:0,studio_universal_hd
-http://190.11.225.124:5000/live/studio_universal_hd/playlist.m3u8
-#EXTINF:0,telehit_hd
+#EXTINF:0 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/studio-universal-lam.png",Studio Universal
+#EXTVLCOPT:network-caching=1000
+http://45.167.1.137:8000/play/a04n
+#EXTINF:0 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/studio-universal-lam.png",Studio Universal HD
+#EXTVLCOPT:network-caching=1000
+http://45.167.1.137:8000/play/a05f
+#EXTINF:0 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/mexico/telehit-mx.png",telehit_hd
+#EXTVLCOPT:network-caching=1000
 http://190.11.225.124:5000/live/telehit_hd/playlist.m3u8
-#EXTINF:0,telemundo_hd
-http://190.11.225.124:5000/live/telemundo_hd/playlist.m3u8
-#EXTINF:0,ten_hd
-http://190.11.225.124:5000/live/ten_hd/playlist.m3u8
-#EXTINF:0,tnh_hd
-http://190.11.225.124:5000/live/tnh_hd/playlist.m3u8
-#EXTINF:0,tnt_hd
-http://190.11.225.124:5000/live/tnt_hd/playlist.m3u8
-#EXTINF:0,tve_hd
-http://190.11.225.124:5000/live/tve_hd/playlist.m3u8
-#EXTINF:0,universal_hd
-http://190.11.225.124:5000/live/universal_hd/playlist.m3u8
-#EXTINF:0,universo_hd
+#EXTINF:0 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tnt-us.png",TNT
+#EXTVLCOPT:network-caching=1000
+http://45.167.1.137:8000/play/a01g
+#EXTINF:0 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tnt-us.png",TNT HD
+#EXTVLCOPT:network-caching=1000
+http://45.167.1.137:8000/play/a05w
+#EXTINF:0 tvg-id="" tvg-logo="",TNT Novelas
+#EXTVLCOPT:network-caching=1000
+http://45.167.1.137:8000/play/a018
+#EXTINF:0 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/tnt-series-lam.png",TNT Series
+#EXTVLCOPT:network-caching=1000
+http://45.167.1.137:8000/play/a016
+#EXTINF:0 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/tnt-series-lam.png",TNT Series HD
+#EXTVLCOPT:network-caching=1000
+http://45.167.1.137:8000/play/a06g
+#EXTINF:0 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/tooncast-lam.png",Tooncast
+#EXTVLCOPT:network-caching=1000
+http://45.167.1.137:8000/play/a03a
+#EXTINF:0 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/studio-universal-lam.png",UNIVERSAL CINEMA ESTE HD
+#EXTVLCOPT:network-caching=1000
+http://45.167.1.137:8000/play/a06m
+#EXTINF:0 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/studio-universal-lam.png",UNIVERSAL COMEDY HD
+#EXTVLCOPT:network-caching=1000
+http://45.167.1.137:8000/play/a067
+#EXTINF:0 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/studio-universal-lam.png",UNIVERSAL CRIME HD
+#EXTVLCOPT:network-caching=1000
+http://45.167.1.137:8000/play/a066
+#EXTINF:0 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/studio-universal-lam.png",UNIVERSAL PREMIERE HD
+#EXTVLCOPT:network-caching=1000
+http://45.167.1.137:8000/play/a063
+#EXTINF:0 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/studio-universal-lam.png",UNIVERSAL PREMIERE O HD
+#EXTVLCOPT:network-caching=1000
+http://45.167.1.137:8000/play/a064
+#EXTINF:0 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/studio-universal-lam.png",UNIVERSAL REALITY HD
+#EXTVLCOPT:network-caching=1000
+http://45.167.1.137:8000/play/a065
+#EXTINF:0 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/studio-universal-lam.png",Universal
+#EXTVLCOPT:network-caching=1000
+http://45.167.1.137:8000/play/a04j
+#EXTINF:0 tvg-id="" tvg-logo="",universo_hd
+#EXTVLCOPT:network-caching=1000
 http://190.11.225.124:5000/live/universo_hd/playlist.m3u8
-#EXTINF:0,usa_hd
+#EXTINF:0 tvg-id="" tvg-logo="",usa_hd
+#EXTVLCOPT:network-caching=1000
 http://190.11.225.124:5000/live/usa_hd/playlist.m3u8
-#EXTINF:0,warner_hd
-http://190.11.225.124:5000/live/warner_hd/playlist.m3u8
+#EXTINF:0 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/warner-channel-lam.png",WARNER HD
+#EXTVLCOPT:network-caching=1000
+http://45.167.1.137:8000/play/a03q
+#EXTINF:0 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/warner-channel-lam.png",Warner
+#EXTVLCOPT:network-caching=1000
+http://45.167.1.137:8000/play/a03e
