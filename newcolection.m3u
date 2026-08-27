@@ -1,0 +1,307 @@
+#EXTM3U
+#EXTINF:-1,RCN 720
+http://181.205.130.194:4000/play/a08f
+#EXTINF:-1,RCN
+http://181.78.23.26:45000/play/a02h
+#EXTINF:-1,Telepacífico (1)
+https://play.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/022/playlist.m3u8
+#EXTINF:-1,CanalUno 720
+http://181.205.130.194:4000/play/a0az
+#EXTINF:-1,Señal Colombia
+https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
+#EXTINF:-1,Canal Institucional
+https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8
+#EXTINF:-1,DW Español
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+#EXTINF:-1,Garage TV
+https://stream1.sersat.com/hls/garagetv.m3u8
+#EXTINF:-1,AMC en Espanol
+https://amc-amcespanol-1-us.vizio.wurl.tv/playlist.m3u8
+#EXTINF:-1,CGTN Español
+https://global.cgtn.cicc.media.caton.cloud/master/cgtn-espanol.m3u8?ads.islive=1&ads.streamtype=live
+#EXTINF:-1,Autos PowerNation
+https://amg01258-raycomsports-powernationspanish-canelatv-5h8dc.amagi.tv/playlist/amg01258-raycomsports-powernationspanish-canelatv/playlist.m3u8
+#EXTINF:-1,CaliTV
+https://5ab772334c39c.streamlock.net/live-calitv/_definst_/calitv1/playlist.m3u8
+#EXTINF:-1,Love The Planet
+https://amg01821-lovetvchannels-lovetheplanetsp-tivify-tivify-vycsr.amagi.tv/480p/index.m3u8
+#EXTINF:-1,Sony Cine
+https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
+#EXTINF:-1,H&H
+http://181.205.130.194:4000/play/a080
+#EXTINF:-1,ESPN5
+http://181.205.130.194:4000/play/a085
+#EXTINF:-1,hbo2  720
+http://181.205.130.194:4000/play/a0do
+#EXTINF:-1,hbo+ 720
+http://181.205.130.194:4000/play/a0dp
+#EXTINF:-1,hboXtreme 720
+http://181.205.130.194:4000/play/a0dq
+#EXTINF:-1,hbo family 720
+http://181.205.130.194:4000/play/a0dr
+#EXTINF:-1,cinecanal 720
+http://181.205.130.194:4000/play/a06e
+#EXTINF:-1,universal tv 720
+http://181.205.130.194:4000/play/a06f
+#EXTINF:-1,star channel 720
+http://181.205.130.194:4000/play/a06k
+#EXTINF:-1,tcm 720
+http://181.205.130.194:4000/play/a06l
+#EXTINF:-1,CartoonNetwork 720
+http://181.205.130.194:4000/play/a06m
+#EXTINF:-1,TNT hd 720
+http://181.205.130.194:4000/play/a06n
+#EXTINF:-1,ClaroSport 720
+http://181.205.130.194:4000/play/a06o
+#EXTINF:-1,Enlace 720
+http://181.205.130.194:4000/play/a06r
+#EXTINF:-1,tve 720
+http://181.205.130.194:4000/play/a06s
+#EXTINF:-1,LifeTime 720
+http://181.205.130.194:4000/play/a06u
+#EXTINF:-1,usa 720
+http://181.205.130.194:4000/play/a06v
+#EXTINF:-1,DisneyChannel 720
+http://181.205.130.194:4000/play/a07c
+#EXTINF:-1,espn2 720
+http://181.205.130.194:4000/play/a07i
+#EXTINF:-1,espn1 720
+http://181.205.130.194:4000/play/a07j
+#EXTINF:-1,A&E 720
+http://181.205.130.194:4000/play/a07n
+#EXTINF:-1,tlc 720
+http://181.205.130.194:4000/play/a07p
+#EXTINF:-1,espn7 720
+http://181.205.130.194:4000/play/a07s
+#EXTINF:-1,espn6 720
+http://181.205.130.194:4000/play/a07t
+#EXTINF:-1,RCN 720
+http://181.205.130.194:4000/play/a08f
+#EXTINF:-1,SeñalColombia 720
+http://181.205.130.194:4000/play/a08k
+#EXTINF:-1,ESPN 720
+http://181.205.130.194:4000/play/a08n
+#EXTINF:-1,Win+ 720
+http://181.205.130.194:4000/play/a0ck
+#EXTINF:-1,Nickelodeon FHD
+http://181.205.130.194:4000/play/a0ea
+#EXTINF:-1,Espn6 FHD
+http://181.205.130.194:4000/play/a0eh
+#EXTINF:-1,ComedyCentral FHD
+http://181.205.130.194:4000/play/a0en
+#EXTINF:-1,Gourmet FHD
+http://181.205.130.194:4000/play/a0eo
+#EXTINF:-1,HBO FHD
+http://181.205.130.194:4000/play/a0ez
+#EXTINF:-1,DiscoveryKids 720
+http://181.205.130.194:4000/play/a0ac
+#EXTINF:-1,DisneyJunior 720
+http://181.205.130.194:4000/play/a0ae
+#EXTINF:-1,DiscoveryKids 720
+http://181.205.130.194:4000/play/a0aj
+#EXTINF:-1,CNN 720
+http://181.205.130.194:4000/play/a0ak
+#EXTINF:-1,DisneyJunior 720
+http://181.205.130.194:4000/play/a0ao
+#EXTINF:-1,Studio 720
+http://181.205.130.194:4000/play/a0aq
+#EXTINF:-1,CanalUno 720
+http://181.205.130.194:4000/play/a0az
+#EXTINF:-1,RCN 720
+http://181.78.23.26:45000/play/a02h
+#EXTINF:-1,AXN 720
+http://181.78.23.26:45000/play/a030
+#EXTINF:-1,City TV 720
+http://181.78.23.26:45000/play/a02v
+#EXTINF:-1,Sony Channel 720
+http://181.78.23.26:45000/play/a02z
+#EXTINF:-1,TLC 720
+http://181.78.23.26:45000/play/a01o
+#EXTINF:-1,Cine Canal 720
+http://181.78.23.26:45000/play/a006
+#EXTINF:-1,Cine Familiar  HD 1280
+http://181.78.23.26:45000/play/a03u
+#EXTINF:-1,Cine Hispano HD 1280
+http://181.78.23.26:45000/play/a03v
+#EXTINF:-1,Cine Premium HD 1280
+http://181.78.23.26:45000/play/a03x
+#EXTINF:-1,TyC Sports 720
+http://181.78.23.26:45000/play/a04m
+#EXTINF:-1,Hbo FHD
+http://45.228.234.30:16000/play/a008
+#EXTINF:-1,Hbo2 FHD
+http://45.228.234.30:16000/play/a009
+#EXTINF:-1,Hbo+ FHD
+http://45.228.234.30:16000/play/a00a
+#EXTINF:-1,Hbo family FHD
+http://45.228.234.30:16000/play/a00b
+#EXTINF:-1,Hbo xtreme FHD
+http://45.228.234.30:16000/play/a00c
+#EXTINF:-1,Paramount SD
+http://45.228.234.30:16000/play/a004
+#EXTINF:-1,Dhe SD
+http://45.228.234.30:16000/play/a003
+#EXTINF:-1,History FHD
+http://45.228.234.30:16000/play/a011
+#EXTINF:-1,Multipremier SD
+http://45.228.234.30:16000/play/a025
+#EXTINF:-1,Cinemax SD
+http://45.228.234.30:16000/play/a027
+#EXTINF:-1,Studio SD
+http://45.228.234.30:16000/play/a028
+#EXTINF:-1,Cinecanal FHD
+http://45.228.234.30:16000/play/a01q
+#EXTINF:-1,SonyChannel FHD
+http://45.228.234.30:16000/play/a01p
+#EXTINF:-1,Space FHD
+http://45.228.234.30:16000/play/a02e
+#EXTINF:-1,Star FHD
+http://45.228.234.30:16000/play/a01n
+#EXTINF:-1,Warner FHD
+http://45.228.234.30:16000/play/a01o
+#EXTINF:-1,Natgeo SD
+http://45.228.234.30:16000/play/a00q
+#EXTINF:-1,Espn6 SD
+http://45.228.234.30:16000/play/a00r
+#EXTINF:-1,Axn SD
+http://45.228.234.30:16000/play/a00u
+#EXTINF:-1,Tnt SD
+http://45.228.234.30:16000/play/a00v
+#EXTINF:-1,Cnn SD
+http://45.228.234.30:16000/play/a00x
+#EXTINF:-1,SonyChannel SD
+http://45.228.234.30:16000/play/a01b
+#EXTINF:-1,A&E SD
+http://45.228.234.30:16000/play/a01e
+#EXTINF:-1,Discovery SD
+http://45.228.234.30:16000/play/a01g
+#EXTINF:-1,AnimalPlanet SD
+http://45.228.234.30:16000/play/a01h
+#EXTINF:-1,History SD
+http://45.228.234.30:16000/play/a01i
+#EXTINF:-1,Tlc SD
+http://45.228.234.30:16000/play/a01j
+#EXTINF:-1,Turbo SD
+http://45.228.234.30:16000/play/a01w
+#EXTINF:-1,H&h SD
+http://45.228.234.30:16000/play/a01x
+#EXTINF:-1,TUDN FHD
+http://45.228.234.30:16000/play/a02x
+#EXTINF:-1,SkySport FHD
+http://45.228.234.30:16000/play/a03h
+#EXTINF:-1,Espn4 FHD
+http://45.228.234.30:16000/play/a03i
+#EXTINF:-1, MAX SPORT 3 🇧🇬
+http://77.46.130.252:99/maxsport3
+#EXTINF:-1, SKY SPORT LALIGA 🇲🇽
+http://179.60.224.196:8000/play/a0i7/index.m3u8
+#EXTINF:-1, MAX SPORT 4 🇧🇬
+http://77.46.130.252:99/maxsport4
+#EXTINF:-1, Digi Sport 2 🇷🇴
+http://91.201.172.14:35006/
+#EXTINF:-1, Матч! 🇷🇺
+http://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
+#EXTINF:-1, DSPORTS 1 🇦🇷
+http://190.117.20.37:8000/play/a08d/index.m3u8
+#EXTINF:-1, ESPN 2 🇦🇷
+http://181.205.130.194:4000/play/a07i
+#EXTINF:-1, ESPN 2 🇦🇷
+http://191.97.49.82:8001/play/a00m/index.m3u8
+#EXTINF:-1, Bein Sport 1 🇫🇷
+http://99.27.51.147:8080/BeinSport/index.m3u8
+#EXTINF:-1, Bein Sport 3 🇫🇷
+http://99.27.51.147:8080/BeinSport3/index.m3u8
+#EXTINF:-1, Матч! 🇷🇺
+http://tv.tuva.ru/machtv/index.m3u8
+#EXTINF:-1, Матч! 🇷🇺
+http://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
+#EXTINF:-1, Матч! 🇷🇺
+http://5.188.221.43:8080/play/match
+#EXTINF:-1, Матч! 🇷🇺
+http://95.47.155.244:8001/play/a003
+#EXTINF:-1, МАТЧ! ФУТБOЛ 3HD 🇷🇺
+http://185.57.68.33/110/mpegts
+#EXTINF:-1, Setanta Sport 🇺🇦
+http://217.174.225.146/hls/ch004_720/index.m3u8
+#EXTINF:-1, Суспільне Kiev Спорт HD 🇺🇦
+https://tva.in.ua/live/susp-sport.m3u8?key=fas-tv.com
+#EXTINF:-1, RTSH Sport 🇦🇱
+http://217.73.139.200:5443/play/a01d
+#EXTINF:-1, CT SPORT HD 🇨🇿
+http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
+#EXTINF:-1, SPORT 1 HD 🇨🇿
+http://88.212.15.19/live/test_sport1_25p/playlist.m3u8
+#EXTINF:-1, SPORT 2 HD 🇨🇿
+http://88.212.15.19/live/test_sport_2/playlist.m3u8
+#EXTINF:-1, ARENA SPORT 1 🇨🇿
+http://88.212.15.19/live/test_arenasport/playlist.m3u8
+#EXTINF:-1, ARENA SPORT 2 🇨🇿
+http://88.212.15.19/live/test_arenasport_dva/playlist.m3u8
+#EXTINF:-1, MAX SPORT 1 🇧🇬
+http://77.46.130.252:99/maxsport1
+#EXTINF:-1, MAX SPORT 2 🇧🇬
+http://77.46.130.252:99/maxsport2
+#EXTINF:-1, MAX SPORT 3 🇧🇬
+http://77.46.130.252:99/maxsport3
+#EXTINF:-1, MAX SPORT 4 🇧🇬
+http://77.46.130.252:99/maxsport4
+#EXTINF:-1, 2TV Sport 🇳🇴
+https://tv.cdn.xsg.ge/gpb-2tv/index.m3u8
+#EXTINF:-1,  ORF+ 🇦🇹
+http://212.186.45.34:9981/stream/channelid/906723447?profile=pass
+#EXTINF:-1,BEIN SPORT EXTRA Ñ 🇪🇸
+https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
+#EXTINF:-1, DSPORTS 1 🇦🇷
+http://190.117.20.37:8000/play/a08d/index.m3u8
+#EXTINF:-1, ESPN 2 🇦🇷
+http://181.205.130.194:4000/play/a07i
+#EXTINF:-1, TELECOSTA GUATEMALA 🇬🇹
+https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
+#EXTINF:-1,TELEMUNDO 🇲🇽
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+#EXTINF:-1,TELEMUNDO 🇲🇽
+https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_profile1.m3u8
+#EXTINF:-1, AYM SPORT 🇺🇸
+https://aym-as.otteravision.com/aym/as/as_720p_high.m3u8
+#EXTINF:-1, SPORTYTV 🇨🇿
+https://dash2.antik.sk/live/sporty_tv/index.m3u8
+#EXTINF:-1, X SPORT 🇷🇺
+http://iptv.prosto.tv:7000/ch109/video.m3u8
+#EXTINF:-1, Turkmenistan Sport 🇹🇲
+https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
+#EXTINF:-1, Turkmenistan Sport 🇹🇲
+http://217.174.225.146/legacyhls/ch004_720/index.m3u8
+#EXTINF:-1, Turkmenistan Sport 🇹🇲
+http://217.174.225.146/hls/ch004_720/index.m3u8
+#EXTINF:-1,HT SPOR 🇹🇷
+https://ciner-live.ercdn.net/htspor/htspor_1080p.m3u8
+#EXTINF:-1, HTSpor TV 🇹🇷
+https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web
+#EXTINF:-1, EKOL SPORTS 🇹🇷
+https://ekoltv-live.ercdn.net/ekolsport/ekolsport.m3u8
+#EXTINF:-1, TR Sport (480p) 🇮🇹
+https://livetr.teleromagna.it/mia/live/playlist.m3u8
+#EXTINF:-1,KTV SPORTS 🇮🇳
+https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8
+#EXTINF:-1, MMN Sport 🇸🇦
+http://mmn.mypsx.net:1935/live/mmnhdsport/chunklist.m3u8
+#EXTINF:-1, MASR 🇶🇦
+https://shls-masr-ak.akamaized.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8
+#EXTINF:-1, MASR 🇶🇦
+https://shls-masr-ak.akamaized.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8
+#EXTINF:-1, Africa 24 Sport 🇳🇬
+https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
+#EXTINF:-1, TELETRAK 🇨🇱
+http://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
+#EXTINF:-1,MAX SPORT 3 🇧🇬
+http://77.46.130.252:99/maxsport3
+#EXTINF:-1, Sport5 🇮🇱
+https://rgelive.akamaized.net/hls/live/2043151/radiolive/playlist.m3u8
+#EXTINF:-1, Sport5 🇮🇱
+https://rgelive.akamaized.net/hls/live/2043095/live3/playlist.m3u8
+#EXTINF:-1, ESPN 🇦🇷
+http://181.118.156.46:8000/play/a04g/index.m3u8
+#EXTINF:-1, ESPN 2 🇨🇴
+http://200.10.30.241:8000/play/a01r/index.m3u8
+#EXTINF:-1, MAX SPORT 3 🇧🇬
+http://77.46.130.252:99/maxsport3
